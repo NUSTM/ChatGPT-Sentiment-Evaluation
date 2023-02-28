@@ -13,6 +13,9 @@ ABSA Prompt Templates
     
     
 ## SST
+
+SA Prompt Templates
+
     Can you analyze the sentiment of this statement and classify it as positive or negative? Statement: {sentence}
     
     Using sentiment analysis, determine whether the overall tone of this text is positive or negative. Text: {sentence}
