@@ -3,7 +3,7 @@
 
 ## ABSA
 
-ABSA Prompt Templates
+#### Simple Prompts
 
     *Given a sentence or text, extract the aspect term(s) and determine their corresponding sentiment polarity. Text: {sentence}*
 
@@ -11,10 +11,13 @@ ABSA Prompt Templates
 
     Analyze the aspect term(s) and sentiment polarity in a social media post or tweet related to a topic or subject. Post: {sentence}
     
+#### Complex Instructions (ICL)
+
+`I want you to act as an annotator for the Aspect-Based Sentiment Analysis task. I will provide you with a customer review, and you will understand it, extract the aspect terms and predict the corresponding sentiment polarity in this review. Make sure that the aspect terms are present in the review. I want you to only predict the results without giving extra text or explanations. Here are some examples: Review: But the staff was so horrible to us. Label: [('staff', 'negative')] Review: The Bagels have an outstanding taste with a terrific texture , both chewy yet not gummy . Label: [('Bagels', 'positive')] Review: Nevertheless the food itself is pretty good . Label: [('food', 'positive')] My first review is "{sent}"`
     
 ## SST
 
-SA Prompt Templates
+#### Simple Prompts
 
     Can you analyze the sentiment of this statement and classify it as positive or negative? Statement: {sentence}
     
