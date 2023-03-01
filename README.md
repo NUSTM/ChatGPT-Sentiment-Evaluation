@@ -5,7 +5,7 @@
 
 ABSA Prompt Templates
 
-    Given a sentence or text, extract the aspect term(s) and determine their corresponding sentiment polarity. Text: {sentence}
+    *Given a sentence or text, extract the aspect term(s) and determine their corresponding sentiment polarity. Text: {sentence}*
 
     Identify the aspect term(s) and sentiment polarity in a product review or feedback. Review: {sentence}
 
@@ -20,4 +20,4 @@ SA Prompt Templates
     
     Using sentiment analysis, determine whether the overall tone of this text is positive or negative. Text: {sentence}
     
-    Given this text, what is the sentiment conveyed? Is it positive or negative? Text: {sentence}
+    *Given this text, what is the sentiment conveyed? Is it positive or negative? Text: {sentence}*
