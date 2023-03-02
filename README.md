@@ -42,3 +42,12 @@
     Using sentiment analysis, determine whether the overall tone of this text is positive or negative. Text: {sentence}
     
     *Given this text, what is the sentiment conveyed? Is it positive or negative? Text: {sentence}*
+    
+## ABSC
+
+#### Simple Prompts
+   Sentence: {sentence} What is the sentiment polarity of the aspect [insert aspect term here] in this sentence?
+   
+   Review: {sentence} Could you predict the sentiment polarity of the aspect [insert aspect term here] in this review/text?
+   
+   Statement: {sentence} In this statement/sentence, what is the sentiment polarity of the aspect [insert aspect term here]?
