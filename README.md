@@ -29,6 +29,10 @@
 
 `I want you to act as an annotator for the Aspect-Based Sentiment Analysis task. I will provide you with a customer review, and you will understand it, extract the aspect terms and predict the corresponding sentiment polarity in this review. Make sure that the aspect terms are present in the review. I want you to only predict the results without giving extra text or explanations. Here are some examples: Review:  It 's just as fast with one program open as it is with sixteen open . Label: [('program', 'neutral')] Review: I charge it at night and skip taking the cord with me because of the good battery life .  Label: [('battery life', 'positive')] Review: I can barely use any usb devices because they will not stay connected properly . Label: [('usb devices', 'negative')] My first review is '{sent}'"`
 
+**5-shot**
+
+`I want you to act as an annotator for the Aspect-Based Sentiment Analysis task. I will provide you with a customer review, and you will understand it, extract the aspect terms and predict the corresponding sentiment polarity in this review. Make sure that the aspect terms are present in the review. I want you to only predict the results without giving extra text or explanations. Here are some examples: Review:  It 's just as fast with one program open as it is with sixteen open . Label: [('program', 'neutral')] Review: I charge it at night and skip taking the cord with me because of the good battery life .  Label: [('battery life', 'positive')]        Review: I can barely use any usb devices because they will not stay connected properly . Label: [('usb devices', 'negative')] Review: -- No backlit keyboard , but not an issue for me . Label: [['keyboard', 'positive']] Review: Another thing I might add is the battery life is excellent . Label: [['battery life', 'positive']] My first review is '{sent}'`
+
 ## SST
 
 #### Simple Prompts
