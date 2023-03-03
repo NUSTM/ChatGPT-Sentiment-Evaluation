@@ -1,7 +1,7 @@
 # ChatGPT-Evaluation
 
 
-## ABSA
+## E2E-ABSA
 
 #### Simple Prompts
 
