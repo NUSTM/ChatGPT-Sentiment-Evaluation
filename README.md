@@ -18,7 +18,7 @@
 
 **Sentence-level Sentiment Classification**: TODO
 
-**ABSC**: 14-Res-Spec, 14Lap-Spec, 14-Res-Neg, 14Lap-Neg
+**ABSC**: [14-Res-Spec, 14Lap-Spec, 14-Res-Neg, 14Lap-Neg](https://github.com/jerbarnes/multitask_negation_for_targeted_sentiment)
 
 ## Open Domain Evalation
 
