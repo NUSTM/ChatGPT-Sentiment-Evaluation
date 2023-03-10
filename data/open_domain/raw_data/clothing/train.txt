@@ -1,0 +1,1674 @@
+I have n't had any trouble converting them , but it does take a second or two to wiggle my heel through the hole .	-1,-1 Clothing#General 0 -1,-1
+I added a hole as far over as I could , on each shoe ... .and it 's still too loose and looks silly.I 'll never be able to wear these ... a real waste .	-1,-1 Shoes#Looking 0 23,24	-1,-1 Shoes#General 0 -1,-1	-1,-1 Shoes#General 0 33,35	-1,-1 Shoes#Size 0 19,21
+These were the most comfortable Capezio Character Shoes that I have ever purchased.Thank you ... .thank you.Linda	7,8 Shoes#Quality 2 2,5
+Keeps everything nice and snug .	-1,-1 Bottom#Looking 2 2,3	-1,-1 Bottom#Quality 2 4,5
+I love these , this time they ran a little large	6,7 Clothing#Size 0 8,11	6,7 Clothing#General 2 1,2
+They are also super warm !	0,1 Bottom#Quality 2 3,5
+However , it definitely runs a little small .	-1,-1 Clothing#Size 0 5,8
+I wear them in place of stockings with business clothes and they look good , feel good .	11,12 Bottom#Looking 2 13,14	11,12 Bottom#Quality 2 16,17
+Nice .	-1,-1 Clothing#General 2 0,1
+I have n't yet danced in them , but they seem much more durable than my other pair of tights .	9,10 Bottom#Quality 2 11,14
+The fit on these is perfect .	-1,-1 Bottom#Size 2 5,6
+Nice quality , attractive , light weight , and just what I wanted , BUT .	-1,-1 Shoes#General 2 -1,-1	-1,-1 Shoes#Quality 2 5,6	1,2 Shoes#Quality 2 0,1	-1,-1 Shoes#Looking 2 3,4
+They make your legs look great !	0,1 Bottom#Looking 2 5,6
+I like this blouse better in person .	3,4 Top#pair 2 1,2	3,4 Top#pair 2 4,5
+It 's become his new favorite sweatshirt .	6,7 Top#General 2 5,6
+its a bit tight in the back but i expect that that may stretch so hopefully it will be ok	-1,-1 Shoes#General 1 19,20	-1,-1 Shoes#Size 0 2,4
+The supposedly narrow width , however , was so wide my foot would not stay in the shoe .	17,18 Shoes#Size 0 8,10
+I could not get the Capezio on because they were way too tight .	5,6 Bottom#Size 0 11,13
+These last a long time for my ballerina .	-1,-1 Clothing#Quality 2 -1,-1
+I purchased these sandals a few months ago - They fit good , comfy and just want I needed .	9,10 Shoes#Quality 2 13,14	9,10 Shoes#Size 2 11,12	9,10 Shoes#General 2 -1,-1
+It gave me a muffin top .	-1,-1 Clothing#General 0 -1,-1
+Comfortable and nice looking .	-1,-1 Shoes#Looking 2 2,3	-1,-1 Shoes#Quality 2 0,1
+Im so glad I found them .	5,6 Shoes#General 2 1,3
+Very comfortable and stylish .	-1,-1 Clothing#Looking 2 3,4	-1,-1 Clothing#Quality 2 0,2
+I ended up ordering another pair in a size 8 and they fit great .	11,12 Shoes#Size 2 13,14
+Read several reviews , so I knew they might run on the narrow side.I ordered wide ( this is what I usually wear ) the fit is still a bit snug .	-1,-1 Shoes#Size 2 28,31
+No matter what I am wearing , I seem to always go back to one of these Mimosas .	17,18 Shoes#General 2 -1,-1
+The shirt was as I expected .	1,2 Top#General 2 -1,-1
+Overall they 're good !	1,2 Shoes#General 2 3,4
+Good quality shoe .	2,3 Shoes#Quality 2 0,1
+These are nice and thick and silky so they last a long time and feel nice .	8,9 Clothing#Looking 2 2,3	8,9 Clothing#Quality 2 6,7	8,9 Clothing#Quality 2 4,5	8,9 Clothing#Quality 2 15,16
+I like these and the price was half of what I normally have to pay for narrow shoes .	-1,-1 Shoes#General 2 1,2	5,6 Shoes#Prices 2 -1,-1
+They were very comfortable right from the start .	0,1 Shoes#Quality 2 2,4
+I was just looking for a nice pair of black shoes that were n't sneakers , and the price on these made them very eye-catching ( especially when I went to look at them again and they 'd dropped from $ 35 to $ 25 ) .	18,19 Shoes#Prices 2 -1,-1	22,23 Shoes#Prices 2 23,25
+She likes the stretchiness of these -- know that there is a very similar style in the same brand with slightly less spandex , so if you have a particular child like mine watch what you buy .	-1,-1 Clothing#General 2 1,2
+But I wear it as pj 's and at night !	-1,-1 Top#General 2 -1,-1
+They were not comfortable in the waist either because they were too short and I forced them to fit .	9,10 Clothing#Size 0 11,13	0,1 Clothing#Quality 0 2,4
+Liked the style , height of heel and look but not the fit .	2,3 Shoes#Looking 2 0,1	8,9 Shoes#Looking 2 0,1	-1,-1 Shoes#Size 0 -1,-1	4,7 Shoes#Looking 2 0,1
+It is too narrow and way too long .	-1,-1 Shoes#Size 0 6,8	-1,-1 Shoes#Size 0 2,4
+They were a little too large , but the next size smaller would have been too short .	0,1 Shoes#Size 0 2,6
+I still think they 're nice shoes but a bit fake looking ,	6,7 Shoes#Looking 0 8,11	6,7 Shoes#General 2 5,6
+The best part is they do n't get runners or damage easily .. They are supportive , yet comfortable , even for fuller figured women ! I would suggest them to anyone looking for qualilty tights .	13,14 Bottom#Quality 2 15,16	29,30 Bottom#General 2 26,27	4,5 Bottom#General 2 1,2	35,36 Bottom#Quality 2 34,35	13,14 Bottom#Quality 2 18,19
+This is just a good , cute shoe that goes to almost any occasion without shame and will keep your feet cool and rested -- unless you go mountain hiking in them , that would make a difference .	7,8 Shoes#Looking 2 6,7	7,8 Shoes#General 2 4,5	7,8 Shoes#Quality 2 -1,-1
+we 're too large .	-1,-1 Clothing#Size 0 2,4
+I have much better luck with tights , but needed something that could serve the purpose of pantyhose on my closet .	6,7 Bottom#General 2 2,4
+Great tights ; these were exactly what I was looking for to go along with a costume dress and knee-high boots .	1,2 Bottom#General 2 -1,-1	1,2 Bottom#General 2 0,1
+It did seem to snag easily , however .	-1,-1 Bottom#Quality 0 -1,-1
+I can not believe the quality of this shirt for under $ 10 .	5,6 Top#Quality 2 -1,-1
+It 's a bit larger than I expected but I love the color and feel of the fabric .	-1,-1 Clothing#Size 0 2,5	12,13 Clothing#Looking 2 10,11	17,18 Clothing#General 2 10,11
+They do n't run , rip or snag if you handle them properly .	0,1 Bottom#Quality 2 -1,-1
+Never a run in these after years of wear ( probably because I got it at a bigger size ) .	-1,-1 Bottom#General 2 -1,-1
+Even so , a good choice for a reasonably priced character shoe .	11,12 Shoes#Prices 2 8,9	11,12 Shoes#General 2 4,5
+I like the shoe overall .	3,4 Shoes#General 2 1,2
+Very happy with my order and the products arrived as promised .	-1,-1 Service#General 0 -1,-1	-1,-1 Clothing#General 2 0,2
+extremely comfortable	-1,-1 Clothing#Quality 2 0,2
+The light suntan is almost the perfect shade for me too !	1,3 Bottom#Looking 2 6,7
+These are wonderful !	-1,-1 Shoes#General 2 2,3
+I did n't need black and they were a little small .	6,7 Shoes#Size 0 8,11
+great product and hard to find in stores ... Thank you .	1,2 Clothing#General 2 0,1	-1,-1 Service#General 2 9,10
+My wife is very happy with these sandals .	7,8 Shoes#General 2 4,5
+fit true to size .	3,4 Shoes#Size 2 1,2
+I 'm fair and the light toast works well only because I use Lorac Tantalizer on arms , chest and neck otherwise would be darker than my fair skin but will be perfect for summer .	13,15 Clothing#General 2 32,33	5,7 Bottom#Looking 2 8,9
+They ran pretty quickly	0,1 Clothing#General 2 2,4
+Requested a refund .	-1,-1 Top#General 0 -1,-1
+They are as comfortable as my old pnes	0,1 Clothing#Quality 2 3,4
+These are nice , comfortable tights .	5,6 Bottom#Quality 2 4,5	5,6 Bottom#Looking 2 2,3
+I bought this same shoe several years ago and loved it ; I was despairing to see it wearing out !	4,5 Shoes#General 2 9,10
+I believe they only think very tall thin women are dancers ; not short more muscular older athlete .	2,3 Bottom#Size 0 -1,-1
+I plan to use these for other costumes and even work too !	-1,-1 Clothing#General 2 -1,-1
+Very short in the waist also .	-1,-1 Clothing#Size 0 0,2
+I order a wide and I got a wide , but , the wide must be for very , very , small feet .	-1,-1 Shoes#Size 0 -1,-1
+I 've bought many pairs of LifeStride shoes in my life without any problems .	7,8 Shoes#General 2 -1,-1
+The shoes came in a timely manner .	1,2 Service#General 2 -1,-1
+At this point I would strongly recommend these as a buy .	-1,-1 Shoes#General 2 5,7
+I see the stiches wearing out too soon , if I wear them much .	3,4 Shoes#Quality 0 -1,-1
+They are just like my old ones and I hope they hold up better	0,1 Clothing#General 2 -1,-1
+The Shorts fit perfectly .	1,2 Top#Size 2 3,4
+They fit somewhat tight at waist - but not overly so - well worth the size reminder ...	0,1 Clothing#Quality 2 3,4	-1,-1 Clothing#Size 2 12,14
+I like how they shimmer and make your legs look great !	3,4 Bottom#Looking 2 10,11
+I really liked the style of these sandals , and color choices.Marked extra wide , but not so .	4,5 Shoes#Looking 2 2,3	10,12 Shoes#Options 2 2,3
+Based on the reviews I sized up to XL and they fit .	10,11 Bottom#Size 2 11,12
+More durable than tamara hose.i ordered a size D	-1,-1 Bottom#Quality 2 0,2
+They were too narrow and I hated that they did n't fit because the are so cute just love the look of them	0,1 Clothing#Size 0 2,4	13,14 Clothing#Looking 2 15,17	20,21 Clothing#Looking 2 18,19	8,9 Clothing#Size 0 6,7
+Looking at the shoes this is the size it says but the shoe is more like a size 2 , really size 2 .	3,4 Shoes#Size 0 -1,-1
+Cosssssey ... love it .	-1,-1 Clothing#Quality 2 0,1	-1,-1 Clothing#General 2 2,3
+GOOD PRICE	1,2 Shoes#Prices 2 0,1
+These are some of the most comfortable sandals I 've ever worn .	7,8 Shoes#Quality 2 4,7
+But I would recommend them .	4,5 Shoes#General 2 3,4
+Will work just fine for her school performances .	-1,-1 Shoes#Looking 1 2,4
+I like the fleece lining , it helps to keep me warm , definitely a good buy .	3,5 Top#General 2 1,2	16,17 Top#General 2 15,16	3,5 Top#General 2 11,12
+After taking a look at the size chart on the packaging , I didn't even bother to try these on and instead returned them immediately .	23,24 Clothing#General 0 -1,-1
+It 's over sized on me but I expected that and its so cute .	-1,-1 Top#Looking 2 12,14
+On the whole , I would definitely recommend these if you are looking for a nice pair of cheap character shoes .	-1,-1 Shoes#General 2 6,8
+The bottom of the shoes are slippery but walking on regular roads or floor should give you enough traction , I do remember the initial concern when I first put them on .	30,31 Shoes#Quality 0 -1,-1	1,2 Shoes#Quality 0 6,7
+Awesome for wearing for those more revealing cosplays ... At first I was scared when I got it because it was a lot darker than my actual skin tone but when I put it on it stretched out and matched it a lot better ... No one knew I was wearing tights !	51,52 Bottom#General 0 13,14	51,52 Bottom#Looking 0 21,24	-1,-1 Clothing#General 2 0,1	51,52 Bottom#General 2 41,44
+They 're dressy enough to wear with skirts , but casual for slacks and shorts .	0,1 Shoes#Looking 2 2,4
+The fit is comfortable and snug but not too tight and no pain when wearing them , painless , stylish , arrived on time , and these can be worn for dance , casual , or formal , anything really , not too thick and bulky , not to thin and flimsy , perfect fit , they 're good shoes , I would recommend .	-1,-1 Shoes#General 2 -1,-1	-1,-1 Shoes#Quality 2 17,18	15,16 Shoes#Size 2 41,46	15,16 Shoes#General 2 -1,-1	59,60 Shoes#General 2 63,64	-1,-1 Shoes#Looking 2 19,20	-1,-1 Shoes#Size 2 11,13	15,16 Shoes#Size 2 47,52	-1,-1 Shoes#Size 2 5,6	-1,-1 Shoes#Size 2 7,10	59,60 Shoes#General 2 58,59	-1,-1 Shoes#Size 2 3,4
+I recommend these to anyone .	-1,-1 Shoes#General 2 1,2
+Great fit , great look !	4,5 Clothing#Looking 2 3,4	-1,-1 Clothing#Size 2 0,1
+Sent the wrong color and too much of a hassle to send back , but these sandals are great !	-1,-1 Service#General 0 5,10	16,17 Shoes#General 2 18,19
+lovely summer sandals .	2,3 Shoes#Looking 2 0,1
+The only reason I returned it was because the elastic at the heel strap of one of the shoes was stretched out and the shoe flapped on my foot .	-1,-1 Shoes#Quality 0 -1,-1	9,19 Shoes#Quality 0 -1,-1
+These are very comfortable and durable tights .	6,7 Bottom#Quality 2 5,6	6,7 Bottom#Quality 2 2,4
+It fits me perfect ( I 'm 6 ' 1 , 250lbs ) and is warm but not too warm .	-1,-1 Top#Quality 2 17,20	-1,-1 Top#Size 2 3,4	-1,-1 Top#Quality 2 15,16
+I bought these to wear with my yoga leotard and they fit fine .	10,11 Shoes#Size 2 12,13
+Very good sandals for the price .	2,3 Shoes#Prices 2 0,2
+Very cute but needs to be stretched for one foot ... ... .	-1,-1 Shoes#Size 0 -1,-1	-1,-1 Shoes#Looking 2 0,2
+Fit well , but not for long .	-1,-1 Bottom#Size 2 1,2	-1,-1 Bottom#Size 0 4,7
+However , I decided to try this pair and was very pleased with the fit and the style .	-1,-1 Shoes#Size 2 10,12	17,18 Shoes#Looking 2 10,12
+For the price it 's my go-to tight .	2,3 Bottom#Prices 2 -1,-1
+Wear this for work and going out on a date .	-1,-1 Clothing#General 2 -1,-1
+There is a manufactured hold on the bottom of the foot that is wonderful .	3,5 Bottom#General 2 13,14
+I love the look and the construction of the shoe ; however , it ran a little too small .	3,4 Shoes#Looking 2 1,2	6,7 Shoes#Looking 2 1,2	9,10 Shoes#Size 0 17,19
+The boots look nice ( a little artificial though . )	1,2 Shoes#Looking 2 3,4	1,2 Shoes#Looking 0 5,8
+I purchased these tights to wear with a leotard for 80s night , and they could not have been more perfect .	14,15 Bottom#General 2 20,21
+Daughter loves these ... very comfortable	-1,-1 Clothing#General 2 1,2	-1,-1 Clothing#Quality 2 4,6
+A little tight around hips and thighs but I wore them all day on Halloween .	10,11 Bottom#Size 0 0,3
+Wo n't buy these again .	-1,-1 Shoes#General 0 -1,-1
+Love this sandal .	2,3 Shoes#General 2 0,1
+Come on , if you can't provide wide , don't advertise as wide .	-1,-1 Shoes#General 0 -1,-1
+The material is more lightweight for a sweatshirt , I like the neck it doesn't hang too low or fit too snug .	12,13 Top#General 2 10,11	1,2 Top#Quality 2 3,5
+These tights have a really awesome shimmer .	1,2 Bottom#Looking 2 4,6
+I do not ususally order shoes but I was very pleased with this purchase and Peltz Shoes .	15,17 Shoes#General 2 9,11
+I love the comfortable fit and the light feeling , not heavy like regular denim fabric .	-1,-1 Clothing#Quality 2 7,8	-1,-1 Clothing#General 2 1,2	-1,-1 Clothing#Quality 2 3,4	-1,-1 Clothing#General 2 10,12
+She loves the slight shimmer and color .	4,5 Clothing#Looking 2 1,2	6,7 Clothing#General 2 1,2
+Unfortunately , the waistband in the XXL was still much too tight .	3,4 Bottom#Size 0 9,12	3,4 Bottom#General 0 0,1
+Get a size larger than normal .	2,3 Top#Size 0 3,4
+Shoes are too small even though I order one size bigger , its still too small	0,1 Shoes#Size 0 2,4	0,1 Shoes#Size 0 14,16
+It fits good !	-1,-1 Shoes#Size 2 2,3
+The sandals are what I expected .	1,2 Shoes#General 2 -1,-1
+These are constructed so that the front is wrapped without stitching where it tends to rub .	6,7 Shoes#Quality 2 -1,-1	-1,-1 Shoes#Looking 2 2,3
+If you are someone who can wear heels no problem then these are probably very good .	-1,-1 Shoes#General 2 14,16
+They are extremely comfortable and look very nice .	0,1 Shoes#Looking 2 6,8	0,1 Shoes#Quality 2 2,4
+Just what I needed .	-1,-1 Shoes#General 2 -1,-1
+Over the years , I have owned almost every color of this shoe .	12,13 Shoes#General 2 -1,-1
+These run a tad small .	-1,-1 Clothing#Size 0 3,5
+Nice soft shirt , no wrinkling !	2,3 Top#Quality 2 -1,-1	2,3 Top#General 2 0,1	2,3 Top#Quality 2 1,2
+They fit her perfectly and she reported that they were soft and comfortable .	0,1 Clothing#Size 2 3,4	8,9 Clothing#Quality 2 10,11	8,9 Clothing#Quality 2 12,13
+They are what I expected .	0,1 Bottom#General 2 -1,-1
+This shoe is really pretty when it is on your foot .	1,2 Shoes#General 2 3,5
+I have many bruises due to blood thinners , these are thicker than pantyhose but last much longer .	-1,-1 Bottom#Quality 0 11,12	-1,-1 Bottom#Quality 2 16,18
+I have purchased several pairs of the same size shoe and this one was tighter both over the lower foot and through the heel strap .	18,20 Shoes#Size 0 14,15	23,25 Shoes#Size 0 14,15	11,13 Shoes#Size 0 14,15
+I 'm about 5 ' 4 and 130 lbs and they fit perfectly .	10,11 Bottom#Size 2 12,13
+Great Value .	-1,-1 Clothing#General 2 0,2
+I 've bought this shoe before in other colors and they have been quite comfortable .	10,11 Shoes#Quality 2 13,15
+It fit my daughter just fine .	-1,-1 Shoes#Size 1 4,6
+These are the most comfortable sandals ever .	5,6 Shoes#Quality 2 2,5
+Just what was need .	-1,-1 Clothing#General 2 -1,-1
+These shoes are cute as a button !	1,2 Shoes#Looking 2 3,4
+THREE INCHES ! ! !	-1,-1 Socks#Size 0 -1,-1
+This must be a plus sized brand , or something .	-1,-1 Clothing#Size 0 -1,-1
+Durable and fit as expected .	-1,-1 Clothing#Size 2 2,3	-1,-1 Clothing#Quality 2 0,1
+They are very comfortable and attractive .	0,1 Clothing#Looking 2 5,6	0,1 Clothing#Quality 2 2,4
+She needs compression on her legs and these tights are tight enough for her , and cheaper than compresion hose .	8,9 Bottom#Size 2 10,12	8,9 Bottom#Prices 2 16,17
+We love these tights for our girls .	3,4 Bottom#General 2 1,2
+Nice looking pair of sandals .	4,5 Shoes#Looking 2 0,1
+Definitely uncomfortable around the waist with the elastic .	4,8 Clothing#Quality 0 0,2
+These shoes were exactly as ordered , white color matched , shoes are very comfortable and I would order them again if needed .	11,12 Shoes#Quality 2 13,15	-1,-1 Shoes#General 1 -1,-1	1,2 Shoes#General 1 -1,-1
+Just did not meet my needs , did not seem to suit my feet and were uncomfortable ; I returned them .	20,21 Shoes#General 0 -1,-1	-1,-1 Shoes#Size 0 -1,-1	-1,-1 Shoes#Quality 0 16,17
+I have pretty big ( athletic ) thighs and the tights needed to be adjusted a bit so that it did n't look see through on the big parts but they worked after the adjusting and they did n't run .	10,11 Bottom#Quality 2 -1,-1
+These tights are durable , suck you in and comfortable .	1,2 Bottom#Quality 2 3,4	1,2 Bottom#Quality 2 9,10
+Wouldn't hesitate to recommend to others .	-1,-1 Shoes#General 2 3,4
+Too long .	-1,-1 Bottom#Size 0 0,2
+Way smaller than the guide says .	-1,-1 Clothing#Size 0 1,2
+One size bigger is perfect .	-1,-1 Clothing#Size 2 4,5
+Very sturdy .	-1,-1 Clothing#Quality 2 0,2
+Little tight	-1,-1 Clothing#Size 0 0,2
+It does shirnk a bit .	-1,-1 Top#Quality 0 -1,-1
+There is some compression so it 's a nice supportive feel and slenderizing .	-1,-1 Bottom#General 2 8,9	-1,-1 Bottom#Quality 2 9,10	-1,-1 Bottom#General 2 12,13
+Beautiful shoe	1,2 Shoes#Looking 2 0,1
+As always , Danskin has quality products , this one is no different !	6,7 Clothing#General 2 -1,-1
+I wish I stated wearing them instead of regular pantyhose .	5,6 Bottom#General 2 -1,-1
+Otherwise are ok tights .	3,4 Bottom#General 1 2,3
+Heavy shimmery stockings that are nice for winter .	2,3 Socks#Looking 2 5,6	2,3 Socks#Quality 1 0,1	2,3 Socks#Looking 2 1,2
+I have several other styles of Minnetonka moccasins in 8 and 8 1/2 but for some reason these were way to big .	-1,-1 Shoes#Size 0 21,22
+One of my all time favorites .	-1,-1 Shoes#General 2 5,6
+I purchased these much larger than size listed by chart to avoid rips .	-1,-1 Bottom#Size 0 4,5
+Even if you had calves like Schwarzenegger they would be too big .	7,8 Shoes#Size 0 10,12
+I bought them mainly because I have nerve damage , as well as severe arthritis in my legs , and I have talked to countless Hooters girls who have all sworn by them because the ones that have gotten in the past are simply too expensive , but these danskins are of the same quality , and hold up , and keep the gloss alive for a long time as well as the one other important reason to wear them is support which is my reason for wearing them .	34,36 Top#Prices 0 44,46	49,50 Top#Quality 2 -1,-1
+Excellent shipping and quality .	1,2 Service#General 2 0,1	3,4 Clothing#Quality 2 0,1
+They are super soft and stretchy , and I prefer my tights a little tighter , especially because they stretch .	0,1 Bottom#Quality 2 5,6	0,1 Bottom#Quality 2 2,4	11,12 Bottom#Size 2 13,15
+They 're well made tights that I wear with my uniform as a gallery guard at Mia .	4,5 Clothing#pair 2 2,3
+These tights have a gorgeous , shimmery , sheen to them , which is exactly what I was looking for .	8,9 Bottom#Looking 2 4,5	8,9 Bottom#Looking 2 6,7	10,11 Bottom#Looking 2 -1,-1
+It 's an attractive sandal .	4,5 Shoes#Looking 2 3,4
+I was hoping since Capezio made those they would have changed the waistband on these , but they did n't ( minus the 1 star ) .	17,18 Bottom#Brand 0 -1,-1
+So basically the chart is way off , order your regular size or a size down .	3,4 Clothing#Size 0 -1,-1
+Just perfect	-1,-1 Shoes#General 2 0,2
+The transition hole is also just right to fit ones foot through .	1,3 Bottom#Size 2 8,9
+Quality was good , price was good , next time I will order larger and way earlier so I can avoid being gouged by the dance shop .	0,1 Bottom#Quality 2 2,3	4,5 Bottom#Prices 2 6,7
+I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 .	7,8 Shoes#Size 0 9,10
+I do n't really like the tight waistband .	7,8 Bottom#General 0 1,5	7,8 Bottom#Size 0 6,7
+Good investment .	-1,-1 Bottom#General 2 0,1
+Fits well .	-1,-1 Clothing#Size 2 1,2
+Fantastic !	-1,-1 Clothing#General 2 0,1
+Has to give to my daughter because it was too small	-1,-1 Clothing#Size 0 9,11
+nice shirt but way to small .	1,2 Top#Looking 2 0,1	1,2 Top#Size 0 5,6
+However , it does have what I think is a design flaw .	-1,-1 Shoes#Looking 0 11,12
+Very soft too ... . Color does not matter for me ... . Great price also ... .	5,6 Clothing#Looking 0 -1,-1	14,15 Clothing#Prices 2 13,14	-1,-1 Clothing#Quality 2 0,2
+So in that sense they are on the smaller side when compared to regular street clothing .	4,5 Clothing#Size 0 8,9
+Light weight sweatshirt .	2,3 Top#Quality 2 0,1
+Then I wore them to work with a pink sweater and longer tutu skirt -- looked awesome with that too .	3,4 Bottom#Looking 2 16,17
+Seems as if Lifestride just reinvented the colors with new names.Since I returned them , I was disappointed that the seller did not provide a pre-paid return label .	20,21 Service#General 0 17,18
+Overall , I like the boots , but I am concerned that the printed design will scratch too easily .	5,6 Shoes#General 2 3,4
+They are very comfortable .	0,1 Shoes#Quality 2 2,4
+i am very happy with the weight of the fabric , color and fit , I love hoodies and will be back for more .	17,18 Top#General 2 16,17	-1,-1 Top#Size 2 2,4	11,12 Top#Looking 2 2,4
+Holes are a bit tight .	0,1 Shoes#Size 0 2,5
+Great seller with super fast shipping .	1,2 Service#General 2 0,1	5,6 Service#General 2 3,5
+These tights allow me to wear a nice skirt in the winter without freezing.The tight is remarkably comfortable and soft , not itchy .	14,15 Bottom#Quality 2 21,23	1,2 Bottom#Quality 2 -1,-1	14,15 Bottom#Quality 2 16,18	14,15 Bottom#Quality 2 19,20
+These shoes are so comfortable .	1,2 Shoes#Quality 2 3,5
+Dependable dance tight .	1,3 Bottom#General 2 0,1
+Can be worn either dressed up or dressed down .	-1,-1 Shoes#Looking 2 -1,-1
+Regarding the fabric , it 's nice , soft , and a bit thicker than most of my other tights .	2,3 Bottom#Quality 2 8,9	2,3 Bottom#General 2 6,7	2,3 Bottom#Quality 2 11,14
+The leather sole has a light perforation but I need to practice with it because it is so slick.COLOR : I preferred the black color although beforehand I had thought that the caramel color would go with more outfits .	23,25 Shoes#Looking 2 21,22	1,3 Shoes#Quality 0 17,19
+- comfortable and look great : - )	-1,-1 Clothing#Looking 2 4,5	-1,-1 Clothing#Quality 2 1,2
+Great for costumes	-1,-1 Clothing#General 2 0,1
+First impressions , I am pleased with them , but time will tell how they hold up .	7,8 Shoes#General 2 5,6
+My second pair of this sandal .	5,6 Shoes#General 2 -1,-1
+Make legs look fabulous almost too perfect but love it .	-1,-1 Bottom#Looking 2 3,4	-1,-1 Bottom#General 2 8,9	-1,-1 Bottom#Looking 2 5,7
+I have bought these shoes every summer for many , many years .	4,5 Shoes#General 2 -1,-1
+Broke in quick .	-1,-1 Shoes#General 2 -1,-1
+Great quality black opaque tights with a hint if shimmer and very good stretchability .	13,14 Bottom#Quality 2 11,13	1,2 Bottom#Quality 2 0,1
+I ordered a medium , but it was HUGE on me !	-1,-1 Clothing#Size 0 8,9
+They 're still VERY pretty , I would of kept them if I had bought the right size .	0,1 Shoes#General 2 3,5
+Thanks for that great quality and I will be ordering another color soon .	-1,-1 Shoes#General 2 -1,-1	4,5 Shoes#Quality 2 3,4
+If you are taller than 5'10 I wouldn't recommend ordering these .	-1,-1 Clothing#General 0 7,9
+I 'd ordered the Capezio Women 's Hold & Stretch Transition Tight , Light Suntan , Large few months ago which is way too small .	4,12 Bottom#Size 0 23,25
+I usually wear a 6 W but these shoes I could n't get my foot into the shoe .	17,18 Shoes#Size 0 -1,-1
+I was happy to find them on Amazon and ordered a few more pairs .	5,6 Shoes#General 2 2,3
+They were great .	0,1 Bottom#General 2 2,3
+A great price and very good quality . extremely soft .	2,3 Top#Prices 2 1,2	6,7 Top#Quality 2 4,6	-1,-1 Top#Quality 2 8,10
+The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe .	6,7 Shoes#Quality 2 5,6	46,47 Shoes#Looking 0 -1,-1	29,35 Shoes#General 0 -1,-1	9,10 Shoes#Quality 0 -1,-1
+Dancer was just glad to be covered and look like the other Ballerinas.We approve !	-1,-1 Clothing#General 2 2,4
+They easily stretched wide enough , but not long enough .	0,1 Bottom#Quality 2 1,2	0,1 Bottom#Size 0 7,10
+So , four stars for fashion , zero for product quality .	5,6 Top#Looking 2 -1,-1	10,11 Top#Quality 2 -1,-1
+! Ballet Pink is really PINKand I have only hand washed these tights once , so Im not sure how long they will kept their firm shape .	1,3 Bottom#Looking 2 -1,-1
+The extra links simply snap in or out .	1,3 Clothing#Looking 2 -1,-1
+It was in the middle of my thigh there 's nothing rough on the the inside of my dress .	-1,-1 Bottom#General 0 -1,-1
+I ordered these for my dad and he loves them so much he wants another pair in a different color .	9,10 Shoes#General 2 8,9
+I was going for the Hooter girl look and they definitely did the trick .	9,10 Clothing#General 2 -1,-1
+They 're just OK-not sure I would purchase again-style is kind of old fashioned	0,1 Shoes#General 1 2,4	8,9 Shoes#Looking 0 -1,-1
+I like them .	2,3 Clothing#General 2 1,2
+Well worth the price .	3,4 Shoes#pair 2 0,2
+Shoes are comfortable and sturdy , great for walking .	0,1 Shoes#Quality 2 4,5	0,1 Shoes#Quality 2 2,3	0,1 Shoes#Quality 2 6,7
+I like the boots .	3,4 Shoes#General 2 1,2
+I am 5 ' 6 and weigh 130-135lbs ( size 6 pants ) and a B fits perfectly .	15,16 Bottom#Size 2 17,18
+I have worn them for years and they are always nice .	7,8 Shoes#Looking 2 10,11
+I love mine and have bought several pairs over the years .	2,3 Shoes#General 2 1,2
+However , I had to re-attach all the buttons after wearing it once , and it really has to be dry-cleaned or the sleazy fabric becomes stiff as a board .	24,25 Top#Quality 0 23,24	8,9 Top#Quality 0 -1,-1
+Great fit , true to size !	-1,-1 Clothing#Size 2 0,1	5,6 Clothing#Size 2 3,4
+Leather will conform to her foot in no time !	0,1 Shoes#Quality 2 2,3
+The material and the exact fix , and I would recommend this product to all my friends , and will continue to buy this brand .	12,13 Clothing#General 2 10,11	24,25 Clothing#Brand 2 -1,-1
+I never felt so confident in something so revealing .	-1,-1 Clothing#General 2 -1,-1
+It 's a nice shirt , but fits very big for the size .	4,5 Top#General 2 3,4	12,13 Top#Size 0 8,10
+This is a great watch for the price .	4,5 Clothing#Prices 2 3,4
+Great as always	-1,-1 Clothing#General 2 0,1
+An excellent value for the price !	5,6 Bottom#Prices 2 1,2
+A NICE JEAN SHIRT THAT FITS ME AS EXPECTED AND WORKS WELL WITH MY OUTFITS .	2,4 Top#General 2 11,12	2,4 Top#Size 2 5,6	2,4 Top#Looking 2 1,2
+I know that is common knowledge with dance gear and especially capezio ... so that is what I did and they were still too small .	20,21 Bottom#Size 0 23,25
+These cover everything but still look real and can wear with skirts but beware it does get a lot of people staring at your legs .	-1,-1 Bottom#Looking 2 -1,-1
+Love the fit , they are very comfortable .	-1,-1 Shoes#Size 2 0,1	4,5 Shoes#Quality 2 6,8
+Really comfortable , great flats .	4,5 Shoes#Quality 2 0,2	4,5 Shoes#General 2 3,4
+Amazing tights !	1,2 Bottom#General 2 0,1
+The marks left on my feet are atrocious .	-1,-1 Shoes#Size 0 7,8
+I was very disappointed since they are a very attractive shoe .	10,11 Shoes#Looking 2 8,10
+It embarrassed me in the office so I decided not to wear them any more since last summer .	12,13 Shoes#General 0 -1,-1
+My daughter loves those light pink tights !	6,7 Bottom#General 2 2,3
+My son-in-law wanted these boots and absolutely loves them !	4,5 Shoes#General 2 6,8
+They don't seem to cater to women of color ! !	0,1 Clothing#Looking 0 -1,-1
+GREAT Boots .	1,2 Shoes#General 2 0,1
+Love the look and feel of this shoe .	2,3 Shoes#Looking 2 0,1	4,5 Shoes#Quality 2 0,1	7,8 Shoes#General 2 -1,-1
+LOVE LOVE !	-1,-1 Clothing#General 2 1,2	-1,-1 Clothing#General 2 0,1
+Thank you	-1,-1 Clothing#General 2 -1,-1
+I wear small for everything but clearly not for this brand .	10,11 Bottom#Brand 0 -1,-1
+wis the were in wide	-1,-1 Shoes#Size 1 -1,-1
+Color is really beautiful .	0,1 Clothing#Looking 2 2,4
+These always go on vacations with me , when I know I will be on my feet all day shopping or site seeing .	-1,-1 Shoes#Quality 2 -1,-1
+Since I was impressed with the quality of the material , I decided I 'd go up one more size and try the XXL .	6,7 Bottom#Quality 2 -1,-1
+I 'm HAPPY !	-1,-1 Bottom#General 2 2,3
+The waistband totally pinches you like a segmented worm .	1,2 Bottom#General 0 -1,-1
+Real nice boots .	2,3 Shoes#General 2 0,2
+Love this shirt .	2,3 Top#General 2 0,1
+The material feels nice but Amazon has up the wrong size chart !	1,2 Top#Quality 2 3,4	10,12 Top#Size 0 9,10
+I should have got a size c tho , these are comfortable in the waist , but I have a little too much material in the ankle , which is not a good look .	-1,-1 Bottom#Quality 2 11,12
+Overall a good buy for work shoes .	5,7 Shoes#General 2 2,3
+Wrong color sent and fit tight	1,2 Clothing#Looking 0 0,1	-1,-1 Clothing#Size 0 5,6
+The padding in the inside was more than she expected .	1,5 Shoes#Looking 2 -1,-1
+The length is a bit short .	1,2 Shoes#Size 0 3,6
+The color was a perfect match but I can not wear these tights anywhere because of the incorrect sizing guidelines .	18,20 Service#General 0 17,18	1,2 Bottom#Looking 2 4,5
+They are soft though ... .	0,1 Clothing#Quality 2 2,3
+The top stretches , so they fit well .	5,6 Shoes#Size 2 7,8
+I love the shirt and would be glad to order more in the future but , the seam came loose on one of the sleeves already .	3,4 Top#General 2 1,2	3,4 Top#General 2 -1,-1	17,18 Top#Quality 0 19,20
+They are super shimmery and great !	0,1 Bottom#Looking 2 2,4	0,1 Bottom#General 2 5,6
+I 'm very pleased with the quality .	6,7 Bottom#Quality 2 2,4
+They run a little large .	0,1 Bottom#Size 0 2,5
+I am size 5.5-6 normally , and this one fit me perfectly .	7,9 Shoes#Size 2 11,12
+Lovely shoes , and the customer support was wonderful .	1,2 Shoes#General 2 0,1	5,7 Service#General 2 8,9
+I would recommend .	-1,-1 Clothing#General 2 2,3
+I bought classic light toast , I 'll be ordering a second pair in just light toast to better fit my skin tone ( super pale ) and they run a little small in the hips , so getting a size up in my opinion is a good idea .	28,29 Bottom#Size 0 30,33
+My issue is that I caught a glimpse of myself with them on in a clothing store and I realized that they 're a little too comfortable looking .	21,22 Shoes#Quality 0 23,27
+I 've washed one time and it washed and dried well .	-1,-1 Top#Quality 2 10,11
+This is as advertised , works for me .	-1,-1 Clothing#General 2 -1,-1
+It is really tight and I ca n't wear it comfortably at all .	-1,-1 Shoes#Quality 0 10,11	-1,-1 Shoes#Size 0 2,4
+Average size woman , 5 ' 7 150lbs , ordered a large and should always get XL for comfort !	-1,-1 Clothing#Size 0 -1,-1
+I can not speak for longevity as I have only had it a few weeks , but it looks very classy and not overkill on bling .	-1,-1 Clothing#Looking 2 19,21
+Luckily , I 'm on the lower end of Size C , so I was able to wear my usual size .	-1,-1 Bottom#General 2 0,1
+I would recommend these to anyone ... really ... even just to wear to work ... but primarily they are meant to be used for dancing .	-1,-1 Shoes#General 2 2,3
+Loved it .	-1,-1 Clothing#General 2 0,1
+I wish they would make the waistband slightly wider to create a smoother line , but it does work very well as is .	6,7 Bottom#General 2 19,21
+I have Mimosa 's in three colors , camel , dark blue and red .	2,4 Shoes#General 1 -1,-1
+So even if they had fit , I 'm not sure I would have kept them .	15,16 Clothing#General 0 -1,-1
+Good arch support and side support .	1,3 Shoes#Quality 2 0,1	4,6 Shoes#Quality 2 0,1
+I have had the same 3 shirts for 3 years now .	6,7 Top#General 2 -1,-1
+I was looking for something to replace my pantyhose because no matter what brand I buy I manage to have a run by the end of the day .	8,9 Bottom#General 0 -1,-1
+Great colors .	1,2 Top#Looking 2 0,1
+This shoe is supposed to be white but it 's more of an off white , has a hint of yellow in it .	1,2 Shoes#Looking 0 -1,-1
+Still fits and is comfortable , good price and I can even decorate with beads if I want .	-1,-1 Clothing#Size 2 0,2	7,8 Clothing#Prices 2 6,7	-1,-1 Clothing#Quality 2 4,5	-1,-1 Clothing#Looking 2 -1,-1
+the colors great .	1,2 Shoes#Looking 2 2,3
+I get complements on my legs at nearly every show I perform at !	-1,-1 Bottom#Looking 2 2,3
+The first pair I bought were way too small .	0,3 Clothing#Size 0 7,9
+Great shoes !	1,2 Shoes#General 2 0,1
+They have a little bit of a sheen to them and the color is almost identical to my skin tone which I love !	12,13 Clothing#General 2 22,23	12,13 Clothing#Looking 2 15,16
+Shoes arrived on time and in tact .	0,1 Shoes#Quality 2 5,7	-1,-1 Service#General 2 -1,-1
+I have had problems with my feet all of my life , and Capezio Character shoes are great for the office !	15,16 Shoes#General 2 17,18
+While they aren't as stretchy or soft on the skin as the Danskin microfiber tights , they do fit me comfortably .	1,2 Bottom#Quality 0 4,5	16,17 Bottom#Quality 2 20,21	1,2 Bottom#Quality 0 6,7
+Because strap is not adjustable , it does not stay on my heel , a problem .	1,2 Shoes#Looking 0 3,5
+I bought this at a great price !	6,7 Shoes#Prices 2 5,6
+At this price unbeatable deal .	2,3 Shoes#Prices 2 -1,-1
+I have problem feet and need well fitting shoes and these work well .	-1,-1 Shoes#Quality 2 12,13
+You ca n't go wrong with a pair of these shorts .	10,11 Top#General 2 1,5
+They 're soft and they fit nice .	4,5 Clothing#Size 2 6,7	0,1 Clothing#Quality 2 2,3
+Just buy this pair one whole size larger than what you usually wear and it will be perfect	-1,-1 Shoes#General 2 17,18
+Fits as expected and is perfect for my costume ... will purchase again from here .	-1,-1 Shoes#General 2 5,6
+These tights are not holding up well .	1,2 Bottom#General 0 3,7
+Comfortable and stylish .	-1,-1 Shoes#Looking 2 2,3	-1,-1 Shoes#Quality 2 0,1
+I love this style but other brands do not always fit right .	3,4 Shoes#Looking 2 1,2	5,7 Shoes#Brand 0 -1,-1
+I will say they nice shoes just not true to size .	10,11 Shoes#Size 0 7,9
+Fits well and it has a lot of quality in its construction and has neat style .	15,16 Clothing#Quality 2 14,15	8,9 Clothing#Quality 2 -1,-1	-1,-1 Clothing#Size 2 1,2
+I am 5 ' and found these tights to be a bit long .	7,8 Bottom#Size 0 10,13
+The design of the shoe is ideal for the stage and long productions .	1,2 Shoes#Looking 2 6,7
+These tights fit great and they are very good quality	1,2 Bottom#Size 2 3,4	5,6 Bottom#General 2 7,9
+It was OK to me but few times later it came with noise from each single step .	-1,-1 Shoes#Quality 0 -1,-1	-1,-1 Shoes#General 1 2,3
+This time they were very narrow .	2,3 Shoes#Size 2 4,6
+They 're very comfortable , and do n't cut or bind .	0,1 Shoes#Quality 2 6,9	0,1 Shoes#Quality 2 2,4	0,1 Shoes#Quality 2 10,11
+Want to order them in other colors	3,4 Clothing#General 2 -1,-1
+Great shoes and very comfortable .	1,2 Shoes#General 2 0,1	1,2 Shoes#Quality 2 3,5
+Thanks !	-1,-1 Clothing#General 2 0,1
+I even wear with work clothes sometimes , they are that comfortable !	8,9 Shoes#Quality 2 11,12
+Definitely got my money 's worth !	-1,-1 Shoes#General 2 -1,-1
+I bought them for my daughter and she loves them .	9,10 Clothing#General 2 8,9
+We painted rubber cement on the bottoms and she still face-planted the first time she wore them on stage .	16,17 Shoes#Quality 0 -1,-1
+Easy to know your size .	-1,-1 Service#Size 2 -1,-1
+They are excellent quality and have lasted through quite a few performances .	3,4 Bottom#General 2 2,3
+I 'm 5 ' 4 and 125 , ordered an XL ( have never worn anything bigger than a medium in my life ) , still pretty tight around the waist .	-1,-1 Clothing#Size 0 26,28
+Nice product - comfortable , lightweight , soft inside and steady on the floor while you do the dancing .	1,2 Shoes#pair 2 0,1	8,9 Shoes#Quality 2 7,8	1,2 Shoes#Quality 2 10,11	1,2 Shoes#Quality 2 3,4	1,2 Shoes#Quality 2 5,6
+Once you find the right size , they are comfortable to dance in .	7,8 Shoes#Quality 2 9,10
+Soft .	-1,-1 Clothing#Quality 2 0,1
+I wore these to a 1920s party- they were absolutely great ! They were surprisingly comfortable and I walked and danced in them for hours ! This is coming from a person who usually wears wonderfully supportive shoes like Keens or Chacos .	37,38 Shoes#Quality 2 35,36	22,23 Shoes#Quality 2 -1,-1	12,13 Shoes#Quality 2 14,16	7,8 Shoes#General 2 9,11
+I wish they 'd size them normal , anyway .	-1,-1 Shoes#Size 0 -1,-1
+In one case , the elastic on the heel strap broke .	5,6 Shoes#Quality 0 -1,-1
+Great shoe .	1,2 Shoes#General 2 0,1
+They fit nicely except for the extremely tight waistband .	0,1 Bottom#Size 2 2,3	8,9 Bottom#Size 0 6,8
+Runs HUGE .	-1,-1 Clothing#Size 2 1,2
+Lovely shoe .	1,2 Shoes#Looking 2 0,1
+I lost my character shoes-it had been almost 10 years since I 've needed any-and I 'm happy to finally have some more !	-1,-1 Shoes#General 2 17,18
+But what the hell with the price increase ? ? !	6,7 Top#Prices 0 3,4
+This top is great , especially for such a low price .	1,2 Top#General 2 3,4	10,11 Top#Prices 2 9,10
+There is an opening on the bottom - for breathing possibly - it does n't bother me at all ( as it might for others ) .I 've purchased others in local stores , i.e. , Target , and these do exceptionally well in the wash in comparison.Great buy for the money .	-1,-1 Clothing#General 2 42,43	-1,-1 Clothing#General 2 47,49
+Like my character shoes .	3,4 Service#General 2 0,1
+They 're super flexible and comfortable so they 'll be perfect for active movement .	7,8 Bottom#General 2 10,11	0,1 Bottom#Quality 2 5,6	0,1 Bottom#Quality 2 2,4
+I accidentally ordered a size smaller than what I prefer but it 's still fits great and comfortable	-1,-1 Clothing#Quality 2 17,18	-1,-1 Clothing#Size 2 15,16
+Love them !	1,2 Clothing#General 2 0,1
+This is a very comfortable shoe - I wear it all the time - perfect heel height - you can wear it all day long - I will probably get more in different colors .	15,17 Shoes#General 2 14,15	-1,-1 Shoes#Options 2 -1,-1	5,6 Shoes#Quality 2 3,5	5,6 Shoes#Quality 2 -1,-1
+Nice quality .	1,2 Socks#Quality 2 0,1
+I for this and a plain shirt under it in 30 degree weather and I stayed pretty warm .	-1,-1 Top#Quality 2 -1,-1
+Will be ordering more today and for the price and style its a must ! !	10,11 Top#Looking 2 -1,-1	-1,-1 Top#General 2 -1,-1	8,9 Top#Prices 2 -1,-1
+They are durable , I have really long fingernails and no runs so far despite wearing them several times.See the pictures for how well they fit and how flattering they are !	0,1 Bottom#Quality 2 2,3	29,30 Bottom#Looking 2 28,29	24,25 Bottom#Size 2 23,24
+Have bought danskin products before ... Great fit and great quality .	10,11 Clothing#Quality 2 9,10	-1,-1 Clothing#Size 2 6,7
+I ordered my usual size and could n't even get my foot into the shoe .	14,15 Shoes#Size 0 -1,-1
+Recommend them !	1,2 Shoes#General 2 0,1
+Very versatile .	-1,-1 Shoes#Options 2 0,2
+These were very comfortable and did n't snag or get messed up at all after hours of being out and about and a acting crazy .	-1,-1 Clothing#Quality 2 2,4
+These were worn for the Ravel piece and they were perfect of course .	8,9 Clothing#General 2 10,11
+The small fits me well , i am 5 ' 4 and 117 lbs .	0,2 Bottom#pair 2 4,5
+Very soft leather , and very comfortable .	-1,-1 Clothing#Quality 2 5,7	2,3 Clothing#Quality 2 0,2
+The back elastic piece looked like it would only last a short time before it broke .	1,4 Shoes#Quality 0 -1,-1
+Sheer and shimmery .	-1,-1 Bottom#Looking 1 0,1	-1,-1 Bottom#Looking 2 2,3
+I love the heel and the back of the foot , that squar-ish part .	6,10 Shoes#General 2 1,2	12,14 Shoes#General 2 1,2	3,4 Shoes#General 2 1,2
+Nice and comfy	-1,-1 Clothing#General 2 0,1	-1,-1 Clothing#Quality 2 2,3
+I am usually an 8.5W-9 in regular shoes , but I know from experience that Capezios tend to run a little small so the 9W 's were perfect for me .	24,26 Shoes#General 2 27,28
+I bought these to cover a leg tattoo , they did not .	9,10 Bottom#General 0 -1,-1
+Much smaller than I anticipated .	-1,-1 Shoes#Size 0 0,2
+Love tights .	1,2 Bottom#General 2 0,1
+but the for the price it 's more then worth it !	4,5 Shoes#Prices 2 -1,-1
+Love these for dancing !	-1,-1 Shoes#General 2 0,1
+They are really tough , too ; I imagine they are built to withstand a lot .	0,1 Bottom#Quality 2 2,4
+Fast shipment too !	1,2 Service#General 2 0,1
+Beautiful , awesome boots if you get them from a none junk shop !	3,4 Shoes#General 2 0,1	3,4 Shoes#Looking 2 2,3
+I liked that they are long enough .	3,4 Clothing#Size 2 1,2	3,4 Clothing#Size 2 5,6
+After 3 weeks my hip/iliac/ gluteus medius , whatever , was so sore on my left side , I can not get up from lying or sitting with out crying out in anguish !	-1,-1 Shoes#General 0 32,33
+Soft as a pillow , light as a feather , durable and blessed with simplicity , these shoes may have no built in arch but they conform to your feet quite well.After a bout with edema , I found I could no longer wear tied shoes without my feet cramping .	17,18 Shoes#Quality 2 0,1	17,18 Shoes#Quality 2 5,6	17,18 Shoes#Quality 2 10,11	25,26 Shoes#Quality 2 30,32
+nice shoe for price I paid .	1,2 Shoes#Prices 2 0,1
+Would totally buy again when this pair wears out ! If you found my review at all helpful , it 'd be wicked cool if you 'd tap the yes button below .	-1,-1 Bottom#General 2 -1,-1
+Runs big .	-1,-1 Clothing#Size 0 1,2
+I 'm a beginner dancer and they are so comfortable I could wear them all day .	13,14 Shoes#pair 2 -1,-1	6,7 Shoes#Quality 2 8,10
+My waist is 30 inches and my hips are 45 and these tights fit me very comfortably and you ca n't see the waistband under most clothes .	12,13 Bottom#Size 2 15,17
+There 's little space between the sole and the band .	-1,-1 Shoes#Size 0 -1,-1
+The only caveat is that the sole is not as wide as the 4E width of the shoe so I can feel the edges of the sole under my feet when I 'm walking .	6,7 Shoes#General 0 -1,-1
+Good value .	-1,-1 Bottom#General 2 0,2
+Snagged right away .	-1,-1 Clothing#General 0 -1,-1
+Even after wearing it all day my feet are feeling great .	-1,-1 Shoes#Quality 2 10,11
+The dog chewed up my first pair and this is a perfect match and I 'm happy with them .	18,19 Shoes#General 2 16,17	12,13 Shoes#General 2 11,12
+I was a bit dismayed to see that the soles were cardboard instead of leather , but I may just be a novice about these dance/character shoes and that may be the way they are usually constructed .	9,10 Shoes#Quality 0 2,5
+Amazing , comfortable cute shoes .	4,5 Shoes#General 2 0,1	4,5 Shoes#Looking 2 3,4	4,5 Shoes#Quality 2 2,3
+I got them for work and they have done very well .	6,7 Top#Quality 2 9,11
+The color is just as pictured and this is honestly one of the most comfortable hoodies I have ever worn .	-1,-1 Top#Quality 2 10,15	1,2 Top#Looking 2 -1,-1
+good .	-1,-1 Clothing#pair 2 0,1
+Dressy enough for special teas and casual enough for slacks .	-1,-1 Shoes#Looking 2 6,8	-1,-1 Shoes#Looking 2 0,2
+The shoe is all man-made materials and not the quality of expensive shoes but pretty darned good for $ 29.00.Quite frankly , I 'm delighted with my very first online shoe shopping experience ! ..I ordered another pair in another colour and they were wayyyyyy too wide .	-1,-1 Shoes#General 2 24,25	42,43 Shoes#Size 0 45,47	1,2 Shoes#General 2 14,17
+I got the baby pink and it 's such a beautiful color !	11,12 Top#Looking 2 10,11
+The shoes seem very nice and well made .	1,2 Shoes#Quality 2 6,7	1,2 Shoes#General 2 3,5
+I have other pairs just like these sandals made by Naturalizer and absolutely loved them , they were called Mai Tai but they no longer make them .	14,15 Shoes#General 2 12,14
+When I have the weight on the heels , the toes/ball of the feet do not touch the ground - which feels very unstable .	-1,-1 Shoes#Quality 0 22,24
+That means shoes like this are stylish all the time .	-1,-1 Shoes#Looking 2 6,7
+It would still fit me if I gained 15 lb or lost 10 lb , because it is stretchy .	-1,-1 Bottom#Quality 2 18,19
+The toes were stuffed with a big wad of paper and may have stretched them out or perhaps they were mislabelled..who knows .	18,19 Shoes#General 0 -1,-1
+Just a fun summer sandal .	4,5 Shoes#General 2 2,3
+Perfect character shoes .	2,3 Shoes#General 2 0,1
+I have n't had an occasion to wear these yet , but I do plan to make them my go-to dress shoes .	21,22 Shoes#General 2 -1,-1
+I love this watch !	3,4 Clothing#General 2 1,2
+I used this under the Tim Burton 's Alice in Wonderland Down the Rabbit Hole costume I made for halloween- very comfortable , and added the right amount of fluff to my skirt !	-1,-1 Clothing#Quality 2 20,22
+I LOVE the color , I ordered it because it 's still cold in my area and it meets every type of climate , rain , snow , wind , etc ...	3,4 Top#Looking 2 1,2	-1,-1 Top#General 2 -1,-1
+Could be worn with skirts , shorts or capris .	-1,-1 Shoes#Looking 2 -1,-1
+These are of good quality and fit perfectly .	4,5 Bottom#Quality 2 3,4	-1,-1 Bottom#Size 2 7,8
+Shiny , smooth , and durable .	-1,-1 Bottom#Looking 2 2,3	-1,-1 Bottom#Quality 2 5,6	-1,-1 Bottom#Looking 2 0,1
+Tried to call for more info early on but never the right time to reach someone .	-1,-1 Service#General 0 -1,-1
+Liked it a lot since I can run around doing errands for hours without feeling pain on my feet !	-1,-1 Shoes#General 2 0,1
+Perfect not only for dancing but just a night out	-1,-1 Clothing#General 2 0,1
+4 stars bcs we love the quality of capezio tights .	6,7 Bottom#Quality 2 4,5
+XXL size was way too small .	1,2 Bottom#Size 0 4,6
+They are also built to last .	0,1 Shoes#Quality 2 -1,-1
+I am so glad I took everyone 's advise to get a wide width ( which I never need ) They fit perfectly .	13,14 Shoes#Size 2 2,4	20,21 Shoes#Size 2 22,23
+Those 2 have a somewht cushioned leather innersole with a bit of arch support ( not much ) .	-1,-1 Shoes#Quality 0 -1,-1
+Love these shoes !	2,3 Shoes#General 2 0,1
+I looked at dozens and liked this one immediately.I think she will be very pleased .	6,8 Clothing#General 2 5,6
+It 's just ok . the back flops a little when walking .	5,6 Shoes#Quality 0 -1,-1	-1,-1 Shoes#General 1 2,4
+But works great and very durable .	-1,-1 Clothing#General 2 2,3	-1,-1 Clothing#Quality 2 4,6
+I 'm a size 6 , 36 chest , and this size small swallowed me .	11,13 Clothing#Size 0 -1,-1
+love the color and this hoodie is true 2 size would def buy more from this seller and they had lots of colors : )	22,23 Top#Options 2 -1,-1	2,3 Top#Looking 2 0,1	5,6 Top#General 2 -1,-1	16,17 Service#General 2 -1,-1	9,10 Top#Size 2 7,8
+Nice and dressy .	-1,-1 Clothing#Looking 2 2,3	-1,-1 Clothing#General 2 0,1
+I 'm very irritated with this product .	6,7 Bottom#General 0 2,4
+They hold up in the wash very well .	0,1 Bottom#Quality 2 6,8
+Amazon price was very good .	1,2 Clothing#Prices 2 3,5
+couldn't beat the price .	3,4 Top#Prices 2 -1,-1
+They are comfortable and pretty .	0,1 Shoes#Quality 2 2,3	0,1 Shoes#General 2 4,5
+After reading previous reviews I made sure I ordered a half size larger than my usual street shoes and it was a perfect fit .	-1,-1 Shoes#Size 2 22,23
+The ribbing on the sides of the shirt looks nice in person and adds a somewhat more unique flair to a basic closet staple .	1,2 Top#Looking 2 9,10
+So brilliant , it can be viewed by extraterrestrials light years away .	-1,-1 Clothing#Looking 2 0,2
+It fits on my calves , but not really in my thighs and butt .	-1,-1 Bottom#Size 2 1,2	-1,-1 Bottom#Size 0 -1,-1
+I loved them.I wear the sandals about twice a week and today the strap broke .	2,3 Shoes#General 2 1,2	13,14 Shoes#Quality 0 -1,-1
+It cost me over $ 11 to return them , therefore , my refund will be half of what I paid for the sandals in the first place .	-1,-1 Service#General 0 -1,-1
+No runs yet and have been worn many times already.Great deal .	-1,-1 Bottom#General 2 9,11
+I find them very comfortable to walk in which I appreciate since I usually need orthodic inserts .	2,3 Shoes#Quality 2 10,11	2,3 Shoes#Quality 2 3,5
+I think the sizes run true , and not small , as others posted in reviews I read .	3,4 Top#Size 2 8,10	3,4 Top#Size 2 5,6
+I really enjoy my shoes , use them for Salsa and West Coast/East Coast swing .	4,5 Shoes#pair 2 1,3
+Great comfort -- attractive ! !	-1,-1 Bottom#Looking 2 3,4	-1,-1 Bottom#Quality 2 0,1
+They ripped after a few wears ... probably because they were a tad tight and I was rough on them .	0,1 Clothing#Quality 0 -1,-1	19,20 Clothing#Quality 0 17,18	9,10 Clothing#Size 0 11,14
+I purchased Hanes & Capezio XXL tights & the Hanes fit much better .	9,10 Bottom#Size 2 11,13
+I usually wear a wide width and this shoe felt a little tight .	8,9 Shoes#Size 0 10,13
+This is my fourth color in this classic style .	-1,-1 Shoes#General 2 -1,-1
+I 've been wearing Minnetonkas for years and have never been disappointed .	4,5 Shoes#General 2 9,12
+Otherwise , they arrived quickly and were reasonably priced .	-1,-1 Service#General 2 4,5	2,3 Shoes#Prices 2 7,8
+there are no holes or snags .	-1,-1 Clothing#Quality 2 -1,-1
+They are well made , soft , very comfortable , easy to clean .	0,1 Shoes#Quality 2 7,9	0,1 Shoes#Quality 2 2,3	0,1 Shoes#Quality 2 5,6	0,1 Shoes#Quality 2 -1,-1
+Great transition tights for my daughter .	1,3 Bottom#General 2 0,1
+I wore them for a playboy costume and they made my butt and legs look perfect ( they are far from perfect ! ) .	8,9 Clothing#General 2 15,16	17,18 Clothing#General 2 21,22
+great quality but ran a little small	-1,-1 Clothing#Size 0 4,7	1,2 Clothing#Quality 2 0,1
+Bought this for my daughter to wear with a cosplay outfit , they looked great !	12,13 Clothing#Looking 2 14,15
+I could n't even stand in them much less walk .	6,7 Shoes#Quality 0 -1,-1
+A little pricey , but worth it .	-1,-1 Bottom#General 2 5,6	-1,-1 Bottom#Prices 0 0,3
+Quite soft and comfortable to walk .	-1,-1 Shoes#Quality 2 3,4	-1,-1 Shoes#Quality 2 0,2
+For some reason , these were strange fitting.The instructions to return are so confusing I have hesitate returning them , but I do n't want to pay for a pairof shoes I ca n't & wo n't wear .	30,31 Shoes#General 0 -1,-1	8,11 Service#General 0 12,14
+We still have competition tights from 3 years ago , that no longer fit my daughter and they are still in good shape - some minor snags .	3,5 Bottom#Size 0 11,14	17,18 Bottom#Quality 2 21,22
+The whole idea here is that the sweaters are warm and cheap , I even gave recognition of that in my first review .	7,8 Top#Prices 2 11,12	7,8 Top#Quality 2 9,10
+Since I am transgender I like anything that helps me look more feminine .	-1,-1 Bottom#Looking 2 5,6
+Just runs small .	-1,-1 Clothing#Size 0 2,3
+But I do recommend these tights .	5,6 Bottom#General 2 3,4
+They really look pretty on my feet .	0,1 Shoes#Looking 2 3,4
+The XL is the perfect oversized sweatshirt for me and I 'm able to layer under if needed .	6,7 Top#General 2 4,5
+I bought them for a Wonder Woman costume , and they are perfect .	10,11 Bottom#General 2 12,13
+I am pretty tough on jewelry and am impressed that this has held up so well .	-1,-1 Clothing#Quality 2 8,9	-1,-1 Clothing#Quality 2 14,16
+Great Boot .	1,2 Shoes#General 2 0,1
+these sandals looked like they would be nice and comfy .	4,5 Shoes#Quality 2 9,10	4,5 Shoes#General 2 7,8
+Also , maybe it 's because I got a different color , but these do n't seem as well made as the ones I 've gotten in the past .	-1,-1 Bottom#General 2 18,19
+Returned these because they were too small and narrow for my feet .	3,4 Shoes#Size 0 5,7	3,4 Shoes#Size 0 8,9
+The material is even in color when on , and they make my legs look sexy .	10,11 Bottom#Looking 2 15,16	1,2 Bottom#Looking 2 -1,-1
+The tights were comfortable and fit well .	1,2 Bottom#Quality 2 3,4	1,2 Bottom#Size 2 6,7
+Otherwise the sandals are a good purchase .	2,3 Shoes#General 2 5,6
+Comfortable shoe .	1,2 Shoes#Quality 2 0,1
+I was somewhat upset , but the shoes are well made , just not sized correctly .	7,8 Shoes#Size 0 13,16	7,8 Shoes#Quality 2 9,10	7,8 Shoes#General 0 3,4
+They do n't roll at the waist like some pantyhose .	0,1 Bottom#Quality 2 -1,-1
+Think about trying a size bigger .. Great Capezio Quality in material and construction .	8,10 Clothing#Quality 2 7,8	13,14 Clothing#Quality 2 7,8	11,12 Clothing#Quality 2 7,8
+After a few hour 's of wear they fit great .	7,8 Shoes#Size 2 9,10
+too bad they were so tight in my normal size and had to send back .	2,3 Shoes#Size 0 4,6	2,3 Shoes#Size 0 0,2
+It came under the search for a name brand shoe , so in that way , it was kind of deceiving .	-1,-1 Shoes#General 0 -1,-1
+Purchased these for everyday wear but think they are so attractive I am saving them for casual dress events .	7,8 Clothing#Looking 2 9,11
+I 'm 5 ' 7 and a little under 130 lbs , I hold most if my weight in my bottom and thighs , the medium works perfect .	24,26 Bottom#General 2 27,28
+Have wore this style when LifeStride was American made but of course now you just cant count on the sizes ? ?	19,20 Shoes#Size 0 -1,-1
+It fits perfect and is good quality .	-1,-1 Clothing#Size 2 2,3	6,7 Clothing#Quality 2 5,6
+I love these .	-1,-1 Shoes#General 2 1,2
+Dilevery was quick and easy .	0,1 Service#General 2 2,3	0,1 Service#General 2 4,5
+I 'm 5 ' 3 and 135 and the size B fits perfectly .	9,11 Clothing#Size 2 12,13
+Can be worn day or night .	-1,-1 Shoes#General 2 -1,-1
+nice , thick , shimmery color , and a great buy ! !	-1,-1 Bottom#Looking 2 4,5	-1,-1 Bottom#Quality 2 2,3	10,11 Bottom#General 2 9,10	-1,-1 Bottom#Looking 2 0,1
+Love the boot but hard inside hurts foot..Just add a cushion inside	5,6 Shoes#Quality 0 4,5	2,3 Shoes#General 2 0,1
+I ordered another after receiving the first .	5,7 Clothing#General 2 -1,-1
+These are worth buying ! ! !	-1,-1 Clothing#General 2 -1,-1
+The color is terrible .	1,2 Bottom#Looking 0 3,4
+nice and soft	-1,-1 Clothing#Looking 2 0,1	-1,-1 Clothing#Quality 2 2,3
+I 'm 5 ' 8 and bought a S/M.I thought it wouldn't fit over my thighs but it did and went all the way up the the waist.It was a bit snug around the waist but that can be solved with a bit of a diet .	27,28 Bottom#Quality 0 29,32	15,16 Bottom#Quality 2 -1,-1
+Not only were they too tight but they were too long length wise - I checked the sizing chart before I ordered them and I ordered my normal size .	3,4 Shoes#Size 0 4,6	7,8 Shoes#Size 0 9,11
+However , they run short .	2,3 Clothing#Size 0 4,5
+So there 's no reason a run should have even happened .	-1,-1 Bottom#General 0 -1,-1
+I ordered a S/M when I should have ordered a M/L , but they fit quite well save the waist elastic ( which I will be adjusting ) .	13,14 Bottom#Size 2 15,17
+Order size up	-1,-1 Clothing#Size 1 -1,-1
+they re beautiful though - and good quality .	0,1 Clothing#Looking 2 2,3	7,8 Clothing#Quality 2 6,7
+Loved these so much last year that I just bought a new pair !	-1,-1 Shoes#General 2 0,1
+The elastic on the heel strap is sewn in right at the back of the heel with rather bumpy seams , so if the strap is a bit loose , it rubs against the ankle uncomfortably .	1,2 Shoes#Quality 0 35,36
+These boots must be good .	1,2 Shoes#General 2 4,5
+It goes on easily and wears well under a skirt .	-1,-1 Bottom#General 2 6,7
+They even survived spattered oil stains from a Thanksgiving kitchen mishap - washed right out .	0,1 Clothing#General 2 -1,-1
+I 've since ordered extras so that I will always look spiffy and polished in my Sunday best .	-1,-1 Bottom#Looking 2 -1,-1
+Since I 'm not actually dancing , I was able to set the buckle to a spot where I can wiggle my foot in-and-out and it 's only slightly loose around my ankle .	-1,-1 Shoes#Size 0 28,30
+Love it !	-1,-1 Top#General 2 0,1
+Absolutely love the color of this hoodie !	3,4 Top#Looking 2 0,2
+Great tights for ballerinas .	1,2 Bottom#General 2 0,1
+If you have an outfit that no shoe really matches , this one is perfect .	11,13 Shoes#Looking 2 14,15
+Fit well and look nice	-1,-1 Clothing#Looking 2 4,5	-1,-1 Clothing#Size 2 1,2
+I could n't even get them up to my hips .	5,6 Clothing#Size 0 -1,-1
+I assume they sent me the wrong color but the shoes themselves did not say what color they were .	2,3 Service#General 0 -1,-1
+Ships FAST !	0,1 Service#General 2 1,2
+These are great quality tights , unfortunately the sizing runs small from what is listed on Amazon .	8,9 Bottom#Size 0 6,7	3,4 Bottom#Quality 2 2,3	8,9 Bottom#Size 0 10,11
+I order a half size up first and they were too small .	8,9 Shoes#Size 0 10,12
+I could barely get these on they were THAT small .	6,7 Bottom#Size 0 8,10
+It 's not skin tight but it also does n't bag ( which can make you look bigger than you are . )	-1,-1 Top#Size 2 8,11	-1,-1 Top#Size 0 2,5
+I tried the next size up on at a local store and it was way to big .	-1,-1 Top#Size 0 16,17
+Fit great and my daughter loves it .	-1,-1 Clothing#Size 2 1,2	-1,-1 Clothing#General 2 5,6
+They are cute as can be and I did keep them , but they run about a half size too small .	0,1 Shoes#Looking 2 2,3	13,14 Shoes#Size 0 19,21
+Love these my daughter is a 10/12 and these fit great	-1,-1 Clothing#General 2 0,1	-1,-1 Clothing#Size 2 10,11
+And they hide everything .	1,2 Clothing#Looking 2 -1,-1
+two of the best seat shirts I have ever purchased .	4,6 Top#General 2 3,4
+Quality and comfort ! ! !	2,3 Top#Quality 2 -1,-1	0,1 Top#Quality 2 -1,-1
+While everyone was freezing their butts off in their slutty costumes walking around downtown , I was nice and toasty .	-1,-1 Bottom#Looking 2 19,20	-1,-1 Bottom#Looking 2 17,18
+I have this shoe in another color but this time I ordered a larger width and that did n't work but this is a nice shoe and very comfortable after it 's broken in .	25,26 Shoes#General 2 24,25	-1,-1 Shoes#Quality 0 -1,-1	25,26 Shoes#Quality 2 27,29
+I feel like I 'm wearing slippers .	-1,-1 Clothing#General 2 -1,-1
+I wish they made these in the full body tight , they are the perfect color for my skin , capezio is the best quality , I have gotten body wrappers also ( which the color is a tad closer to mine ) and although they are great quality too they have seemed to run or snag a bit more than the capezio tights ( they last a long time though and I use them for aerial silks/trapeze/hoop so they get a lot of friction ) .	45,46 Bottom#Quality 2 47,48	15,16 Bottom#Looking 2 14,15	20,21 Bottom#Quality 2 23,24	62,64 Bottom#Quality 2 -1,-1	50,51 Bottom#Quality 0 56,59
+I would purchase it again .	-1,-1 Top#General 2 -1,-1
+Fit perfectly , thanks !	-1,-1 Clothing#Size 2 1,2	-1,-1 Clothing#General 2 3,4
+The sleeves of the sweater are a little baggy , but nothing to hate .	0,5 Top#Size 0 6,9
+I liked them so much that I purchased 2 pair of them .	2,3 Shoes#General 2 1,2
+I ended up having to go to the dance shop and buy another pair for recital , but these were fine for practicing .	-1,-1 Bottom#General 2 20,21
+I needed them for a cosplay ; they were comfortable for all day wear , and I had no issues with anything .	7,8 Clothing#Quality 2 9,10
+But however , these are by far the most comfortable shoes I 've ever worn in my life .	10,11 Shoes#Quality 2 8,10
+I have been wearing these same for years glad I could get again*the only Sandal that I found so comfortable .	14,15 Shoes#General 2 8,9	14,15 Shoes#Quality 2 18,20	14,15 Shoes#Quality 2 -1,-1
+I am 5 ' 9 and weigh 145 pounds and this size fit me fine .	11,12 Clothing#Size 2 14,15
+I buy the small/medium for my ( KIDS ) size 10 daughter , and they fit her great , but they definitely run small .	20,21 Clothing#Size 0 23,24	14,15 Clothing#General 2 17,18
+My daughter loves these .	-1,-1 Clothing#General 2 2,3
+The transition foot is great because she can take the tights up and over her foot to her ankle so she can wear regular shoes or sandals to dance class , then she can just pull the foot down over her toe to put her ballet slippers on .	1,3 Bottom#General 2 4,5
+Comfortable	-1,-1 Clothing#General 2 0,1
+Bought a Hanes large , not nearly as generous , or as long , as this is .	2,3 Top#Size 2 -1,-1	-1,-1 Top#Size 2 -1,-1
+One thing that is strange is that while the shoe is narrow and fit me , the band for the ankle was too wide .	17,21 Shoes#Size 0 22,24
+They fit perfectly , I wear them often .	0,1 Bottom#Size 2 2,3
+Great price , nice fit	1,2 Clothing#Prices 2 0,1	4,5 Clothing#Size 2 3,4
+Fits as expected , works great for Ballet .	-1,-1 Clothing#Size 2 0,1	-1,-1 Clothing#General 2 5,6
+Shoes fit so loose they sound like flip flops when I walked in them.The left shoe did n't cover my little toe comfortably.Normally I can walk out of the store with Lifestride shoes on .	4,5 Shoes#Size 0 -1,-1	0,1 Shoes#Size 0 2,4	14,16 Shoes#Quality 0 22,23
+They toes are a little cramped , but there was a warning in the order page that these need to be 1/2 size larger .	0,1 Shoes#Size 0 3,6
+Love how they fit and look .	2,3 Clothing#General 2 0,1
+Thank you for a quality product and service .	7,8 Service#General 2 0,1	5,6 Clothing#Quality 2 0,1
+They also wash great as long as you line dry them .	0,1 Bottom#Quality 2 3,4
+Good price , good quality , very nice ! !	4,5 Bottom#Quality 2 3,4	1,2 Bottom#Prices 2 0,1	-1,-1 Bottom#Looking 2 6,8
+I have a high arch , and this shoe supports so well , you 'll forget you 're walking in heels .	8,9 Shoes#Quality 2 10,12
+Cute shoes but my size 8 's ran closer to size 7.5 in length .	1,2 Shoes#Looking 2 0,1
+Money refunded without any hassle .	-1,-1 Service#General 2 -1,-1
+Awesome .	-1,-1 Clothing#General 2 0,1
+I will order the Danskin tights again and again .	4,6 Bottom#General 2 -1,-1
+I only washed it in cold water : - ( It is comfy .	-1,-1 Clothing#pair 2 12,13
+The pair at the left are cheap China mocs ( $ 10 and fit fine ) .	7,9 Shoes#Prices 2 6,7	7,9 Shoes#General 2 14,15
+These look and feel good , and don't ride down ( yay ! ) .	-1,-1 Clothing#General 2 4,5
+These tights fit perfectly for me at a size 18 .	1,2 Bottom#Size 2 3,4
+I ordered 6W but it was too narrow to me so I exchanged it to be 6WW ( I did n't buy them from Amazon ) last year .	-1,-1 Shoes#Size 0 6,8
+When I first put them on , they felt slightly tight , but in a very short time they felt like slippers .	18,19 Shoes#General 2 -1,-1	7,8 Shoes#Size 0 9,11
+They last a long time and look good no matter what you wear them with .	0,1 Shoes#Looking 2 7,8
+They fit great and the shine makes them perfect for performing : )	7,8 Clothing#Looking 2 8,9	0,1 Clothing#Size 2 2,3
+I 'm very please with this purchase .	6,7 Clothing#General 2 2,4
+It is true to size and comfortable .	4,5 Shoes#Size 2 2,3	-1,-1 Clothing#pair 2 6,7
+they were brighter red than expected , but im over all satisfied .	0,1 Clothing#General 2 9,12
+There is also a small brown stain on the left shoulder .	10,11 Top#Looking 0 -1,-1
+My hips have never been so happy in tights before .	8,9 Bottom#General 2 5,7
+I loved the shoes I just expected them to be a little wider .	3,4 Shoes#General 2 1,2
+I love it !	-1,-1 Clothing#General 2 1,2
+They keep me cool when I dance .	0,1 Bottom#Quality 2 -1,-1
+confort	-1,-1 Clothing#General 2 0,1
+I have been so pleased with this pair of boots , and the attention from the ladies has been more than appreciated !	9,10 Shoes#General 2 3,5	9,10 Shoes#General 2 21,22
+Nothing much to say other then it fits great & looks great , I added my own tips felt the current one was a bit small and did n't protect boot tip from being scratched .	-1,-1 Shoes#Looking 2 11,12	-1,-1 Shoes#Size 2 8,9	20,22 Shoes#Size 0 23,26	20,22 Shoes#Quality 0 -1,-1
+Love these always buy them and will never stop	-1,-1 Clothing#General 2 0,1
+Awesome very comfy bottom of feet , sturdy	-1,-1 Shoes#Quality 2 1,3	-1,-1 Shoes#General 2 0,1	-1,-1 Shoes#Quality 2 7,8
+They do n't run like stockings when you get a whole in them .	0,1 Bottom#Quality 2 -1,-1
+I went with size D and it works well - perhaps a bit tighter than expected but it has stretch .	-1,-1 Clothing#General 2 8,9	-1,-1 Clothing#Size 0 11,14	-1,-1 Clothing#Quality 2 -1,-1
+Cute .	-1,-1 Clothing#General 2 0,1
+Looks great with skinny jeans or slim joggers !	-1,-1 Top#Looking 2 1,2
+I buy lots of dance tights but theses are smaller than usual Size up !	7,8 Bottom#Size 0 9,10
+Amazon shipped quickly , the watch is beautiful and I am very happy .	5,6 Clothing#General 2 11,13	0,1 Service#General 2 2,3	5,6 Clothing#Looking 2 7,8
+Once the shoe stretches , I do n't know if I will be able to keep it on , but for the price , I 'll be happy to get any wear out of them at all .	22,23 Shoes#Prices 2 -1,-1
+this shoe was unusually wide for A width , thus I had to return .	1,2 Shoes#Size 0 -1,-1
+Feels nice	-1,-1 Clothing#Quality 2 1,2
+It was perfect fit .	-1,-1 Clothing#General 2 2,3
+They feel very durable and I love the sheen of them .	0,1 Clothing#Quality 2 2,4	8,9 Clothing#General 2 6,7
+It expect some shrinkage .	-1,-1 Top#Size 0 -1,-1
+sizing turns out to be true so it is a little too big for me .	0,1 Top#Size 2 5,6
+Had to return them .	3,4 Shoes#General 0 0,1
+The L/XL fits my 5 ' 2 150 pounds perfectly but if you are taller and weigh more , these will not fit .	-1,-1 Clothing#General 2 9,10
+they are just as expected the price here is a lot cheaper then the dance store locally I will buy these again	-1,-1 Clothing#General 2 -1,-1	6,7 Clothing#Prices 2 11,12
+Overall great boot .	2,3 Shoes#General 2 0,2
+I have spent a great deal of money on tights recently , and these are by far the best .	9,10 Bottom#General 2 18,19
+This is the best brand .	4,5 Clothing#Brand 2 3,4
+My one foot is slightly wider then the other so its a little tighter on that foot but there breaking in just fine Ive worn them 4 hrs at a time with no problems so far .	25,26 Shoes#General 1 21,23
+They may not be the fanciest pair of shoes I could have purchased , but they look nice enough and for the price they are a perfect choice for someone just starting out in the world of ballroom dancing .	22,23 Shoes#Prices 2 26,27	15,16 Shoes#Looking 2 17,19
+They run true to size and are comfy and well-made .	0,1 Shoes#Quality 2 9,10	4,5 Shoes#Size 2 2,3	0,1 Shoes#Quality 2 7,8
+Pinched my little toes .	-1,-1 Shoes#Size 0 -1,-1
+They looked so comfortable so I ordered extra wide and they fit horribly .	10,11 Shoes#Size 0 12,13	0,1 Shoes#Quality 2 2,4
+The quality of the shirt is n't what i expected and do n't really know how well it will hold up after a few washes .	4,5 Top#Quality 0 -1,-1	1,2 Top#Quality 0 -1,-1
+I love these shoes and wear them all the time .	3,4 Shoes#General 2 1,2
+Wo n't buy from them again on that.Sweet boots though !	8,9 Shoes#Looking 2 7,8	4,5 Service#General 0 -1,-1
+Worked beautifully for my Princess Buttercup cosplay .	-1,-1 Clothing#Looking 2 1,2
+Color is quite a bit brighter than pictured- I like the real color better than the one in the picture .	12,13 Top#Looking 2 9,10	0,1 Top#Looking 2 3,6
+I loved them enough to get size B , and they 're PERFECT .	10,11 Bottom#Size 2 12,13
+They are totally comfortable and I use them for casual and dress up .	0,1 Shoes#Quality 2 2,4	0,1 Shoes#Looking 2 -1,-1
+This LifeStride shoe is one of the most comfortable shoes I have ever had - I like it so much I have it in three different colors .	2,3 Shoes#Quality 2 6,9	2,3 Shoes#General 2 16,17
+Would not buy this again .	-1,-1 Shoes#General 0 -1,-1
+She 's in many musicals and says they are very comfortable .	7,8 Shoes#Quality 2 9,11
+Planning on purchasing more in several colors .	-1,-1 Shoes#General 2 -1,-1
+The right one was a bit loose , so I had the shoemaker shorten the elastic and it fits fine now .	1,3 Shoes#Size 2 19,20	1,3 Shoes#Size 0 4,7
+They require that you return the shoes using trackable shipping which costs a small fortune .	6,7 Service#General 0 -1,-1
+It was really difficult to find and I was a little hesitant to buy something online without being able to see it against my skin , but the price for this was good and I had not many other choices .	28,29 Bottom#Prices 2 32,33
+They fit and feel very comfortable .	0,1 Clothing#Quality 2 4,6	0,1 Clothing#Size 2 1,2
+Definitely would not recommend for people in this size range !	-1,-1 Clothing#Size 0 2,4
+Thanks for making it available and affordable !	-1,-1 Top#General 2 0,1	-1,-1 Top#General 2 4,5	-1,-1 Top#Prices 2 6,7
+they stretch out	0,1 Clothing#General 1 -1,-1
+These would not fit - they are too short .	5,6 Clothing#Size 0 7,9	5,6 Clothing#Size 0 2,4
+Their sizing is off .	1,2 Shoes#Size 0 3,4
+It did n't even come close to fitting .	-1,-1 Shoes#Size 0 -1,-1
+She loves it .	-1,-1 Shoes#General 2 1,2
+Very disappointed .	-1,-1 Top#General 0 0,2
+they fit as expected .	0,1 Shoes#Size 1 -1,-1
+I 've purchased these shoes twice so far - for a lindy hopper , these ca n't be beat .	4,5 Shoes#Quality 2 -1,-1
+These are really nice sandals .	4,5 Shoes#General 2 2,4
+The lining by the elastic doesnt look very good but it is comfortable and warm .	-1,-1 Top#Quality 2 14,15	1,5 Clothing#Looking 0 5,9	-1,-1 Top#Quality 2 12,13
+Gorgeous color and strong tights .	4,5 Bottom#Quality 2 3,4	1,2 Clothing#Looking 2 0,1
+These were just was I was looking for .	-1,-1 Clothing#General 2 -1,-1
+I plan on ordering more , and will recommend -	-1,-1 Bottom#General 2 8,9
+I can't wait to wear these to class !	-1,-1 Bottom#General 2 -1,-1
+I would buy them again .	3,4 Top#General 2 -1,-1
+I got the largest size because of my height but they are still a little short .	10,11 Clothing#Size 0 13,16
+She is even more rough on her tights and they get washed way more often , yet they hold up just as well !	17,18 Bottom#Quality 2 -1,-1
+Excellent dance tights .	1,3 Bottom#General 2 0,1
+Too fancy , they went back	3,4 Clothing#Looking 0 0,2
+I ordered a wide width , shoe runs very narrow .	6,7 Shoes#Size 0 8,10
+I love This sandal , I own it in white , beige , red and now navy .	3,4 Shoes#General 2 1,2
+There is no color change in the gusset ( top part ) , so no need to worry about covering the top part conservatively .	9,11 Bottom#General 2 -1,-1
+However , I would recommend that someone who is on the higher end of their size according to the manufacturer 's ( not Amazon 's ) size chart may want to go a size up for this particular style .	-1,-1 Bottom#General 2 4,5
+Fit just slightly small though , but still kept them .	-1,-1 Clothing#Size 0 1,4
+I will be purchasing more of these .	-1,-1 Bottom#General 2 -1,-1
+It does leave white fuzz on your undershirt .	-1,-1 Top#Quality 0 -1,-1
+I usually wear a medium and sized down to a small per the reviews and am glad I did .	-1,-1 Top#General 2 16,17
+They look great with almost any outfit .	0,1 Shoes#Looking 2 2,3
+Closed-toe shoes are painful for my arthritic feet , so this style is perfect if you need something a little on the dressier side with a slight heel .	11,12 Shoes#Looking 2 13,14	0,2 Shoes#General 2 3,4
+I wear a size 7 1/2 M and these fit just right and are so stylish and comfortable .	-1,-1 Shoes#Size 2 10,12	-1,-1 Shoes#Looking 2 14,16	-1,-1 Shoes#Quality 2 17,18
+They also wear like iron !	0,1 Bottom#General 1 -1,-1
+But after you wear them around for couple hours they do seem to fit better .	9,10 Top#Size 2 14,15
+Very nice quality , comfort and design , I wear them almost every day all day .	4,5 Clothing#Quality 2 0,2	2,3 Clothing#Quality 2 0,2	10,11 Clothing#General 2 -1,-1	6,7 Clothing#Looking 2 0,2
+They stretch and wear well .	0,1 Bottom#Quality 2 4,5
+Thick , good quality , do n't snag .	-1,-1 Bottom#Quality 2 0,1	3,4 Bottom#Quality 2 2,3	-1,-1 Bottom#Quality 2 -1,-1
+Would purchase again .	-1,-1 Shoes#General 2 -1,-1
+fit fine liked them	3,4 Clothing#Size 2 1,2	3,4 Clothing#General 2 2,3
+I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort .	-1,-1 Top#Size 2 10,13	18,19 Top#Quality 2 10,13	21,22 Top#Quality 2 10,13
+I barely noticed I had shoes on other than they were a little slippery on the concrete dance floor .	9,10 Shoes#Quality 0 11,14
+Excellent for dancing	-1,-1 Clothing#Quality 2 0,1
+Too narrow for me.Unfortunately I could not wear then and had to send them back .	13,14 Shoes#General 0 -1,-1	-1,-1 Shoes#Size 0 0,2
+Not true to size chart .	3,5 Clothing#pair 0 0,2
+great choice if you need a character shoe	7,8 Shoes#General 2 0,1
+feel great !	-1,-1 Clothing#General 2 1,2
+VERY PLEASED WITH MY PURCHASE	4,5 Clothing#General 2 0,2
+I do n't know how anyone can fit in this	-1,-1 Clothing#Size 0 -1,-1
+They are NOT leather ... I have been using these for the past year or so only on Sundays for church and they are already cracking at the ball of my foot on the sole and even on the top of the shoe .	22,23 Shoes#Quality 0 -1,-1
+Very good tights .	2,3 Bottom#General 2 0,2
+I 'm not saying these will last 30 years but they are a great shoe .	14,15 Shoes#General 2 13,14
+Also , when they arrived the sticky bits which seal the box were not stuck to top and bottom tabs and the box was generally crushed like it had been sat upon .	3,4 Service#General 0 -1,-1
+Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist .	16,18 Bottom#General 2 15,16	3,4 Bottom#Looking 2 2,3	5,6 Bottom#Size 2 13,14	-1,-1 Bottom#Quality 2 0,1
+After having it for 5 months it is still in great shape !	11,12 Clothing#Quality 2 10,11
+And turn out this one is perfect for my daughter ( 5 ' 7 , 120lb ) .	-1,-1 Bottom#General 2 6,7
+I am totally satisfied with my purchase .	-1,-1 Shoes#General 2 2,4
+Sent them back and did not reorder .	1,2 Shoes#General 0 -1,-1
+However , this particular pair is more narrow then any I have purchased before .	2,5 Shoes#Size 0 6,8
+This item is very soft and thick .	1,2 Clothing#Quality 2 3,5	1,2 Clothing#Quality 2 6,7
+This is n't as noticeable below the knee , but around the thigh where the fabric is more stretched out the shininess is pretty noticeable .	15,16 Bottom#Looking 0 23,25
+great product very comfortable would buy them in another color again ... did n't hurt my feet just right and needed it for a theatre production.. easy on older feet	6,7 Shoes#General 2 -1,-1	1,2 Shoes#General 2 0,1	1,2 Shoes#Quality 2 -1,-1	1,2 Shoes#Quality 2 2,4
+The hole is n't very stretchy .	1,2 Clothing#Size 0 2,6
+I ordered a half size larger and they fit perfectly .	7,8 Shoes#Size 2 9,10
+Got a 7.5W in camel and it fits perfectly .	-1,-1 Shoes#Size 2 8,9
+Way too expensive for a one-time-use .	-1,-1 Bottom#Prices 0 1,3
+They are very thick , so even in the dead of winter you can wear a dress and be comfortable .	0,1 Clothing#Quality 2 19,20	0,1 Clothing#Quality 2 2,4
+I have enjoyed the sandals this summer .	4,5 Shoes#General 2 2,3
+It came 2 days after i ordered it which was much earlier than expected and a wonderful surprise .	-1,-1 Service#General 2 16,18	-1,-1 Service#General 2 10,12
+Very disappointed because I really liked the style .	-1,-1 Shoes#General 0 0,2	7,8 Shoes#Looking 2 4,6
+Too long and not wide enough for my feet ( 10.5 EEE ) .	-1,-1 Shoes#Size 0 0,2	-1,-1 Shoes#Size 0 3,6
+The left one fits very well , even allowing for my hammer toes !	1,3 Shoes#Size 2 4,6
+Got these for my mother-in-law ( 103 years old ) and hoped that they would fit her ... she loves them and every time we see her , she is wearing them .	20,21 Shoes#General 2 19,20	31,32 Shoes#General 2 -1,-1
+These are great !	-1,-1 Clothing#General 2 2,3
+Awesome fit great look	-1,-1 Clothing#Size 2 0,1	3,4 Clothing#Looking 2 2,3
+Good quality because it was a capezio .	1,2 Top#Quality 2 0,1
+Perfect for what I needed them for .	5,6 Bottom#General 2 0,1
+The Camel color while looks a little like something my grandmother might wear , it works very well with neutral colors without having to get white sandals .	2,3 Shoes#Looking 0 -1,-1	-1,-1 Shoes#Quality 2 16,18
+The shoes did fit well however I took everyone 's advice and ordered a half size larger .	1,2 Shoes#Size 2 4,5
+The transition opening is big enough to easily switch them to capri-style without too large of an opening for wearing with ballet shoes .	1,3 Bottom#Size 2 4,6
+Somewhat small .	-1,-1 Shoes#Size 0 1,2
+they will be excellent for dance practice .	0,1 Top#General 2 3,4
+It is the most comfortable shoe I have .	5,6 Shoes#Quality 2 3,5
+I followed the Capezio size guide and these were very small on my daughter .	-1,-1 Bottom#Size 0 9,11
+It fits MUCH better than I expected and since it 's a polyester blend , it wo n't shrink .	-1,-1 Top#Quality 2 -1,-1	-1,-1 Top#Size 2 2,4
+I love these tights , so soft and comfortable to dance in and true to size	3,4 Bottom#Quality 2 5,7	3,4 Bottom#Quality 2 8,9	3,4 Bottom#General 2 1,2	15,16 Bottom#Size 2 13,14
+It still worked well .	-1,-1 Bottom#Quality 2 3,4
+Great fit for 12 year old with long legs who wears a size 14 in girls clothes .	-1,-1 Clothing#General 2 0,1
+I love the thickness of these tights !	3,4 Bottom#Quality 2 1,2
+Wore them to and from a festival last weekend and performed easily dancing on concrete .	1,2 Shoes#Quality 2 -1,-1
+However , when I got them the length looked like a size 9 and the width looked like a medium not an extra wide .	-1,-1 Shoes#Size 0 -1,-1
+HOWEVER , it was EXTREMELY SMALL !	-1,-1 Bottom#Size 0 4,6
+I love the way this sandal looks and fits .	5,6 Shoes#General 2 1,2
+They also are opaque enough to hide almost any flaws in your legs , such as bruises , cellulite , or hair , if you need to shave or wax : ) At first I wasn't sure why these were called Ultra Shimmery tights , but then I took a flash photo of them , and they really did look ultra shimmery !	0,1 Bottom#Looking 2 3,4	56,57 Bottom#Looking 2 60,62
+Holding up well .	-1,-1 Shoes#Quality 2 2,3
+It 's still my favorite summer shoe : comfortable , feminine , and goes with everything -- - not overly dressy and not overly casual .	6,7 Shoes#General 2 4,5	6,7 Shoes#Quality 2 8,9	6,7 Shoes#Looking 2 22,25	6,7 Shoes#Looking 2 10,11	6,7 Shoes#Looking 2 18,21
+and they hold up way better than anything else i 've ever tried	1,2 Bottom#Quality 2 5,6
+Will work nicely with dress , skirt or capris .	-1,-1 Clothing#Looking 2 2,3
+Great material , washes well , and lasts a really long time ... it 's very much so worth the cost .	-1,-1 Clothing#Prices 2 15,19	1,2 Clothing#Quality 2 4,5	1,2 Clothing#Quality 2 0,1
+Very soft and warm too , it 's an all around great sweatshirt for a nice price !	12,13 Top#General 2 11,12	16,17 Top#Prices 2 15,16	-1,-1 Top#Quality 2 0,2	-1,-1 Top#Quality 2 3,4
+Will probably be getting the baby blue in the near future .	-1,-1 Top#General 2 -1,-1
+They worked but can definitely stretch for a taller person .	0,1 Bottom#Quality 1 -1,-1
+Nothing in pkgexcept a return sticker ! Frustrating ! !	-1,-1 Shoes#General 0 7,8
+This is a great shoe .	4,5 Shoes#General 2 3,4
+These did not fit as I 'd hoped .	-1,-1 Clothing#Size 0 2,4
+If I went with the next size up the shoe would have been too long .	9,10 Shoes#Size 0 13,15
+They are just what I was looking for and had not been able to find in any stores .	0,1 Clothing#General 2 -1,-1
+The only real drawback is ( like all other dance shoes ) , they do run significantly small .	13,14 Shoes#Size 0 16,18
+Received in a timely manner	-1,-1 Service#General 2 -1,-1
+Length was fine but they gaped a little across the top of my foot and the back strap did n't fit tight .	0,1 Shoes#Size 2 2,3
+My 13 year old daughter was delighted with these tights - usually she ca n't wait to get her ballet tights off as soon as her class ends but these were so comfortable I think she forgot she had them on ... .	9,10 Bottom#Quality 2 32,33	9,10 Bottom#General 2 6,7
+This shirt will bleed color onto your other clothing items , so do n't let it get wet around white/light colored items.My biggest complaint with this shirt is that the listing , when I purchased it , did not specify that the sleeve length when fully extended was only 3/4th sleeves .	42,43 Top#General 0 23,24
+They are okay but not comfortable for a lot of walking .	0,1 Shoes#General 1 2,3	0,1 Shoes#Quality 0 4,6
+% xl was at best 3xl on the small side..	1,2 Top#Size 2 4,5	5,6 Top#Size 0 8,9
+Having danced for many years I love the coverage , little extra warmth these tighter tights give you - vs the store bought everyday tights .	8,9 Bottom#General 2 6,7	15,16 Bottom#Size 1 14,15
+These tights lasted well , very shiney .	1,2 Bottom#General 2 3,4	1,2 Bottom#Looking 2 5,7
+Very unhappy !	-1,-1 Shoes#General 0 0,2
+I will buy these again .	-1,-1 Bottom#General 2 -1,-1
+Always loved Danskin products since I was little .	2,4 Bottom#General 2 1,2
+Real product .	1,2 Shoes#General 2 0,1
+I am pleased with thw tights .	5,6 Bottom#General 2 2,3
+Which are extra , super shiny , like they might have glitter sewn in them or something .	8,9 Clothing#Looking 1 -1,-1
+Classic and comfortable in a rich dark blue .	-1,-1 Clothing#Looking 2 0,1	-1,-1 Clothing#Quality 2 2,3
+A lot of nice comments on looks .	6,7 Clothing#Looking 2 3,4
+Fit like a glove !	-1,-1 Shoes#Size 2 0,1
+I bought these thinking Danskin would not be a disappointment .	4,5 Bottom#Brand 2 6,10
+They do run quite small in length though .	0,1 Bottom#Size 0 3,5
+they make my legs looks amazing ! ! !	0,1 Bottom#Looking 2 5,6
+This worked well for Halloween	-1,-1 Top#General 2 2,3
+They are somewhat narrow , which is also a plus for me .	0,1 Shoes#Size 2 3,4
+not great quality , got damaged quite easily , just putting them on ... not good for dancing or skating	-1,-1 Clothing#General 0 14,16	2,3 Clothing#Quality 0 6,8	2,3 Clothing#General 0 0,2
+It is extremely comfortable , and nice looking on my big wide foot .	-1,-1 Shoes#Looking 2 6,7	-1,-1 Shoes#Quality 2 2,4
+If you have never purchased these , know the brand runs small but the size chart is correct .	14,16 Clothing#Size 2 17,18
+Nice quality shoe .	1,2 Shoes#Quality 2 0,1
+Comfortable but heel strap slides down .	2,4 Shoes#Quality 0 -1,-1	-1,-1 Shoes#Quality 2 0,1
+Awesome tights , I will be buying more .	1,2 Bottom#General 2 -1,-1	1,2 Bottom#General 2 0,1
+Can be worn dressy or casual .	-1,-1 Clothing#Looking 2 -1,-1
+I unfortunately got a run on mine the first time I wore them , my nails must of caught it when I put them on .	6,7 Clothing#General 0 1,2
+Fits as expected and look nice	-1,-1 Clothing#Looking 2 5,6	-1,-1 Clothing#Size 2 -1,-1
+I have a pair that lasted through six years of classes and four recitals , they 're still wearable .	15,16 Bottom#General 2 18,19
+Overall , I 'm satisfied with the tops ; so much so , I ordered the sunflower yellow ( received today ) , purple , & strong blue .	7,8 Top#General 2 4,5
+However , on the product packaging , with height/weight , I am a Large/XLarge !	4,6 Service#General 0 -1,-1
+When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance .	6,7 Shoes#Quality 2 -1,-1	6,7 Shoes#Quality 2 10,12	6,7 Shoes#Size 2 8,9
+I use them to cover my hip pads , the only way to improve these would be to make them more opaque , it takes about 5-6 of these to fully cover the pads .	2,3 Bottom#General 0 -1,-1
+Would not recommend to my worst enemy .	-1,-1 Shoes#General 0 1,3
+I ballroom dance and wear them with my Latin dress and they make my legs look beautiful .	11,12 Bottom#Looking 2 16,17
+I 'd definitely just get this on prime in case you need to return it and swap sizes .	-1,-1 Clothing#Size 0 -1,-1
+These are n't sparkly , they 're shimmery , which makes my legs look amazing .	5,6 Bottom#Looking 2 14,15	5,6 Bottom#Looking 2 7,8
+It is easily adjustable without a jeweler .	-1,-1 Clothing#Looking 2 2,4
+Do n't fit securely due to stretch in the back strap .	9,11 Shoes#Quality 0 -1,-1
+nice fit	-1,-1 Clothing#Size 2 0,1
+It 's obvious that I have hose on , but for the Fall it will go great with my sweater dresses .	-1,-1 Bottom#General 2 16,17
+I ordered the dark grey sweatshirt , and when it came to me , I got the light grey one .	-1,-1 Service#General 0 -1,-1
+Overall I think they are a very good fit and would like to see them in more colors .	3,4 Shoes#Size 2 6,8
+Super great product at a good price .	6,7 Clothing#Prices 2 5,6	2,3 Clothing#General 2 0,2
+My slender 11-year old wears the L/XLsize as they do run a little small .	8,9 Bottom#Size 0 11,14
+Really beautiful tights !	2,3 Bottom#Looking 2 0,2
+Strong , feels nice .	-1,-1 Clothing#Looking 2 3,4	-1,-1 Clothing#Quality 2 0,1
+Comfortable , soft and cool .	-1,-1 Clothing#Quality 2 0,1	-1,-1 Clothing#General 2 4,5	-1,-1 Clothing#Quality 2 2,3
+I bought an XL based on the chart and it 's way too big .	-1,-1 Top#Size 0 12,14
+I was expecting them to be opaque , and they are not .	9,10 Clothing#Looking 0 6,7
+Fit like a glove , very comfortable , very durable material .	10,11 Bottom#Quality 2 8,10	-1,-1 Bottom#Quality 2 5,7
+Love the fit and comfort and the price was great	-1,-1 Shoes#Size 2 0,1	4,5 Shoes#Quality 2 0,1	7,8 Shoes#Prices 2 9,10
+They fit great and are very comfortable .	0,1 Shoes#Size 2 2,3	0,1 Shoes#Quality 2 5,7
+I love these tights , I used them almost exclusively and have never looked back to regular nylons since .	3,4 Bottom#General 2 1,2
+I love oversized sweatshirts for cooler days , and this one is very comfortable and lightweight for those cooler spring days .	3,4 Top#General 2 1,2	3,4 Top#Quality 2 12,14	3,4 Top#Quality 2 15,16
+They are a great color , sort of stone .	4,5 Shoes#Looking 2 3,4
+They fit everywhere but the length .	5,6 Clothing#Size 0 -1,-1	0,1 Clothing#Size 2 1,2
+They have the shine i was looking for they feel rough until you put them on .	0,1 Bottom#Looking 2 -1,-1
+Very nice my daughter loves these and they are lasting a long time .	7,8 Clothing#Looking 2 0,2	7,8 Clothing#General 2 4,5	7,8 Clothing#Quality 2 -1,-1
+They are soft and do not snag .	0,1 Bottom#Quality 2 2,3
+Stay in place well .	-1,-1 Bottom#General 2 3,4
+I would recommend this color if your skin is very fair.I am 5 ' 4 and 110lbs - ordered size A , fits well .	-1,-1 Bottom#Size 2 23,24	4,5 Bottom#General 2 2,3
+Daughter thought these were comfortable .	-1,-1 Shoes#Quality 2 4,5
+I 've read that Capezio isn't the greatest in quality , but at least they had a nice color selection .	18,20 Clothing#Looking 2 17,18	9,10 Clothing#Quality 1 5,8
+Runs true to size I ordered up to have a comfy fit .	11,12 Clothing#Size 2 10,11	3,4 Clothing#Size 2 1,2
+The back elastic heel strap helps and fits great - no slipping .	3,5 Shoes#Size 2 8,9	3,5 Shoes#Size 2 -1,-1
+I like the style and color .	3,4 Shoes#Looking 2 1,2	5,6 Shoes#Looking 2 1,2
+They are so soft .	0,1 Clothing#Quality 2 2,4
+Perfect for my daughters show choir	-1,-1 Clothing#General 2 0,1
+Then they are soft to the touch and feels silky on your legs .	1,2 Bottom#Quality 2 3,4	1,2 Bottom#Quality 2 9,10
+Hide a multitude of sins .	-1,-1 Bottom#Looking 2 -1,-1
+Best pair of boots I have purchased so far .	3,4 Shoes#General 2 0,1
+That could be attributed to the tight fit .	-1,-1 Top#Size 0 6,7
+Fit and feel great and can take some rough handling .	-1,-1 Clothing#General 2 3,4
+The moc itself fits fine ( the leather is soft enough to stretch ) but the sole is so narrow it 's way too uncomfortable to wear .	1,2 Shoes#Quality 0 23,25	1,2 Shoes#General 2 4,5	7,8 Shoes#Quality 2 9,10	16,17 Shoes#Size 0 18,20
+As long as I won't have any flash photos taken of me , or be under any stage lights , they will not be overwhelming.While these are about three times the cost of most pantyhose you 'd buy at the supermarket , it is certainly a good investment for a sturdy pair of good quality , USA-made tights .	54,55 Bottom#Quality 2 53,54	57,58 Bottom#General 2 46,47	57,58 Bottom#Quality 2 50,51
+Love this shoe .	2,3 Shoes#General 1 0,1
+The size said can all but I got a size large or bigger .	9,10 Clothing#Size 0 12,13	9,10 Clothing#Size 0 10,11
+Plus they are very durable .	1,2 Clothing#Quality 2 3,5
+All it took was a 5 min conversation and they were ordered , paid for and he received them in about 5 days !	-1,-1 Service#General 2 -1,-1
+Wear them to work and casual , even with jeans .	1,2 Shoes#Looking 2 -1,-1
+These are a great cherry red color and I think would be very comfortable if they fit because they have very soft wide toe straps .	23,25 Shoes#Quality 2 20,22
+This shoe just did not meet the expectations I had for LifeStride shoes .	1,2 Shoes#General 0 -1,-1
+Even with out that , they make you feel like your dancing when your just walking around .	5,6 Bottom#General 2 -1,-1
+Also , there is no groove in the bottom for the stitching .	8,9 Shoes#Looking 0 -1,-1
+She loves them and had me order another pair in red .	2,3 Shoes#General 2 1,2
+Overall I love this sweatshirt and I would love to order more .	4,5 Top#General 2 2,3
+It cost me $ 10.77 to send them back should have just kept them and given them away IF my money is refunded I 'll still be out almost 1/2 the cost .	-1,-1 Service#General 0 -1,-1
+These ones never really stretched out for me .	0,2 Shoes#Size 0 -1,-1
+They are shimmery and perfect .	0,1 Bottom#Looking 2 2,3	0,1 Bottom#General 2 4,5
+I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ...	-1,-1 Shoes#General 0 1,4	-1,-1 Shoes#Size 0 10,12	-1,-1 Shoes#Looking 0 15,18
+They fit almost perfectly ... perhaps a tad big but a 7 would probably have been too snug.My dissatisfaction is with the strap .	0,1 Shoes#Size 2 2,4	22,23 Shoes#General 0 18,19
+It is a little too loose and when I am walking tends to slip off the back of the ankle.Tomorrow I am taking the right shoe to a shoe repair shop to see what can be done to tighten the elastic strap .	-1,-1 Shoes#Size 0 2,6
+After reading the reviews that the ran alittle small , I ordered 1/2 size larger and they turned out too big to walk in .	16,17 Shoes#Size 0 19,21
+These shoes are soft and comfortable but slightly snug .	1,2 Shoes#Quality 2 7,9	1,2 Shoes#Quality 2 3,4	1,2 Shoes#Quality 2 5,6
+I bought these tights for Halloween and they were perfect for my I love Lucy/housewife costume .	7,8 Bottom#General 2 9,10	14,16 Top#General 2 13,14
+Very comfortable and a little dressy but can be worn with either slacks or a skirt and look appropriate .	-1,-1 Shoes#Looking 2 3,6	-1,-1 Shoes#Quality 2 0,2	-1,-1 Shoes#Quality 2 -1,-1
+So , after dropping $ 84 , I am going to throw them in our burn pile and laugh maniacally as they smoke , twist , and char , much like my feet for the past 3 week .	12,13 Shoes#General 0 -1,-1
+Just what I wanted .	-1,-1 Clothing#General 2 -1,-1
+The best tights .	2,3 Bottom#General 2 1,2
+The only problem , ( which other people have mentioned ) , is that they do tend to run narrow , so I would suggest buying them a width wider than you normally do.For a relatively inexpensive shoe , I think that they are a great value.Addendum : I now have three pairs of these shoes , in different colors .	14,15 Shoes#Size 0 19,20	42,43 Shoes#General 2 45,47	37,38 Shoes#Prices 0 36,37
+I returned them .	2,3 Bottom#General 0 -1,-1
+my favorite character shoes !	3,4 Shoes#General 2 1,2
+that 's a bit too fast I would think .	-1,-1 Top#Quality 0 -1,-1
+I recommend them to everyone .	2,3 Shoes#General 2 1,2
+Very comfortable sandals .	2,3 Shoes#Quality 2 0,2
+These tights are comfortable and well made - they 're dance tights and that makes the difference !	10,12 Bottom#General 2 -1,-1	1,2 Bottom#Quality 2 3,4	1,2 Bottom#Quality 2 5,6
+I have worn this pair for a couple of hours now and hope that it will last as long as another pair which lasted me almost 20 years .	20,22 Shoes#Quality 2 -1,-1
+The fit is fine .	-1,-1 Shoes#Size 2 3,4
+I had to return these .	-1,-1 Shoes#General 0 -1,-1
+I liked these so much that I went back and bought the black and beige too .	-1,-1 Shoes#General 2 1,2
+Also , the very first day I wore them there was no break in period .	8,9 Shoes#General 2 -1,-1
+GAVE ME A BLISTER UNDER MY BIG TOE .	-1,-1 Shoes#Size 0 -1,-1
+They were so comfortable from the first minute i put them on .	0,1 Clothing#Quality 2 2,4
+They last a long time without getting any runs .	0,1 Bottom#Quality 2 -1,-1
+They were a little snug .	0,1 Bottom#Quality 2 2,5
+These are so soft .	-1,-1 Bottom#Quality 2 2,4
+They are so comfortable and soft .	0,1 Clothing#Quality 2 5,7	0,1 Clothing#Quality 2 2,4
+I like wearing them .	3,4 Clothing#General 2 1,2
+They run very small	0,1 Clothing#Size 0 2,4
+BUT STYLE AND COLOR ARE GREAT .	3,4 Top#Looking 2 5,6	1,2 Top#General 2 5,6
+LOOOOOOOVE these i can not live without them .	-1,-1 Clothing#General 2 0,1
+Very nice sweatshirt .	2,3 Top#pair 2 0,2
+Purchased for my wife , she loves it , fits a little large though but still manageable .	-1,-1 Clothing#General 2 6,7	-1,-1 Clothing#Size 0 10,13
+Very pretty but not if I can not wear them .	9,10 Bottom#Looking 2 0,2	9,10 Bottom#Size 2 -1,-1
+They are in fact narrower than multiple other brands that are simply W. Unable to wear -	0,1 Clothing#Size 0 4,5	-1,-1 Clothing#General 0 -1,-1
+Just right for everyday wear .	-1,-1 Clothing#General 2 0,2
+Simple design .	1,2 Clothing#Looking 2 0,1
+Overall , I 'm super happy so far !	-1,-1 Bottom#General 2 4,6
+Easy gliding with solid construction .	4,5 Shoes#General 2 3,4	1,2 Shoes#Quality 2 0,1
+These are amazing not only for the quality and durability , but also for the shimmer , and you ca n't beat the value .	9,10 Bottom#Quality 2 2,3	15,16 Bottom#Looking 2 2,3	7,8 Bottom#Quality 2 2,3
+Like everything about them .	3,4 Clothing#General 2 0,1
+I wear these under lightweight jersey white pants , like detachable , washable lining .	-1,-1 Bottom#General 2 -1,-1
+She 's 78lbs , and these were snug .	-1,-1 Bottom#Quality 2 7,8
+I like this sweatshirt .	3,4 Top#General 2 1,2
+Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket .	6,7 Bottom#Quality 2 4,5	6,7 Bottom#Size 2 0,2	6,7 Bottom#Looking 1 -1,-1	6,7 Bottom#General 0 11,14
+I take a lot of ballet classes , and these are soft and just the right thickness to be warm and supportive .	-1,-1 Bottom#Quality 2 21,22	-1,-1 Bottom#Quality 2 19,20	-1,-1 Bottom#Quality 2 11,12
+Nice enough shoes , but the color was not what I was expecting , but it could just be my monitor	2,3 Shoes#General 2 0,2	6,7 Shoes#Looking 0 -1,-1
+They give great support and are strong enough to resist runs , but look really good on .	0,1 Bottom#General 2 2,3	0,1 Bottom#Looking 2 14,16	0,1 Bottom#Quality 2 6,7
+I 'd gladly pay more for US shoes but why don't they fit ?	6,8 Shoes#General 2 2,3	11,12 Shoes#Size 0 12,13
+But I loved them .	3,4 Shoes#General 2 2,3
+And I will keep on buying them as long as my daughter keeps growing with them .	15,16 Clothing#General 2 -1,-1
+These are full of snags after only 2 competitions .	-1,-1 Bottom#Quality 0 -1,-1
+Good color shimmery fit great arrived on time thanks	-1,-1 Clothing#Looking 2 2,3	-1,-1 Clothing#Size 2 4,5	1,2 Clothing#General 2 0,1	-1,-1 Service#General 2 8,9
+I rated them a five because the price was good , the quality is great ( even with her wearing them on a regular basis , they have held up ... and she is tough on her shoes ) .	12,13 Shoes#Quality 2 14,15	7,8 Shoes#Prices 2 9,10
+Width wise it 's perfect .	0,1 Bottom#Size 2 4,5
+I am 5'11 and I ordered a size D which fit easily , comfortably and with no wrinkles or excess material .	-1,-1 Bottom#Size 2 11,12	-1,-1 Bottom#Quality 2 13,14
+The price is good too .	1,2 Shoes#Prices 2 3,4
+It fits more like a man 's shirt than a ladies ' .	-1,-1 Top#Size 0 -1,-1
+The sole has a little cushion that makes it extra comfy for walking.Definitely feel like these shoes were a great value.FWIW , my feet got used to the shoes fast , though I did get a small blister on one foot the first day where the back of the strap is ( this is common for my feet ) .	28,29 Shoes#Quality 2 -1,-1	16,17 Shoes#Quality 2 9,11	16,17 Shoes#General 2 19,20
+Love this !	-1,-1 Clothing#pair 2 0,1
+I still like the double deerskin sole better for comfort but it 's nice to have the rubber soles for wearing outdoors and no leather ties to have to mess with .	17,19 Bottom#General 2 13,14	4,7 Shoes#Quality 2 2,3
+They are still really cute and will be great for slacks , jeans , shorts , skirts , even a nice dress .	0,1 Shoes#Looking 2 8,9	0,1 Shoes#Looking 2 3,5
+My waist is around 31-32 and the size B were a perfect fit .	7,9 Bottom#Size 2 11,12
+The fitting directions recommended ordering 1/2 size larger than street shoes which turned out to be a good idea so there was no problem with the fit .	-1,-1 Shoes#Size 2 22,24	18,19 Shoes#Size 2 17,18
+The shimmery material was nice , she really liked them .	2,3 Clothing#Looking 1 1,2	2,3 Clothing#Looking 2 4,5	9,10 Clothing#General 2 8,9
+Although I wear a narrow size , this one is still a little large .	7,9 Shoes#Size 0 11,14
+I have two dancers and we wo n't get anything else but Capezio tights .	12,14 Bottom#General 2 -1,-1
+I purchased the C/D size to be safe , and they are comfortable .	10,11 Bottom#Quality 2 12,13
+Love these moccasins !	2,3 Shoes#General 2 0,1
+Not see through , I like it .	-1,-1 Clothing#General 2 5,6
+Great fit and i love the way it looks on me .	-1,-1 Top#Looking 2 4,5	-1,-1 Top#Size 2 0,1
+I was scared when I was stretching because they are that small and tight !	8,9 Bottom#Size 0 13,14	8,9 Bottom#Size 0 10,12
+There 's shiny , and then there 's these .	-1,-1 Clothing#Looking 2 2,3
+This shoe is extremely comfy .	1,2 Shoes#Quality 2 3,5
+It is very stretchy and quality is high as others have mentioned .	-1,-1 Clothing#Quality 2 2,4	5,6 Clothing#Quality 2 7,8
+The D is just fine - I 'm 5 ' 4 and 137 .	0,2 Bottom#Size 2 3,5
+It 's not shimmery at all .	-1,-1 Clothing#Looking 0 2,4
+I just guessed on size but they are n't too big	6,7 Clothing#Size 2 -1,-1
+very comfortable shoe .	2,3 Shoes#Quality 2 0,2
+I usually wear Small size ( from stardard size stores like Gap , Old Navy ... ) , and thinking this blouse would be too tight if ordered in Small , I purchased the Large Size , and find it too wide .	21,22 Top#Size 2 40,42
+nice light weight sweat shirt	3,5 Top#Quality 2 1,2	3,5 Top#General 2 0,1
+I can see why cheer leaders and dancers wear these as they perfect the leg and give support .	11,12 Bottom#General 2 12,13
+They are the best	0,1 Clothing#General 2 3,4
+The tights are even better than expected .	1,2 Bottom#General 2 3,5
+They have always been just a tad tight .	0,1 Shoes#Size 0 5,8
+Great for everyday shopping , running errands , etc .	-1,-1 Clothing#General 2 0,1
+Lots of great colors .	3,4 Clothing#Looking 2 2,3
+Item was shipped on time , and was packaged well .	0,1 Service#General 2 9,10
+The tights are VERY good - they 're comfortable , and fit well .	6,7 Bottom#Size 2 12,13	1,2 Bottom#General 2 3,5	6,7 Bottom#Quality 2 8,9
+I used to really love these tights , I 'll give them one more chance with the normal color , but the white is kind of crappy .	22,23 Bottom#Looking 0 24,27	6,7 Bottom#General 2 3,5
+Fits great	-1,-1 Clothing#Size 2 1,2
+I 'm not even sure how to explain the problem : Even at the tightest supplied hole , it 's way too loose .	-1,-1 Shoes#Size 0 21,23
+I like them so much better than the ones with the ties in front .	2,3 Shoes#General 2 1,2
+Exactly what we needed !	-1,-1 Clothing#General 2 -1,-1
+Like	-1,-1 Clothing#General 2 0,1
+These are very shiny , make your legs look like Barbie legs .	-1,-1 Bottom#Looking 2 2,4
+Too small for taller individuals who may be 6 ' 0 or taller .	-1,-1 Clothing#Size 0 0,2
+I tried on a different make of boot that looked identical but cost $ 350 and they fit so well and felt amazing on my feet .	16,17 Shoes#Quality 2 22,23	16,17 Shoes#Size 2 18,20
+perfect fit , very comfortable .	-1,-1 Clothing#Quality 2 3,5	-1,-1 Clothing#Size 2 0,1
+Very very comfortable .	-1,-1 Clothing#Quality 2 0,3
+Cute and Sweet , with just enough heal to be classy and sexy !	-1,-1 Shoes#Looking 2 12,13	-1,-1 Shoes#Looking 2 0,1	-1,-1 Shoes#Looking 2 10,11	-1,-1 Shoes#Looking 2 2,3
+The fabric began to pill ( form tiny fuz balls ) quickly .	1,2 Clothing#Quality 0 11,12
+but are good shoes	3,4 Shoes#General 2 2,3
+I feel like they will last for a long time .	3,4 Bottom#Quality 2 -1,-1
+I the first time I put them on , I must have struggled with getting the fat band through that tiny buckle for 10 minutes , not to mention getting them actually clasped .	6,7 Shoes#Looking 0 -1,-1
+I really like them and they are very comfortable but needed to be a little longer to fit perfectly on my feet	3,4 Shoes#General 2 1,3	-1,-1 Shoes#Size 0 -1,-1	5,6 Shoes#Quality 2 7,9
+My daughter needed these for her dance performance and these suckers are tight and she 's normally a medium/large ; they are also very very thin .	10,11 Clothing#Size 0 23,26
+Fit perfect ! ! !	-1,-1 Bottom#Size 2 1,2
+Met my purchase expectations	-1,-1 Clothing#General 2 -1,-1
+The strap broke after wearing about 5 times .	1,2 Shoes#Quality 0 -1,-1
+Too bad the footpad is n't microfiber or something like that .	3,4 Shoes#Quality 0 0,2
+I 've worn out 2 pairs over the past 2 summers and was thrilled to discover LifeStride was still making the same style when looking for new sandals this spring and bought 2 more pairs .	22,23 Shoes#Looking 2 13,14
+Will probably still reorder because I 'm wanting this color and I ca n't seem to find locally ... ..so will it be 7 AA or 7 M which will fit comfortably ?	9,10 Shoes#Looking 2 7,8
+the waist was tiny had to squeeze it over my butt and hips and it squeezed on my waist .	1,2 Bottom#Size 0 3,4
+Very highly recommended !	-1,-1 Clothing#General 2 0,3
+They go with almost every outfit .	0,1 Clothing#Looking 2 -1,-1
+I have to use inserts in all of my shoes ( including house slippers ) so these ended up being a little tight at first .	-1,-1 Shoes#Size 0 20,23
+My one complaint is that they wear out quickly .	5,6 Shoes#Quality 0 -1,-1
+This shirt is so comfortable ...	1,2 Top#Quality 2 3,5
+These fit just fine and served my costume well .	-1,-1 Clothing#Size 2 3,4	-1,-1 Clothing#Looking 2 8,9
+I accept this , because the shoes are only 35 dollars.COMFORTABLE : Yes , the shoes are comfortable .	15,16 Shoes#Quality 2 17,18
+Thin .	-1,-1 Top#Size 0 0,1
+That was scratching on my heel .	-1,-1 Shoes#Quality 0 -1,-1
+These are ok .	-1,-1 Shoes#General 1 2,3
+But the thickness and quality is very good so if you 're going for either the Hooters looks or dance recital and need to have good coverage , these will work great .	4,5 Clothing#Quality 2 6,8	-1,-1 Clothing#General 2 25,26	2,3 Clothing#Quality 2 6,8	-1,-1 Clothing#General 2 31,32
+The tights also wash well .	1,2 Bottom#Quality 2 4,5
+I bought these shoes to wear to a wedding ... . they were so comfortable I could have danced all night and nearly did ! !	11,12 Shoes#Quality 2 -1,-1	11,12 Shoes#Quality 2 13,15
+Very pretty shoes .	2,3 Shoes#General 2 0,2
+But they do hold up on they 're own pretty well once they are worn in a couple hours , that is of course if you plan to wear them 8 or more hours a day .	6,7 Top#Looking 2 9,11
+It was n't even on a heel or ankle or somewhere it would be rough .	-1,-1 Bottom#Quality 0 14,15
+I hated them !	2,3 Shoes#General 0 1,2
+The fit is perfect and the color is classic light ballet pink .	-1,-1 Bottom#Size 2 3,4
+I wore them to work today for 9 hrs , straight out the box with no issues .	2,3 Shoes#Quality 2 -1,-1
+Nice character shoe .	2,3 Shoes#pair 2 0,1
+Looks amazing and feels amazing .	-1,-1 Clothing#General 2 1,2	-1,-1 Clothing#General 2 4,5
+so this is a much better investment .	-1,-1 Bottom#General 2 4,6
+I noticed that I did n't have to worry about these shoes falling off .	11,12 Shoes#Quality 2 -1,-1
+These are well made shoes and a great value for the price .	4,5 Shoes#Quality 2 2,3	11,12 Shoes#Prices 2 7,9
+quite comfortable .	-1,-1 Shoes#Quality 2 0,2
+These are thicker , and way more durable .	-1,-1 Bottom#Quality 2 6,8	-1,-1 Bottom#Quality 2 2,3
+These shoes are quite comfortable .	1,2 Shoes#Quality 2 3,5
+They are comfortable and flexible as well as stylish .	0,1 Shoes#Quality 2 4,5	0,1 Shoes#Looking 2 8,9	0,1 Shoes#Quality 2 2,3
+I did not like the style ; seemed more suited for an older lady .	5,6 Clothing#General 0 1,4
+I really wanted some in navy and was able to find them through Amazon.Same fit as the black , very comfortable .	-1,-1 Shoes#Size 2 19,21
+Next time I would order 1/2 size larger ...	-1,-1 Shoes#Size 0 -1,-1
+With a little effort on your part this little honey will work just great !	-1,-1 Top#General 2 12,14
+not attractive on your foot , and larger than expected .	-1,-1 Shoes#Looking 0 0,2	-1,-1 Shoes#Size 0 7,8
+This will be the brand I buy for tights from now on .	4,5 Bottom#Brand 2 -1,-1
+Perfect fit , wore them to a class tonight - heel size is perfect , very comfortable , great quality , great dance shoes .	22,24 Shoes#Quality 2 15,17	19,20 Shoes#Quality 2 18,19	22,24 Shoes#General 2 21,22	-1,-1 Shoes#Size 2 0,1	10,12 Shoes#Size 2 13,14
+I am 5 ' 6 and 135lb , and the L/XL size fits me fine .	10,12 Bottom#Size 2 14,15
+Normally , LifeStride shoes are perfect for me , but not this time .	-1,-1 Shoes#General 0 -1,-1	3,4 Shoes#General 2 5,6
+I like these , the fit is perfect for me , I 'm 5 ' 8 at 175 lbs , I ordered a large .	-1,-1 Top#Size 2 7,8	-1,-1 Top#General 2 1,2
+These went well with the bodysuit and looked pretty natural .	-1,-1 Clothing#General 2 2,3	-1,-1 Clothing#Looking 2 8,10
+Will probably still wear them , but keep in mind it will be very obvious you 're wearing tights .	18,19 Bottom#Looking 0 13,15
+Excellent fit and look so cute .	-1,-1 Clothing#Looking 2 4,6	-1,-1 Clothing#Size 2 0,1
+Not leather .	-1,-1 Shoes#Quality 0 -1,-1
+I hope this shoe is never discontinued .	3,4 Shoes#General 2 -1,-1
+These fit very well but were much more shimmery than expected .	-1,-1 Clothing#Looking 0 6,9	-1,-1 Clothing#Size 2 2,4
+she had no complaints about the fit .	-1,-1 Clothing#General 2 -1,-1
+I love a good shiny hose that covers any imperfection in the leg .	5,6 Bottom#General 2 1,2	5,6 Bottom#Looking 2 4,5	5,6 Bottom#General 2 3,4
+Still wearing and enjoying the sandals tho ; they are nice with colorful summer clothing .	8,9 Shoes#General 2 10,11	5,6 Shoes#General 2 3,4
+The shipping was very fast and with free returns it was an easy risk to take .	1,2 Service#General 2 3,5
+My only complaint is they are SUCH a pain to get buckled .	4,5 Shoes#Looking 0 8,9
+Other than that the shirt appears to be of good quality .	10,11 Top#pair 2 9,10
+Looks nice .	-1,-1 Clothing#Looking 2 1,2
+The significant downside is that they ripped in several places during my first use .	5,6 Bottom#Quality 0 1,3
+My only issue is that the back of the waist band is a little prickly , but I just turn it over and it 's fine .	9,11 Bottom#Quality 0 12,15	9,11 Bottom#General 2 25,26
+But then when I found it on your site recently , I was thrilled , and ordered another pair .	-1,-1 Shoes#General 2 13,14
+I do n't know if they are made to support the arch but I have n't noticed any arch problems .	5,6 Shoes#Quality 2 -1,-1
+I love that these tights are durable and can go in the dryer !	4,5 Bottom#General 2 1,2	4,5 Bottom#Quality 2 6,7
+I wear them to work EVERY DAY for 9 hours .	2,3 Shoes#Quality 2 -1,-1
+They are very soft , typical LifeStride .	0,1 Shoes#Quality 2 2,4
+12-yr-old ballet student loves these .	-1,-1 Clothing#General 2 3,4
+Good fabric ... good fit .	-1,-1 Clothing#General 2 3,4	1,2 Clothing#Quality 2 0,1
+I like these for so many uses , from church to grocery store trips .	-1,-1 Shoes#General 2 1,2
+Luv this blousecomfortable , no iron , coolOrdered another	2,3 Top#General 2 0,1
+The heel is very slight and they felt like cushiony flats , which I liked .	9,11 Shoes#General 2 14,15	1,2 Shoes#Quality 2 3,5
+I really like the sandals .	4,5 Shoes#General 2 2,3
+The toast color is a bit coppery but I love them anyways : ) you look like you have Barbie legs , I would recommend sizing up ; according to the chart I would have been on the end of the A but I decided to get C since I would need them for a lot of flexibility and they work great !	1,3 Bottom#Looking 0 4,7	59,60 Bottom#General 2 61,62	-1,-1 Bottom#General 2 24,25	10,11 Bottom#General 2 9,10
+I know I will always buy these tights .	7,8 Bottom#General 2 -1,-1
+It 's now the end of the of January and no one has worn theirs yet , unfortunately	14,15 Clothing#General 0 17,18
+No runs or tears even chasing after my 2 year old	-1,-1 Clothing#General 2 -1,-1
+Quality is okay .	0,1 Shoes#Quality 1 2,3
+The only reason for the 4 stars is that this is an open sandal so it will not have the support of a closed in shoe .	13,14 Shoes#Quality 0 -1,-1
+I can not imagine a woman trying to fit in these .	-1,-1 Bottom#Size 0 -1,-1
+Ultra shimmery !	-1,-1 Bottom#Looking 2 0,2
+Came in quickly and were as I expected them to be .	8,9 Service#General 2 2,3
+They will work great with my flapper costume .	0,1 Clothing#Quality 2 3,4
+Would definitely buy these again .	-1,-1 Clothing#General 2 -1,-1
+They are much shimmery in person .	0,1 Bottom#Looking 2 2,4
+I could probably have done a large but I was worried the waistband would be too tight ( I don't have a small waist ) .	12,13 Bottom#Size 0 15,17
+They are so comfy !	0,1 Bottom#Quality 2 2,4
+For some reason this particular one runs small .	3,6 Shoes#Size 0 7,8
+These are perfect for classes or recital time .	-1,-1 Bottom#General 2 2,3
+I am crazy about hoodies and have been looking for the perfect maroon hoodie .	4,5 Top#General 2 2,3
+Love them , order according to danskin size chart .	1,2 Bottom#General 2 0,1
+Great value looked great	-1,-1 Clothing#Looking 2 3,4	-1,-1 Clothing#General 2 0,2
+Fitted as I expected and snug : D too bad my time with it lasted a short while since it got hot pretty fast !	-1,-1 Top#Quality 0 -1,-1	-1,-1 Top#Quality 0 8,10	-1,-1 Top#Size 2 0,1	-1,-1 Top#Quality 2 5,6
+The shirt is still way too large and very shapeless .	1,2 Top#Size 0 5,7	1,2 Top#Looking 0 8,10
+Very feminine .	-1,-1 Clothing#Looking 2 0,2
+It 's dressy , but casual enough for every day summer wear , and it 's comfortable for walking around every day .	-1,-1 Shoes#Quality 2 16,17	-1,-1 Shoes#Looking 2 5,7	-1,-1 Shoes#Looking 2 2,3
+Tights came fast and easy !	0,1 Service#General 2 2,3	0,1 Service#General 2 4,5
+This hoodie is absolutely perfect , epecially at the price that I got it for ( which I have noticed has increased ) .	1,2 Top#General 2 3,5	9,10 Top#Prices 2 -1,-1
+These are the tights that as pulling them up over my hips ( 44 inches round ) a hole on one side of my hip happened .	3,4 Bottom#Quality 0 -1,-1
+The footpad inside is man-made material , but with stockings it is comfortable .	1,2 Shoes#Quality 2 12,13
+Lastly , I did n't think the shirts were as soft as the description implies , once washed & dried w/ dryer sheet , then yes , nice & soft .	7,8 Top#General 2 27,28	7,8 Top#Quality 0 10,11	7,8 Top#Quality 2 29,30
+Quick delivery , original packaging , fit as described .	1,2 Service#General 2 0,1	-1,-1 Clothing#Size 2 6,7
+they do not look elegant .	0,1 Shoes#Looking 0 1,5
+He receives many compliments when he wears them .	7,8 Shoes#General 2 -1,-1
+Very comfortable .	-1,-1 Clothing#Quality 2 0,2
+Despite being wide there really was no room for my toes .	-1,-1 Shoes#Size 0 -1,-1
+However , I had no trouble sending them back .	7,8 Service#General 2 -1,-1
+Like these very much .	-1,-1 Clothing#General 2 0,1
+I have wore 1 time and received a number of positive compliments .	-1,-1 Top#General 2 10,11	-1,-1 Top#General 2 11,12
+The shoes fit well generally speaking even though they are still a bit snuggly on the toes , they are comfortable enough for me to want to buy another pair in a different color but have not done so for its slight squeeze .	8,9 Shoes#Size 0 11,14	18,19 Shoes#Quality 2 20,22	1,2 Shoes#Size 2 3,4
+I will be urging the coach to pick a different brand next year .	-1,-1 Bottom#General 0 -1,-1
+The ultra soft have no shean to them so they can have the look of a natural leg .	9,10 Bottom#Looking 2 -1,-1
+The crotch rode a bit low , which was irritating .	1,3 Bottom#General 0 9,10	1,3 Bottom#General 0 3,6
+Should send back as too loose to stay on .	-1,-1 Clothing#Size 0 4,6
+However , they run a full size smaller than street shoes .	2,3 Shoes#Size 0 7,8
+They make your legs so shiny and sexy , and the tan color is so flattering .	11,13 Bottom#pair 2 14,16	0,1 Bottom#Looking 2 4,6	0,1 Bottom#Looking 2 7,8
+I will definitely buy them again .	4,5 Bottom#General 2 -1,-1
+For this one , half a size up worked for me , but it was on the big side.WIDTH : The shoe is quite narrow , which I liked because I have slim feet .	21,22 Shoes#Size 2 28,29
+I am happy with this purchase	5,6 Clothing#General 2 2,3
+These are perfect for me .	-1,-1 Shoes#General 2 2,3
+I 've had these before in black and wanted navy also because they are very comfortable to wear .	12,13 Shoes#Quality 2 14,16
+Gentlemen , buy these and you will be amazed : ) Excellent fit , looks and comfort .	16,17 Shoes#Quality 2 11,12	14,15 Shoes#Looking 2 11,12	-1,-1 Shoes#Size 2 11,12
+These shoes are comfortable enought so that I can walk and dance in them .	1,2 Shoes#Quality 2 3,4
+Other than that , they are very reliable and I 've worn them for many performances .	12,13 Shoes#General 2 -1,-1	4,5 Shoes#Quality 2 6,8
+I wear between a 9.5 and 10 but ordered the 10 , they fit but the toe area is a bit long .	12,13 Shoes#Size 2 13,14	16,18 Shoes#Size 0 19,22
+These sandals are very comfortable and give good support .	1,2 Shoes#Quality 2 3,5	1,2 Shoes#Quality 2 7,8
+I love these shoes and have them in blue , white and black .	3,4 Shoes#General 2 1,2
+Great neutral color and simple design .	2,3 Clothing#Looking 2 0,1	5,6 Clothing#Looking 2 4,5
+I gave them to my super-petite daughter , and she loves them .	11,12 Bottom#General 2 10,11
+Love these , will never wear anything but Capezio .	8,9 Clothing#Brand 2 -1,-1	-1,-1 Clothing#General 2 0,1
+They are not quite as opaque as I had hoped for , ( I bought them to wear with a costume ) however on top of a pair of sheer black pantyhose they are completely opaque and exactly what I wanted .	32,33 Bottom#Looking 2 34,36	0,1 Bottom#Looking 0 5,6
+Panty hose very wide .	0,2 Bottom#Size 0 2,4
+They provide good coverage , this is my second pair ( unfortunately they are n't hole proof ! )	0,1 Bottom#General 2 2,3	12,13 Bottom#General 0 11,12
+The opening on these tights is well finished and stretches nicely for transition to pointe or other dance .	4,5 Bottom#General 2 6,7
+I 've had them before and knew how they would fit .	8,9 Clothing#Size 2 10,11
+I would recommend to anyone .	-1,-1 Shoes#General 2 2,3
+After reading the other reviews I was glad I ordered a half size larger than normal .	-1,-1 Shoes#Size 2 7,8
+It 's so soft and warm and fits a bit baggy on me , which is how I wanted it .	-1,-1 Top#Size 2 8,11	-1,-1 Top#General 2 -1,-1	-1,-1 Top#Quality 2 2,4	-1,-1 Top#Quality 2 5,6
+They feel wonderful and after I lose a few more pounds will be fine .	0,1 Clothing#General 2 2,3
+Very comfortable and easy to wear shoes , just the right size .	6,7 Shoes#Looking 2 3,4	6,7 Shoes#Quality 2 0,2	11,12 Shoes#Size 2 10,11
+Nice , soft and comfortable .	-1,-1 Clothing#Looking 2 0,1	-1,-1 Clothing#Quality 2 4,5	-1,-1 Clothing#Quality 2 2,3
+Loved the item	2,3 Clothing#General 2 0,1
+Standard pantyhose would tear after one use , and the remaining ribbons would cut into my feet and toes , and become imbedded as I skated , making them very painful to take off .	0,2 Bottom#General 0 -1,-1	28,29 Bottom#General 0 29,31
+It fit perfectly and is of good quality .	7,8 Top#Quality 2 6,7	-1,-1 Top#Size 2 2,3
+They hold up very well .	0,1 Clothing#General 2 3,5
+They were so very comfortable , and worked well with different types of outfits , including shorts and capris .	0,1 Shoes#Quality 2 3,5	0,1 Shoes#Quality 2 8,9
+The red color was true red not orangey .	1,3 Shoes#Looking 2 4,5
+This shoe is very comfortable to wear and very stylish .	1,2 Shoes#Looking 2 8,10	1,2 Shoes#Quality 2 3,5
+I am sad because I love these very much and I had great luck last year I hope Amazon and google can help	-1,-1 Shoes#General 2 5,6
+About a half size too large .	-1,-1 Bottom#Size 0 4,6
+It is nice and dainty and I love that it actually has marks for all 12 numbers , whereas most smaller dress watches do not .	-1,-1 Clothing#General 2 2,3	-1,-1 Clothing#General 2 7,8	-1,-1 Clothing#General 2 4,5
+These boots truly satisfied the urban cowboy in me .	1,2 Shoes#General 2 3,4
+Ordered 1/2 size larger and it was still a bit short as well as too wide .	-1,-1 Shoes#Size 0 8,11	-1,-1 Shoes#Size 0 14,16
+Extremely uncomfortable .	-1,-1 Shoes#Quality 0 0,2
+A welcome addition to the product line .	-1,-1 Clothing#General 2 1,2
+The sizing is correct , I 'm not sure what happened .	1,2 Shoes#Size 2 3,4
+But , once on , they are the most moldable , soft , well fitting and supportive sandals I have .	17,18 Shoes#Quality 2 7,10	17,18 Shoes#Quality 2 16,17	17,18 Shoes#Quality 2 11,12	17,18 Shoes#Quality 2 13,14
+Only hose I buy !	1,2 Bottom#General 2 -1,-1
+It is a shoe that can be worn all day long without your feet getting tired .	3,4 Shoes#Quality 2 -1,-1
+These are comfortable nice looking sandals .	5,6 Shoes#Looking 2 3,4	5,6 Shoes#Quality 2 2,3
+it fit just fine but i thought the color was going to be darker , so i had to return it .	8,9 Clothing#Looking 0 13,14	-1,-1 Clothing#Size 2 2,4
+Bought a couple more just to have it around ; besides these are great under pants in the winter time .	-1,-1 Bottom#General 2 13,14
+I love the look of these tights , but the crotch area ripped within an hour of having them on .	10,12 Bottom#Quality 0 -1,-1	6,7 Bottom#Looking 2 1,2
+However I had to return them because they were a bit too wide .	7,8 Shoes#Size 0 9,13
+Love them fit as expected , I feel comfortable but dressy in them .	1,2 Clothing#Size 2 2,3	12,13 Clothing#Quality 2 8,9	1,2 Clothing#General 2 0,1	12,13 Clothing#General 2 10,11
+The shoe is so cute , and would have been perfect for an upcoming wedding , and for summer .	1,2 Shoes#General 2 10,11	1,2 Shoes#Looking 2 3,5
+I brought them for a Captain 's night on a cruise and they held up to the elegance of the night .	12,13 Shoes#Looking 2 -1,-1
+They are kinda narrow but will stretch being good leather .	0,1 Shoes#Size 0 3,4	9,10 Shoes#Quality 2 8,9
+Very comfortable to walk in .	-1,-1 Shoes#Quality 2 0,2
+great alone or under tight jeans	-1,-1 Bottom#General 2 0,1
+For $ 8 you simply ca n't go wrong .	-1,-1 Clothing#General 2 -1,-1
+I have a high arch and they give good support for my feet .	6,7 Shoes#Quality 2 8,9
+Plus , the label included with the sandals was missing the last 3 digits of the zip code , making me have to look up the zip at the post office , as I had not noticed it before I left home because I am almost legally blind .	7,8 Shoes#Quality 0 -1,-1
+These are very shimmery and beautiful to wear for dance !	-1,-1 Clothing#Looking 2 5,6	-1,-1 Clothing#Looking 2 2,4
+waist band is better than Bloch .	0,2 Clothing#General 2 3,4
+Would purchase it again .	-1,-1 Clothing#General 2 -1,-1
+Too narrow .	-1,-1 Shoes#Size 0 0,2
+Daughter says they fit nice .	2,3 Clothing#Size 2 4,5
+I have n't worn it with my party dresses , it looks too heavy and obvious .	-1,-1 Bottom#Looking 0 15,16	-1,-1 Bottom#Looking 0 12,14
+I have the same shoes in 3 different colors .	4,5 Shoes#General 2 -1,-1
+These shoes fit well I guess they 're not quite a dressy looking in person as I would have liked .	6,7 Shoes#Looking 0 8,12	1,2 Shoes#Size 2 3,4
+Excellent product and beautiful color	4,5 Clothing#Looking 2 3,4	1,2 Clothing#General 2 0,1
+I am thinking of possibly getting other colors .	-1,-1 Shoes#General 2 -1,-1
+the crotch was too low for a leotard ( I was wearing with a wonderwoman costume ) so I bought the next size up .	1,2 Bottom#Size 0 3,5
+They fit like other dancers products .	0,1 Clothing#Size 2 1,2
+These are SO COMFORTABLE !	-1,-1 Clothing#Quality 2 2,4
+Perfect shoe for my 14 year old theater bug .	1,2 Shoes#General 2 0,1
+Had to mail back which cost $ 13.00 ? ?	-1,-1 Service#General 0 -1,-1
+I like them but not a good fit for my AA foot .	2,3 Shoes#General 2 1,2	2,3 Shoes#Size 0 4,8
+Excellent	-1,-1 Clothing#General 2 0,1
+I do wish they had a little more cushioning in them .	3,4 Shoes#General 0 -1,-1
+The best .	-1,-1 Clothing#General 2 1,2
+Not the fanciest of shoes , but is exactly what I wanted !	-1,-1 Shoes#General 2 -1,-1
+They are so comfortable -- and quiet , which is important for my job .	0,1 Shoes#Quality 2 2,4	0,1 Shoes#Quality 2 6,7
+Perfect fit .	-1,-1 Clothing#Size 2 0,1
+They are a bit heavier than I would have thought but not uncomfortable .	0,1 Shoes#General 1 11,13	0,1 Shoes#Quality 0 2,5
+They are also very roomy and have a high waist band that offers some tummy control .	0,1 Bottom#Size 2 3,5	9,11 Bottom#General 2 -1,-1
+This is my daughter 's second pair .	-1,-1 Shoes#General 2 -1,-1
+I gave 2 stars because the overnight shipping was so reasonable .	6,8 Service#General 2 9,11
+The reason I gave this product three stars is because the waist band is very uncomfortable .	11,13 Bottom#Quality 0 14,16
+My daughter wore these for a couple of her school plays .	-1,-1 Clothing#General 2 -1,-1
+Past that , my product is perfect and I hope to have long wearing use from it that I am accustom to with Danskin tights .	4,5 Bottom#General 2 6,7
+She loved them !	2,3 Clothing#General 2 1,2
+Dressing in retro to ride in our '64 Impala just makes me happy .	-1,-1 Clothing#General 2 12,13
+They did squeak a little from rubbing on the base of the heel when walking .	0,1 Shoes#Quality 0 -1,-1
+They have so far outlasted the expensive ones we 've bought in the past .	0,1 Bottom#General 2 -1,-1
+the transition is easy from footed to non footed .	1,2 Service#General 2 3,4
+I usually do n't but tights online for my daughter for dance , but made an exception this time because amazon had a much better price than the local dance shop .	25,26 Bottom#Prices 2 23,25
+This is a Great pullover , it is nice and warm and fits great .	4,5 Top#Quality 2 10,11	4,5 Top#General 2 3,4	4,5 Top#Size 2 13,14	4,5 Top#General 2 8,9
+I can ' wear them at all , but they are cute .	9,10 Clothing#Looking 2 11,12	4,5 Clothing#General 0 -1,-1
+Good value for the teen that needs them for dance , but tends to rip them all the time ; ) They hold up better than any other brand .	21,22 Clothing#Quality 2 24,25	7,8 Clothing#General 2 0,2
+I ordered a large just to be on the safe side and I 'm so glad I did .	-1,-1 Bottom#Size 2 14,16
+Great color too .	1,2 Clothing#Looking 2 0,1
+They fit well and I am very pleased .	0,1 Shoes#General 2 6,8	0,1 Shoes#Size 2 2,3
+So again if you are taller or thicker you have been warned .	-1,-1 Clothing#Size 0 -1,-1
+The size 5x I received fits like a 3X .	1,2 Clothing#Size 0 -1,-1
+The only reason I returned these boots ( which were exactly as promised by the seller ) is because he went and got himself the EXACT same pair before the ones i ordered came in the mail .	6,7 Shoes#General 2 -1,-1
+Fits wonderfully under a Drindl dress and will give just enough poof to the skirt to make it sparkle !	-1,-1 Clothing#Size 2 1,2
+Great shoes in every color .	1,2 Shoes#General 2 0,1
+A little dramatic for every day use ( they are dance tights , after all ) , but they are perfect for awesome super shiny legs to kick butt with !	18,19 Bottom#General 2 20,21
+This is the most comfortable sandal I own - right out of the box .	5,6 Shoes#Quality 2 2,5
+Color was a bit darker than expected so I returned and got the next lighter shade .	0,1 Bottom#Looking 0 2,5
+The low heel made them very comfortable .	1,3 Shoes#Quality 2 -1,-1	4,5 Shoes#Quality 2 5,7
+I had to order the size smaller ( it fit beautifully ) .	-1,-1 Shoes#Size 2 10,11
+the shoe has a great look and feel .	5,6 Shoes#Looking 2 4,5	7,8 Shoes#pair 2 4,5
+Maybe it 's possible but I ca n't see how .	-1,-1 Bottom#Size 0 -1,-1
+Fit perfectly on my daughter who wears a 13.5-1 .	-1,-1 Shoes#Size 2 1,2
+The only reason I 'm giving four stars is the color .	10,11 Clothing#Looking 0 -1,-1
+Beautiful color ... ..tempted to buy another one !	-1,-1 Clothing#General 2 -1,-1	1,2 Clothing#Looking 2 0,1
+Not only do they provide more warmth and coverage than pantyhose/nylons in colder temperatures ( when you still want the bare leg look ) , they are also very comfortable and have held up to multiple washes so far .	25,26 Bottom#Quality 2 28,30
+The only things to note are , they are a bit darker than I anticipated with an ever so slight lean towards pink .	7,8 Bottom#Looking 0 9,12
+I have two other sandals in different colors and they are the most comfortable sandal I have ever bought .	14,15 Shoes#Quality 2 12,14
+Luckily , I got free returns so that I could order several sizes and I did not have to rely on the review only , but I would recommend to order several sizes when you are unsure like me .	-1,-1 Service#General 2 -1,-1
+I love these Life Stride Sandals .	5,6 Shoes#General 2 1,2
+I haven't worn them yet , but they are perfect for the All White Birthday Party I will be attending soon .	7,8 Clothing#General 2 9,10
+This pair has different width criss cross straps in the front - one sandal had narrower straps than the other .	0,2 Shoes#Looking 0 -1,-1	7,8 Shoes#Looking 0 15,16
+a little smaller than expected	-1,-1 Clothing#Size 0 0,3
+They are nice sturdy light colored tights .	6,7 Bottom#Looking 2 2,3	6,7 Bottom#Quality 2 3,4
+They are comfortable and look very neat with dresses or suits .	0,1 Shoes#General 2 2,3	0,1 Shoes#Looking 2 5,7
+There is no padding or arch support .	-1,-1 Shoes#Looking 0 -1,-1
+I normally wear an 8 1/2 and the arch is in the right place ; however on this shoe the 8 1/2 arch was too short .	18,19 Shoes#Size 0 24,26
+Just a nice , pretty shoe for going shopping or going out to eat .	5,6 Shoes#General 2 4,5	5,6 Shoes#General 2 2,3
+Soft , warm , comfortable .	-1,-1 Clothing#Quality 2 0,1	-1,-1 Clothing#Quality 2 4,5	-1,-1 Clothing#Quality 2 2,3
+Toe area too small as well as lengthI WONDER IF THESE SHOES ARE A KNOCKOFF AS THE INSIDE IS PEELING .	11,12 Shoes#General 0 -1,-1	0,2 Shoes#Size 0 2,4	7,8 Shoes#Size 0 2,4	17,18 Shoes#Quality 0 -1,-1
+They are not leather but look like they will be very durable .	7,8 Shoes#Quality 2 10,12
+I did n't like how sheer it was .	-1,-1 Bottom#Quality 0 1,4
+These tights are great !	1,2 Bottom#General 2 3,4
+They 're what I expected given the reviews .	0,1 Shoes#General 2 -1,-1
+I really like the shirt , but it 's too big .	4,5 Top#Size 0 9,11	4,5 Top#General 2 1,3
+The sleeves are pretty wide , so I have to watch myself when I go out to eat .	1,2 Top#Size 0 3,5
+Great tights , I wish the waist band was n't just a strip of elastic , and was more of a body shaper like classic pantyhose , but these tights are worth it even without .	29,30 Bottom#General 2 31,32	1,2 Bottom#General 2 0,1
+However they are a bit tight in the waist so I took 1 star off .	1,2 Clothing#Size 0 3,6
+I did struggle to get them buckled because the straps are pretty stiff .	9,10 Shoes#Quality 0 11,13
+: ( And they do n't come any larger .	3,4 Clothing#Size 0 -1,-1
+Like the softness of the leather but wish it was more shinny and less matte finish .	5,6 Shoes#Quality 0 -1,-1	5,6 Shoes#Quality 2 0,1
+The heel strap rubs/cuts slightly into my foot when I walk .	1,3 Shoes#Quality 0 -1,-1
+these tights fit very well and are a great material	1,2 Bottom#Size 2 3,5	9,10 Bottom#Quality 2 8,9
+We looked at several other boots these were his top choice and they lived up to our expectation	12,13 Shoes#General 2 -1,-1
+Loved the fit and was comfy all day at a con .	-1,-1 Clothing#Size 2 0,1	-1,-1 Clothing#Quality 2 5,6
+The height is great for a tall girl like me .	1,2 Shoes#General 2 3,4
+Description is deceptive .	0,1 Clothing#General 0 2,3
+Beautiful dance tights .	1,3 Bottom#Looking 2 0,1
+Very good fit , excellent material .	-1,-1 Shoes#Size 2 0,2	5,6 Shoes#Quality 2 4,5
+Would purchase from them again .	3,4 Service#General 2 -1,-1
+They also give a lot of support .	0,1 Socks#General 2 6,7
+I get a lot of compliments too .	-1,-1 Clothing#General 2 5,6
+These hold up pretty well for my daughter who is a dancer .	-1,-1 Bottom#General 2 3,5
+I am pleased with my Life Stride sandals .	7,8 Shoes#General 2 2,3
+She finds this style of shoe so comfortable that she asked me to get her the same shoe in red and beige .	3,4 Shoes#Looking 2 6,8
+no complaints .	-1,-1 Clothing#General 2 0,2
+It 's not denim it 's not even polyester-cotton , it 's some freaky synthetic .	-1,-1 Top#Quality 0 12,14	-1,-1 Top#Quality 0 14,15
+Nice fabric but fit very small .	-1,-1 Bottom#Size 0 4,6	1,2 Bottom#Quality 2 0,1
+I like these very much but they are just a tiny bit too small .	6,7 Bottom#General 2 1,2	6,7 Bottom#Size 0 12,14	6,7 Bottom#Size 0 9,12
+I love the look .	3,4 Shoes#Looking 2 1,2
+Perfect for dancers .	-1,-1 Bottom#General 2 0,1
+I have bunions on both feet and the soft leather on the sides have just enough stretch to not bind or rub my bunions .	9,10 Shoes#Quality 2 8,9
+They were easy to get on , not too tight , not too loose , etc .	0,1 Clothing#General 2 2,3	0,1 Clothing#Quality 2 7,10	0,1 Clothing#Quality 2 11,14
+The sole is all man made so it does not breath at all .	1,2 Shoes#Quality 0 -1,-1
+Thick .	-1,-1 Socks#Quality 2 0,1
+She loves them .	2,3 Shoes#General 2 1,2
+I really want these shoes to work out ...	4,5 Shoes#General 0 -1,-1
+Highly recommend these !	-1,-1 Clothing#General 2 0,2
+Once I got the right size they fit great and the quality is great .	11,12 Shoes#Quality 2 13,14	6,7 Shoes#Size 2 8,9
+love them , dancing all the time .	1,2 Clothing#General 2 0,1
+I sent them back	2,3 Clothing#General 0 -1,-1
+I was so happy I found the black again .	-1,-1 Shoes#General 2 2,4
+The only issue I have is that after reading a few reviews I decided to go one size bigger than I would normally wear , and it would be great but the arms of the hoodie are humungous !	32,33 Top#Size 2 37,38
+This tights is really awesome ...	1,2 Bottom#General 2 3,5
+Pink is nice with pink shoes .	0,1 Bottom#Looking 2 2,3
+I was worried when I opened the package because when holding it up , I could see through BOTH layers of this shirt !	-1,-1 Top#General 2 2,3	22,23 Top#Quality 0 -1,-1
+They are perfect for me to wear to church .	0,1 Shoes#General 2 2,3
+These tights not only look great and make legs look great , but they support beautifully and are more resistant to runs than nylons .	1,2 Bottom#Looking 2 10,11	1,2 Bottom#Looking 2 5,6	13,14 Bottom#Looking 2 15,16	13,14 Bottom#Quality 2 -1,-1
+Love the style and quality .	2,3 Shoes#Looking 2 0,1	4,5 Shoes#Quality 2 0,1
+Unfortunately , I had to pay for the return and it was almost $ 12 .	-1,-1 Service#General 0 -1,-1
+Thumbs up .	-1,-1 Clothing#General 2 -1,-1
+Like the leopard print , colors and soft cottton fabric .	8,10 Clothing#Quality 2 7,8	5,6 Clothing#Looking 2 0,1	2,4 Clothing#Looking 2 0,1
+They are very soft and the waistband is a little rigid but not a big deal at all .	6,7 Bottom#Quality 0 8,11	0,1 Bottom#Quality 2 2,4
+Very disappointed in the sizing as I have had other Lifestride shoes in an extra wide that fit great .	4,5 Shoes#Size 0 0,2	10,12 Shoes#Size 2 18,19
+Even when I stopped dancing , I still wear them with skirts and boots .	9,10 Bottom#General 2 -1,-1
+I really like this blouse and highly recommend , just size down .	4,5 Top#General 2 6,8	4,5 Top#General 2 2,3
+So comfortable and tough they are great for anything .	4,5 Top#General 2 6,7	4,5 Top#Quality 2 3,4	4,5 Top#Quality 2 0,2
+I just got these shoes and I 'm excited at how comfortable they seem , even for my wide yoga feet .	12,13 Shoes#Quality 2 11,12
+Not too high of a heel .	5,6 Shoes#Looking 2 0,3
+Looks good .	-1,-1 Top#Looking 2 1,2
+They 're cute and simple , with a slight heel that works well for me since I rarely wear heels.Following the other reviewer 's recommendations , I went a full size up for these shoes .	0,1 Shoes#Looking 2 2,3	0,1 Shoes#Looking 2 4,5	9,10 Shoes#Quality 2 12,13
+Perfect for the dock side picnic for which they were purchased , the price was also just right .	13,14 Shoes#Prices 1 16,18	8,9 Shoes#General 2 0,1
+I do n't even do ballet anymore , I just love these tights .	12,13 Bottom#General 2 10,11
+These moccasins are the best ever .	1,2 Shoes#General 2 4,5
+These tights are a lovely shade of ballet pink , and the material is thick and looks like it will hold up well with repeated washing .	12,13 Bottom#Quality 2 22,23	1,2 Bottom#General 2 4,5
+Arms too baggy .	0,1 Top#Size 0 1,3
+These , however , ripped on the front thigh/ leg during the first dance !	-1,-1 Clothing#Quality 0 -1,-1
+I just tried them on and they are a great fit. < a data-hook=product-link-linked class=a-link-normal href=/Danskin-Women-s-Convertible-Tight/dp/B001U88UU8/ref=cm_cr_arp_d_rvw_txt ? ie=UTF8 > Danskin Women 's Convertible Tight < /a >	6,7 Bottom#Size 2 9,10
+I like them and have three pairs .	2,3 Shoes#General 2 1,2
+Best tights around .	1,2 Bottom#General 2 0,1
+Thankfully the persob who drove me had an iphone and was able to find the zip code for me.Being sight-impaired , I need rides everywhere , so having to get a ride to the post office , having the zip missing , and having to pay over $ 11 to mail the sandals , has left me very dismayed .	-1,-1 Shoes#General 0 57,59
+You definitely get your money 's worth they 're very thick and nice and they last many years .	7,8 Bottom#Quality 2 9,11	7,8 Bottom#Prices 2 6,7	7,8 Bottom#General 2 12,13
+This watch is tiny and the perfect size for me .	7,8 Clothing#Size 2 6,7	1,2 Clothing#Size 0 3,4
+She loves them , says they are much more comfortable than those she spent a great deal more on .	2,3 Shoes#General 2 1,2	5,6 Shoes#Quality 2 7,10
+They just are not broken in good yet .	0,1 Clothing#General 2 6,7
+I chose theae , since they were the smallest heel .	2,3 Shoes#Looking 2 -1,-1
+She had been wearing them every night .	4,5 Shoes#General 2 -1,-1
+These are the softest slippers ever .	4,5 Shoes#Quality 2 3,4
+The fit nicely and are n't too tight .	-1,-1 Shoes#Size 0 4,8	-1,-1 Shoes#Size 2 2,3
+this looks good with his vest	-1,-1 Top#Looking 2 2,3
+I think once I wear these more that I will get to where I can wear them all day .	16,17 Clothing#General 2 -1,-1
+They are good quality material .	4,5 Bottom#Quality 2 2,3
+So I was n't sure how these were gon na be , but I adore them ! I 'm glad I took the other reviews advice and ordered up a size because the crotch .	15,16 Clothing#General 2 14,15
+they worked out wonderful ... we ordered more of them	0,1 Bottom#General 2 3,4
+I though this was a comfortable shoe that 's why I bought it but it really stiff in the arches that every time I go walking in it my feet hurt but maybe i just have weak arches it 's kind of lose in the heels but maybe i bought it too wide , hopefully it gets comfortable after a while .	6,7 Shoes#Size 0 51,53	6,7 Shoes#Quality 0 -1,-1	19,20 Shoes#Quality 0 15,17
+They are a good looking boot .	4,5 Shoes#Looking 2 3,4
+Not Sure if 9AA would work , but not going to pay return shipping to find out .	-1,-1 Shoes#General 0 -1,-1
+I like the idea of convertible tights , but not sure how to actually wear them as footless tights , as they have a little pouch for your toes .	5,7 Bottom#General 2 1,2
+The upper material is very soft and comfy .	1,3 Shoes#Quality 2 7,8	1,3 Shoes#Quality 2 4,6
+I 'm happy with this purchase .	5,6 Shoes#General 2 2,3
+Go down at least one or two sizes.These also are not at all as described - they are not silk touch pique but are a very rough cut material.Even worse , they are almost paper thin.Beware - you will end up paying the full amount to return ship anything defective or wrong description , etc ... to Nayked Apparel.The only beneficiary when you purchase this shirt is Port Authority and either UPS or USPS .	16,17 Top#General 0 -1,-1	65,66 Top#General 0 -1,-1	28,29 Top#Quality 0 25,27	31,32 Top#Quality 0 35,36	31,32 Top#Quality 0 29,30	7,8 Top#General 0 -1,-1
+They basically cover everything and are super thick , but they are also strangely comfortable and stretchy.Also , I was n't sure what color to get since I 'm very pale , but I ordered the light toast and it 's not too much darker than my skin tone as you can see from the photo .	0,1 Clothing#Quality 2 6,8	10,11 Clothing#Quality 2 16,17	10,11 Clothing#Quality 2 13,15
+Love this shoes .	2,3 Shoes#General 2 0,1
+Shiny and comfortable .	-1,-1 Bottom#Looking 2 0,1	-1,-1 Bottom#Quality 2 2,3
+The only reason that I gave it 4 stars is because they run at least two sized small !	11,12 Bottom#Size 0 17,18
+nice , comfortable , fit as expected	-1,-1 Clothing#Size 2 4,5	-1,-1 Clothing#General 2 0,1	-1,-1 Clothing#Quality 2 2,3
+I buy these tights for my daughter all the time for dance .	3,4 Bottom#General 2 -1,-1
+Great tights .	1,2 Bottom#General 2 0,1
+Fast shipping , very comfortable shoes .	1,2 Service#General 2 0,1	5,6 Shoes#Quality 2 3,5
+However the company does not do exchange.and deducts $ 6.00 from a refund I found in fine print .	-1,-1 Service#General 0 -1,-1
+Perfect for my daughter 's high school musical .	-1,-1 Clothing#General 2 0,1
+Good shoe for the price .	1,2 Shoes#Prices 2 0,1
+They have always been so comfortable .	0,1 Shoes#Quality 2 4,6
+Not thin like pantyhose but not thick as tights it right in the middle .	-1,-1 Bottom#Quality 2 -1,-1
+These are ones that I can wear all day .	-1,-1 Shoes#Quality 2 -1,-1
+Nice quality tight .	1,2 Bottom#Looking 2 0,1
+A little on the smaller side	-1,-1 Clothing#Size 0 4,5
+Good length and width .	3,4 Clothing#Size 2 0,1	1,2 Clothing#Size 2 0,1
+I have a complaint about the black rubber sole and stacked heel - the rubber is too soft and the back of the heel mars very easily .	14,15 Shoes#Quality 0 16,18	20,24 Shoes#Quality 0 -1,-1
+Excellent fit and size .	-1,-1 Clothing#Size 2 0,1
+They look cute , fit well , have good support and last .	0,1 Shoes#Looking 2 2,3	0,1 Shoes#Quality 2 8,9	0,1 Shoes#Quality 2 11,12	0,1 Shoes#Size 2 5,6
+They were not true to size .	5,6 Shoes#Size 0 -1,-1
+Excellent warm hoodie - great for winter .	2,3 Top#Quality 2 1,2	2,3 Top#General 2 0,1	2,3 Top#Quality 2 4,5
+These sandals are very soft on my feet and I can wear them all day while shopping or walking thru the mall .	12,13 Shoes#Quality 2 -1,-1	1,2 Shoes#Quality 2 3,5
+These tights go well with my Bal-Togs thong leotard and ballet slippers .	1,2 Bottom#General 2 3,4
+This gets even softer with every wash !	-1,-1 Clothing#General 2 2,4
+Hood isn't too big and the front pouch pocket is nice .	6,9 Top#General 2 10,11	0,1 Top#Size 2 1,4
+Fit perfectly .	-1,-1 Clothing#Size 2 1,2
+Very nice shade of red .	-1,-1 Shoes#General 2 0,2
+The head hole however is a tad bit small which makes it a bit difficult to get on and off smoothly , but that is n't a big deal .	1,3 Top#Size 0 6,9	-1,-1 Top#Quality 0 -1,-1
+Keep in mind they are tights so they are thick .	7,8 Bottom#Quality 1 9,10
+Love these .	-1,-1 Clothing#General 2 0,1
+I ordered a wide in my street size and they are a bit snug , but I am expecting them to stretch with use .	9,10 Clothing#Quality 2 11,14
+Very pleased with them .	3,4 Bottom#General 2 0,2
+I expected them to have a bit of padding inside the shoe , but they don't feel padded at all .	14,15 Shoes#General 0 -1,-1
+They would be great in every color so I wiki go back and order more ?	0,1 Shoes#General 2 3,4
+She loved how comfortable they were .	4,5 Shoes#Quality 2 3,4
+Perfect Tights !	1,2 Bottom#General 2 0,1
+sliding down , riding up ) , and they 've got full coverage and make your legs look great .	8,9 Bottom#Looking 2 18,19
+Shipping both ways totalled $ 12+ and I have nothing to show for it .	0,1 Service#General 0 -1,-1
+I will most likely purchase another pair .	-1,-1 Shoes#General 2 -1,-1
+the hose was fine and service was great ... I have no problems with them and would recommend them to anyone who needs them	5,6 Service#General 2 7,8	1,2 Bottom#General 2 3,4	18,19 Bottom#General 2 17,18
+They were really tight .	0,1 Shoes#Size 0 2,4
+Have worn and washed several times and they still look great .	7,8 Clothing#Looking 2 10,11
+The inside is REALLY comfortable ( if they fit ) .	1,2 Shoes#Quality 2 3,5
+They are very soft and I like how they 'transition ' .	8,9 Bottom#General 2 6,7	0,1 Bottom#Quality 2 2,4
+These are for dance ; we already knew that they run a bit tight / small .	9,10 Clothing#Size 0 11,14	9,10 Clothing#Size 0 15,16
+The shorts will last .	1,2 Top#Quality 2 -1,-1
+Great product	1,2 Clothing#General 2 0,1
+If comfort is what you 're after , go for these !	-1,-1 Shoes#Quality 2 1,2
+I was wanting something shiny , and firm , also just thick enough to be good quality and not run , but not as thick as fleece tights that are too hot .	26,28 Bottom#Quality 0 30,32
+I wash them out in warm water and hang dry them and they have lasted forever !	12,13 Bottom#Quality 2 -1,-1
+They usually last a whole dance season ! ! !	0,1 Bottom#Quality 2 -1,-1
+Runs very wide .	-1,-1 Shoes#Size 0 1,3
+The price was fantastic ! ! !	1,2 Shoes#Prices 2 3,4
+Love the shoe !	2,3 Shoes#General 2 0,1
+I love having the option to dance with toes in or out !	-1,-1 Clothing#General 2 1,2
+There needs to be a way around the hip area the tights can be more rounded .	11,12 Bottom#General 0 -1,-1
+I compared these to ones that aren't even as pretty locally , and these are a perfect bargain , for what you get .	-1,-1 Bottom#General 2 16,18
+STILL WEARS THEM A YEAR LATER !	2,3 Clothing#General 2 -1,-1
+My daughter wears a 6.5 shoe size so we sized up 1 size to a 7.5 as some suggested and they fit perfectly .	20,21 Shoes#Size 2 22,23
+The tights are comfortable and look good .	1,2 Bottom#Quality 2 3,4	1,2 Bottom#Looking 2 6,7
+The fit is great , and they are soft and comfortable .	6,7 Bottom#Quality 2 10,11	6,7 Bottom#Quality 2 8,9	-1,-1 Bottom#Size 2 3,4
+Please be sure to have the correct size when people order your shoes , it is disappointing to get a pair of shoes a whole size larger and they are too small ...	7,8 Shoes#Size 0 -1,-1
+Toe box too small .	0,2 Shoes#Size 0 2,4
+perhaps a little more on the barbie skin side of things , but definitely better to look more plasticky than ashy/dead .	-1,-1 Clothing#Looking 2 14,15
+Comfortable to walk and stand for hours at a time .	-1,-1 Shoes#Quality 2 0,1
+Look like a Rockette in these !	-1,-1 Clothing#Looking 0 -1,-1
+Just what my thespian needed for the play .	-1,-1 Clothing#General 2 -1,-1
+it fit okay	-1,-1 Clothing#Size 1 2,3
+And the size C has me pulling them up frequently .	7,8 Bottom#Size 0 9,10
+The fit was tight when they arrived .	-1,-1 Shoes#Size 0 3,4
+Nice and strong material and wo n't run easy .	3,4 Bottom#Quality 2 2,3	3,4 Bottom#Quality 2 -1,-1	3,4 Bottom#Looking 2 0,1
+It 's a bit loose but okay .	-1,-1 Shoes#General 1 6,7	-1,-1 Shoes#Size 0 2,5
+My daughter loves these tights !	4,5 Bottom#General 2 2,3
+My only hesitancy in giving it five stars is that the strap that holds it on your foot became looser than I would like almost immediately .	11,12 Shoes#Size 0 19,20
+Beautiful color - got the light blue .	1,2 Clothing#Looking 2 0,1
+These tights fit exactly as expected and they feel great .	7,8 Bottom#Quality 2 9,10	1,2 Bottom#Size 2 2,3
+On another note , customer service was awesome about accepting the return of the additional pair of shoes I ordered , and my refund was processed quickly .	5,6 Service#General 2 7,8	5,6 Service#General 2 -1,-1
+the color is as picture .	1,2 Top#Looking 1 -1,-1
+My co-workers recommended these for work and to have a nonskid sole put on by a cobbler ( $ 22 ) .	-1,-1 Shoes#General 2 2,3
+These shoes are very comfortable and look great !	1,2 Shoes#Looking 2 7,8	1,2 Shoes#Quality 2 3,5
+I also expected more shimmer -- these are about as shimmery as any other nylons , not the kind of sparkle I 'd want to wear to a party .	-1,-1 Clothing#pair 0 -1,-1
+I already had these shoes in a different color , so knew they would fit well .	12,13 Shoes#Size 2 15,16
+Works Perfect !	-1,-1 Clothing#General 2 1,2
+Overall we were pleased with the performance and fit .	-1,-1 Shoes#Size 2 3,4	6,7 Shoes#Quality 2 3,4
+I did like this shoe .	4,5 Shoes#General 2 2,3
+They 're not at all sheer , however .	0,1 Bottom#Quality 0 2,6
+It will keep you warm on chilly spring nights , Amazon has a full line of them , I bought two .	-1,-1 Top#Quality 2 4,5
+They do run a tiny bit small but with some stretching fit just fine .	0,1 Clothing#Size 2 13,14	0,1 Clothing#Size 0 3,7
+Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long .	17,18 Shoes#General 2 0,1	17,18 Shoes#Quality 2 16,17
+Works and fits great on my teenage dancer !	-1,-1 Clothing#Size 2 3,4
+So glad to have read other reviews .	-1,-1 Clothing#Size 2 0,2
+It 's like walking with the sides of your feet falling over a piece of hard rubber .	-1,-1 Shoes#General 0 -1,-1
+Buying more right now .	-1,-1 Top#General 2 -1,-1
+Absolutely horrible .	-1,-1 Bottom#General 0 0,2
+As for their purpose , I had no problems dancing in them : they were smooth enough to let me spin without issue and gave me traction so I was n't spinning out of control .	13,14 Shoes#Quality 2 15,17	11,12 Shoes#General 2 -1,-1
+Absolutely love these !	-1,-1 Clothing#General 2 0,2
+They fit true to size ( using Capezio chart ) but some people find it more comfy to order a size up , especially if the waistband bothers you .	0,1 Bottom#Size 2 2,3
+I love this brand of dance tights !	3,4 Bottom#Brand 2 1,2
+they changed their color .. i 've bought this a lot and light toast is n't the same as it 's been for the past 5 years .	3,4 Clothing#Looking 0 -1,-1
+These tights fit well and feel nice and soft !	1,2 Bottom#Size 2 3,4	1,2 Bottom#Quality 2 6,7	1,2 Bottom#Quality 2 8,9
+The leather is smooth and soft .	1,2 Shoes#Quality 2 5,6	1,2 Shoes#Quality 2 3,4
+Both models fit me like the description from Capezio predicted ( one like street shoe size , the other half a size up ) .	1,2 Shoes#Size 2 -1,-1
+( Also show off my muscles well , and some dance tights are too thick to do so ) .	10,12 Bottom#Quality 0 13,15	-1,-1 Bottom#Looking 2 6,7
+Fits perfectly , soft and very comfortable .	-1,-1 Shoes#Quality 2 3,4	-1,-1 Shoes#Quality 2 5,7	-1,-1 Shoes#Size 2 1,2
+I normally wear a 6 1/2 M , but because several of the reviews said this shoe was narrow , I chose a W and it fits fine .	-1,-1 Shoes#Size 2 27,28
+These shoes work really well if you 're going to walk a lot .	1,2 Shoes#Quality 2 3,5
+They are my everyday go to shoes .	0,1 Shoes#General 2 -1,-1
+These tights are perfect .	1,2 Bottom#General 2 3,4
+Light suntan , the color I bought , is quite light for dark tan or brown skin color .	0,2 Clothing#Looking 0 -1,-1
+My husband loves these boots .	4,5 Shoes#General 2 2,3
+These are the ones you want to get !	-1,-1 Bottom#General 2 -1,-1
+Other than that the shoe looks great with jeans or capri pants !	4,5 Shoes#Looking 2 6,7
+Hugs the foot comfortably and keeps the toes from sliding out the top .	-1,-1 Shoes#Quality 2 3,4	-1,-1 Shoes#Quality 2 -1,-1
+money wasted .	-1,-1 Shoes#General 0 -1,-1
+The shimmeriness is awesome - makes your legs look so smooth and young and sexy it 's unreal .	1,2 Bottom#Looking 2 9,11	1,2 Bottom#Looking 2 3,4	1,2 Bottom#Looking 2 14,15	1,2 Bottom#Looking 2 12,13
+Better than hose .	-1,-1 Bottom#General 2 0,1
+These pantyhose are very strong .	1,2 Bottom#Quality 2 3,5
+This tight are perfect , fits perfect , cover my legs beautiful	1,2 Bottom#General 2 3,4	1,2 Bottom#Size 2 6,7	1,2 Bottom#Looking 2 11,12
+I have had ladies ask me where I got them because they look for comfortable while being attractive .	11,12 Shoes#Quality 2 14,15	11,12 Shoes#Looking 2 17,18
+Have yet to dance it them - so not really a full review- but the fit nice out of the box , the test will be when I go salsa dancing when my hip heals .	-1,-1 Shoes#Size 2 16,17
+I had no discomfort during wear and no soreness after waltzing around for an hour on a hard dance floor .	-1,-1 Shoes#Quality 2 7,9	-1,-1 Shoes#Quality 2 2,4
+and the S/M fits me well in the legs , but from other reviews I knew the waist was going to be small , so I 'm just dealing with it , but very pleased with the color .	37,38 Clothing#Looking 2 33,35	-1,-1 Clothing#Size 2 5,6
+Dancer and she loves them .	4,5 Bottom#General 2 3,4
+Liked them , but returned them because of fit .	1,2 Shoes#General 2 0,1	5,6 Shoes#Size 0 -1,-1
+These are just as advertised though maybe just a tad small .	-1,-1 Clothing#General 1 2,5	-1,-1 Clothing#Size 0 7,11
+I read the reviews so I ordered the WW but they still feel a little tight .	10,11 Shoes#Size 0 13,16
+They probably would 've be fine but decided not to reorder .	0,1 Shoes#General 1 5,6	-1,-1 Shoes#General 0 -1,-1
+It is also very short .	-1,-1 Top#Size 0 3,5
+Why shoe manufacturers change out basic , comfortable styles is beyond me.With its low heel and soft cross straps , the Mimosa is very comfortable .	17,19 Shoes#Quality 2 16,17	14,15 Shoes#Looking 0 13,14	21,22 Shoes#Quality 2 23,25
+Wasn't a big deal , I actually like the light grey better .	-1,-1 Top#Looking 2 7,8
+I had ordered a pair for Mothers Day and it 's exactly what I was looking for .	-1,-1 Shoes#General 2 -1,-1
+Would viy them again	2,3 Clothing#General 2 -1,-1
+Flamenco Shoes ... Happy for the fit and performance !	8,9 Shoes#Quality 2 3,4	-1,-1 Shoes#Size 2 3,4
+They will be dancing in these so getting a shoe that is too big is not an option a perfectly fitting shoe is a must ... they run small ... she is only wearing knee highs so they do run small ... the quality is better than the dance studios have locally as we needed for a choir and they are comfy out of the box she said so all is good here ...	59,60 Shoes#Quality 2 61,62	43,44 Shoes#Quality 2 45,46
+Last a lot longer , slimming and look great	-1,-1 Clothing#Quality 2 1,4	-1,-1 Clothing#Looking 2 5,6	-1,-1 Clothing#Looking 2 8,9
+Comfortable , nice hieght and affordable .	-1,-1 Shoes#Quality 2 0,1	-1,-1 Shoes#Prices 2 5,6	3,4 Shoes#General 2 2,3
+Smooth , tanned and shimmery !	-1,-1 Bottom#Looking 2 2,3	-1,-1 Bottom#Looking 2 4,5	-1,-1 Bottom#Quality 2 0,1
+Garbage .	-1,-1 Socks#General 0 0,1
+i was surprised how it was see thru on the areas i did n't want it to be .	-1,-1 Bottom#General 0 2,3
+I 'm very white and it blended well with my skin tone so very impressed .	-1,-1 Bottom#General 2 -1,-1
+the shoes are comfortable and stable .	1,2 Shoes#Quality 2 3,4	1,2 Shoes#Quality 2 5,6
+great	-1,-1 Clothing#pair 2 0,1
+Also , shoe mall does not allow free returns .	-1,-1 Service#General 0 -1,-1
+It is a good shirt for the price and does not need ironing if pulled out when the drier is done .	7,8 Top#Prices 2 3,4
+Front toes area too narrow and heel area to large .	6,8 Shoes#Size 0 8,10	0,3 Shoes#Size 0 3,5
+good for practice not so good for performance .	-1,-1 Shoes#Looking 0 3,6	-1,-1 Shoes#Quality 2 0,1
+It is like wearing a navy colored little pillow under your tired old feet .	-1,-1 Shoes#Looking 2 -1,-1
+I have bought a few pairs in different colors through the years and was always satisfied .	-1,-1 Shoes#General 2 14,16
+I can wear them now if not doing a lot of walking , but they are lather and will stretch a little , so I 'm happy with them .	28,29 Shoes#General 2 26,27
+Pretty disappointed because I really wanted to try these out ...	-1,-1 Bottom#General 0 0,2
+Not much support and a liitle tight for the wide that I ordered .	-1,-1 Clothing#Size 0 4,7	-1,-1 Clothing#Quality 0 -1,-1
+I 've ordered similar character shoes from other manufacturers and , as long as I size up , they fit beautifully .	18,19 Shoes#Size 2 20,21
+I love these shoes .	3,4 Shoes#pair 2 1,2
+Have them in 3 colors	1,2 Clothing#General 2 -1,-1
+Soft , thick and rugged .	-1,-1 Clothing#Quality 2 0,1	-1,-1 Clothing#Quality 2 2,3	-1,-1 Clothing#General 2 4,5
+Gift was liked , said to be very comfortable	-1,-1 Clothing#General 2 2,3	-1,-1 Clothing#Quality 2 7,9
+I wanted navy blue to wear with slacks while the weather is still nice and these fit perfectly the moment I put them on .	-1,-1 Shoes#Size 2 17,18
+It ran small and the quality was just not there .	5,6 Shoes#Quality 0 -1,-1	-1,-1 Shoes#Size 0 2,3
+These tights are a drag queens best friend !	1,2 Bottom#General 2 6,7
+these are my favorites ! ! !	-1,-1 Bottom#General 2 3,4
+Very shimmery , nice and sturdy .	-1,-1 Bottom#Looking 2 3,4	-1,-1 Bottom#Quality 2 5,6	-1,-1 Bottom#Looking 2 0,2
+But they have one major flaw : the waistband is way too tight .	8,9 Bottom#Size 0 11,13
+They fit well and look good and cheaper here than elsewhere .	0,1 Clothing#Size 2 2,3	0,1 Clothing#Looking 2 5,6	0,1 Clothing#Prices 2 7,8
+They fit very well and I am happy with them .	9,10 Bottom#General 2 7,8	0,1 Bottom#Size 2 2,4
+Love the shimmer on these !	-1,-1 Clothing#Looking 2 0,1
+I do n't know why other makers do n't make their products shine - it 's so flattering .	-1,-1 Bottom#Looking 2 17,18
+Love the shine for ballroom dance	-1,-1 Clothing#General 2 0,1
+The S/M were way too short.She has longish legs , but the sizing here is way off .	12,13 Clothing#Size 0 -1,-1	1,2 Clothing#Size 0 4,6
+Wonderfully soft .	-1,-1 Shoes#Quality 2 0,2
+These were just too shimmery for my taste , so I returned them .	12,13 Clothing#General 0 -1,-1	12,13 Clothing#Looking 0 2,5
+I 'm only 5 ' 2 so they give me just a comfortable platform .	7,8 Shoes#Size 2 12,13
+super comfy .	-1,-1 Clothing#Quality 2 0,2
+I reordered an 8.5 WW and they still hurt .	6,7 Shoes#Size 0 8,9
+So of course I will return them .	6,7 Shoes#General 0 -1,-1
+It 's okay however I will not be buying another one .	-1,-1 Top#General 1 2,3	-1,-1 Top#General 0 -1,-1
+They are a nice thick material and do n't run easily .	5,6 Bottom#Quality 2 4,5	5,6 Bottom#Looking 2 3,4
+Did not work favorably for me..	-1,-1 Service#General 2 3,4
+The heals are not too high .	1,2 Shoes#Looking 2 3,6
+I can already tell the left boot fits different than the right and has a spot that is rubbing into the ankle .	-1,-1 Shoes#Looking 0 -1,-1
+I got the light toast because they looked nude in the picture but they are way too dark for me .	13,14 Bottom#Looking 0 16,18
+I ordered an XXL because I don't like super tight tights .	10,11 Bottom#Size 0 8,10	10,11 Bottom#General 0 6,8
+ordered these in natural ( which doesnt seem to be available currently ) for a friend , and they are a much more alive color than nude .	24,25 Clothing#Looking 2 23,24
+the esthetics of the shoes is questionable .	1,2 Shoes#Quality 0 6,7
+I 'm 110 lbs and only 5 ' and the waist band to fit my legs properly is worn as high as my waist .	-1,-1 Bottom#Size 0 -1,-1
+They are a simple design that I plan to use as business casual dress .	4,5 Shoes#Looking 2 3,4
+These Life Stride Mimosa Sandals felt good when I put them on but I could tell it was n't a great fit .	4,5 Shoes#Size 0 -1,-1	4,5 Shoes#General 2 6,7
+i was expecting some bad quality sweat but this sweat is fantastic .	9,10 Top#General 2 11,12
+The cost was very reasonable and the quality was better than expected .	7,8 Clothing#Quality 2 9,10	1,2 Clothing#Prices 2 3,5
+Danskin is always a great choice .	0,1 Clothing#Brand 2 4,5
+Thanks to being deer skin , they stretch just the right amount .	6,7 Shoes#Size 2 -1,-1	3,5 Shoes#Looking 2 0,1
+I love this and wear it all the time .	-1,-1 Clothing#General 2 1,2
+The toe of the shoe is very soft and comfortable but the sling back is elastic and not at all adjustable .	1,2 Shoes#Quality 2 6,8	12,14 Shoes#Looking 0 -1,-1	1,2 Shoes#General 2 9,10
+It looks a little dressy but feels like a very comfortable walking shoe .	-1,-1 Shoes#Looking 2 2,5	-1,-1 Shoes#Quality 2 10,11
+The shoe I received was small for a 5.5 so I recommend ordering at least a size up .	1,2 Shoes#Size 0 5,6
+I would buy it again .	-1,-1 Shoes#General 2 -1,-1
+very relaxed .	-1,-1 Shoes#Looking 2 0,2
+The ties always come undone .	1,2 Shoes#General 0 -1,-1
+Sizing is incorrect !	0,1 Clothing#Size 0 2,3
+The only issue is that it has begun to pill with wear .	-1,-1 Clothing#Quality 0 -1,-1
+I love these tights , nice and sturdy and can put up with a beating .	3,4 Bottom#Quality 2 7,8	3,4 Bottom#Looking 2 5,6	3,4 Bottom#General 2 1,2
+I got a new muffin top from this .	-1,-1 Clothing#General 0 -1,-1
+Fit well	-1,-1 Clothing#Size 2 1,2
+These are truly for the stage	-1,-1 Clothing#General 2 -1,-1
+The sole allows for sliding and spinning , as required .	1,2 Shoes#General 2 -1,-1
+Fit perfect and a good buy for the money .	-1,-1 Shoes#Prices 2 4,5	-1,-1 Shoes#Size 2 1,2
+I love this shoe !	3,4 Shoes#General 2 1,2
+My Mom wears a 16 in blouses and it 's huge on her !	-1,-1 Top#Size 0 10,11
+My only wish is that the soles were thicker ; they wear thin quickly .	10,11 Shoes#Quality 0 12,14
+Barring the fact that it came in a decrepit box , something no department store would give you brand new shoes in , it fitted as expected and was comfortable .	-1,-1 Shoes#Size 2 -1,-1	-1,-1 Shoes#Quality 2 29,30
+smart and comfortable .	-1,-1 Shoes#Quality 2 2,3	-1,-1 Shoes#Quality 2 0,1
+The light suntan color was a perfect to match her jazz shoes which is why we chose this color .	1,4 Clothing#Looking 2 6,7
+It 's a tiny bit short , but since they have open toes they work just fine .	13,14 Shoes#Quality 1 15,17	-1,-1 Shoes#Size 0 3,6
+These shoes were ordered in an extra wide and they were not even close to a wide .	9,10 Shoes#Size 0 -1,-1
+I like the heel height and the style .	3,5 Shoes#Looking 2 1,2	7,8 Shoes#Looking 2 1,2
+The best pairs of sandals I have ever bought .	4,5 Shoes#General 2 1,2
+Perfect ! ! !	-1,-1 Top#General 2 0,1
+As other reviewers noted , they run narrow .	5,6 Shoes#Size 0 7,8
+I own one in every color that it is available .	-1,-1 Shoes#General 1 9,10
+Only problem is that it was too large .	-1,-1 Shoes#Size 0 6,8
+I can't begin to tell you how disappointed I was in the Mimosa in a wide size .	12,13 Shoes#Size 0 7,8
+I do love having the strap , and I do love being able to find a N in width .	-1,-1 Shoes#Size 2 10,11	5,6 Shoes#General 2 2,3
+I 'd buy more colors , but they 're not always available in my size & width.My one quibble , the reason I ca n't give these shoes five stars , is that after a year or so of intermittent wear , no more than once a week , they tend to deteriorate , fast .	27,28 Shoes#General 0 -1,-1	49,50 Shoes#Quality 0 52,53
+Very comfortable tights but a little tight at the waist line .	2,3 Bottom#Quality 2 0,2	9,11 Bottom#Size 0 4,7
+However , it was very large and I coul n't keep it on my foot it .	-1,-1 Shoes#Size 0 4,6
+Always have liked Danskin for performimg !	3,4 Clothing#General 2 2,3
+I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings .	53,54 Bottom#General 2 52,53	5,6 Bottom#General 2 3,4
+She will not be able to use them .	7,8 Clothing#General 0 -1,-1
+Highly recommended .	-1,-1 Bottom#General 2 0,2
+I like these tights .	3,4 Bottom#General 2 1,2
+I love the shimmer -- and I love the TOAST color , as I have pasty white legs .	9,11 Bottom#Looking 2 7,8	3,4 Bottom#Looking 2 1,2
+( It 's easier for me as an Amazon Prime customer to buy two and return one -- avoid the re-stocking fee ) .I 'm glad I finally broke down and bought a real deal dancing shoe like this .	36,37 Shoes#pair 2 -1,-1
+They are so comfortable to wear that she wears them instead of her regular black dress shoes .	0,1 Shoes#Quality 2 2,4
+These tights are shiny and super small .	1,2 Bottom#Size 0 5,7
+Another complaint is that they are so hard to find !	4,5 Shoes#General 0 -1,-1
+Perfect classic shoe	2,3 Shoes#General 2 0,1
+great granddaughter loved them	3,4 Clothing#General 2 2,3
+I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly .	-1,-1 Shoes#Size 2 10,12	-1,-1 Shoes#Size 2 26,27
+perfect color , fit and style .	1,2 Clothing#Looking 2 0,1	-1,-1 Clothing#Size 2 0,1	5,6 Clothing#Looking 2 0,1
+These have the old style waistband that is uncomfortable , but they made new ones that have a non-elastic knit waistband that is amazing ... ..those were not available when I bought these .	5,6 Bottom#Quality 0 8,9	18,21 Bottom#General 2 23,24
+I have now warn them 4 times and they have stayed in shape and look and feel great .	8,9 Bottom#Quality 2 17,18
+Comfortable and warm .	-1,-1 Clothing#Quality 2 0,1	-1,-1 Clothing#Quality 2 2,3
+nice shoes	1,2 Shoes#General 2 0,1
+They seem to run true to size .	6,7 Shoes#Size 2 4,5
+Only brand I will buy from now on !	1,2 Bottom#General 2 -1,-1
+If you have thin ankles , you might need to make an extra hole in the fastening.FOOTBED : I preferred the footbed of the caramel colored shoes , which feel like ( fake ) leather .	21,22 Shoes#General 2 19,20
+Hides leg hair fairly well and I 'd say I have moderately hairy/dark legs .	-1,-1 Bottom#Looking 2 3,5
+it runs a bit small	-1,-1 Clothing#Size 2 2,5
+In another , though , the upper materials started to flake off !	6,8 Shoes#Quality 0 -1,-1
+Disappointing .	-1,-1 Bottom#General 0 0,1
+the shoe overall would have been comfortable if it were a size smaller however I could not exchange them because one of the shoes looked like it had been worn when I received it - did n't pursue the matter .	18,19 Service#General 0 -1,-1	1,2 Shoes#Size 0 -1,-1
+Would recommend to anyone who is looking for dance shoes to buy	-1,-1 Shoes#General 2 1,2
+No complaints on service and packaging .	5,6 Service#General 1 0,2	3,4 Service#General 1 0,2
+The heel is just right .	1,2 Shoes#General 1 3,5
+They also are quite warm too .	0,1 Bottom#Quality 2 3,5
+I really love them , but did n't have my size in stock.I really would like to know when my size is in stock .	-1,-1 Service#General 0 -1,-1	3,4 Clothing#General 2 1,3
+One sock was 3 inches shorter than the other !	1,2 Socks#Size 0 5,6
+I don't know how they fit because I am returning them due to the color .	10,11 Clothing#Looking 2 -1,-1
+They seemed at least 2 sizes too small .	0,1 Bottom#Size 0 6,8
+Actually , most Life Stride shoes are comfortable for me .	5,6 Shoes#Quality 2 7,8
+This top is fashionable and flattering to the wearer .	1,2 Top#Looking 2 5,6	1,2 Top#Looking 2 3,4
+Sharp looking boot .	2,3 Shoes#Looking 2 0,1
+They are very comfortable with the exception of the strap at the heel .	9,10 Shoes#Quality 2 -1,-1	0,1 Shoes#Quality 2 2,4
+Way too small !	-1,-1 Clothing#Size 0 1,3
+Love this deep forest green color too !	2,6 Top#pair 2 0,1
+I usually wear a 9N and I was excited to get this sandal .	12,13 Shoes#General 2 8,9
+They are not uncomfortable , they just do n't fit the same .	0,1 Shoes#Quality 1 2,4	5,6 Shoes#Size 0 7,10
+I always buy a 7 and they fit like a 6 1/2 .	6,7 Shoes#Size 0 -1,-1
+Had to send back ... .Really was hoping these were going to fit .	-1,-1 Shoes#Size 0 -1,-1
+I 'm usually a size six , but just barely am a Large/XL based on the sizing chart on the package , which seems to be about right ( they are just a little too small , no matter how I try to stretch them ) .	29,30 Bottom#Size 0 32,36
+The leather is much softer than all others .	1,2 Shoes#Quality 2 3,5
+Love the look get compliments all the time .	2,3 Clothing#Looking 2 0,1	-1,-1 Clothing#General 2 -1,-1
+They are thick material that last long through all the dance classes our girls are involved in .	3,4 Bottom#Quality 2 2,3
+I might even buy another pair in a different color .	-1,-1 Shoes#General 2 -1,-1
+Very comfotable , a fine shoe made well	5,6 Shoes#General 2 4,5	5,6 Shoes#Quality 2 0,2	5,6 Shoes#General 2 7,8
+You can wear it everything and anything .	-1,-1 Shoes#General 2 -1,-1
+They are recommended and the price is very reasonable .	0,1 Shoes#General 2 2,3	5,6 Shoes#Prices 2 7,9
+I am 5 ' 2 1/2 inches with a somewhat athletic build and I ordered a size large/xtra large and they fit just fine .	20,21 Clothing#Size 2 22,24
+Wayyyyy too small	-1,-1 Clothing#Size 0 1,3
+I used to wear Mimosa 's all the time .	4,6 Shoes#General 2 -1,-1
+These shorts are the original of all the sports shorts .	1,2 Top#General 2 4,5
+I have purchased these sandals two times - first time 3 years ago !	4,5 Shoes#General 2 -1,-1
+Not worth the money !	-1,-1 Clothing#General 0 0,2
+Love that shoe has leather sole rather than cloth .	2,3 Shoes#General 2 0,1
+Fit nice .	-1,-1 Clothing#Size 2 1,2
+They were big enough and wide enough and PHEWWWWWW ... not super expensive	0,1 Clothing#Size 2 5,7	0,1 Clothing#Size 2 2,4	0,1 Clothing#Prices 1 10,13
+Very slippery soles .	2,3 Shoes#Looking 0 0,2
+I found these here , and ordered the same ones I had before , and am very happy about it .	-1,-1 Shoes#General 2 16,18
+Came in plenty of time .	-1,-1 Service#General 2 -1,-1
+LIght weight enough for warm weather .	-1,-1 Bottom#Quality 2 0,1
+These are the PERFECT color ( very natural looking for me ) , very durable , and nice and warm !	4,5 Clothing#Looking 2 3,4	4,5 Clothing#Looking 2 6,8	-1,-1 Clothing#Looking 2 17,18	-1,-1 Clothing#Quality 2 19,20	-1,-1 Clothing#Quality 2 13,15
+Nice shoe for special occasions .	1,2 Shoes#General 2 0,1
+I 've purchased them before in a variety of colors .	3,4 Shoes#General 2 -1,-1
+It is quite comfortable and fills my need for a navy sandal .	11,12 Shoes#Quality 2 2,4
+I 'm 5 ' 7 and 117 pounds , normal size is XS or S in clothes ( size 2-6 depending on cut/style ) and yet I got large/extra large and am glad I did - there is a size chart on the back that confirms that was right choice .	-1,-1 Clothing#General 2 32,33
+I would order a size up , but if these had been the right color I would have kept them .	19,20 Shoes#pair 2 -1,-1
+You have to have little to no arch or instep for these to fit .	-1,-1 Shoes#Size 0 -1,-1
+This allows my daughter to pull her foot out and wear sanders in the summer without having to take off the tights .	21,22 Bottom#General 2 -1,-1
+I ordered my normal size and the fit was perfect .	-1,-1 Shoes#Size 2 9,10
+Really comfy .	-1,-1 Shoes#Quality 2 0,2
+He searched for quite a while to find boots that did not have a zipper , had steel toes , and were tough enough for wearing when he was riding his Harley .	8,9 Shoes#Quality 2 22,24
+it is soft in and decent hood .	6,7 Top#Quality 2 5,6	-1,-1 Top#Quality 2 2,3
+I tend to get them in several colors at the same time because they fit so well and last well .	13,14 Shoes#Size 2 15,17	13,14 Shoes#Quality 2 19,20
+I WOULD RECOMMEND THIS SHOETO ANYONE .	4,5 Shoes#General 2 2,3
+I 'm 5 ' 9 165 and I got size D and they fit perfectly .	12,13 Clothing#Size 2 14,15
+These have the shine of nylon pantyhose , yet the thickness , opacity , and durability of dance tights .	17,19 Bottom#Quality 2 -1,-1
+Worked pretty well for carnival .	-1,-1 Clothing#General 2 1,3
+It still feels a little snug on my big toe but expect that to subside as I break in the shoes .	-1,-1 Shoes#Quality 2 3,6
+I wanted a more blacker tight .	-1,-1 Bottom#Looking 0 -1,-1
+I have long legs though so I bought a B size and it is still a bit too small but if I went for a C size , the stockings probably would not have been snug on my legs ... Would recommend purchase - but if you are at all worried about size ; buy one size up .	29,30 Socks#Quality 0 32,36	29,30 Socks#Size 0 15,19	-1,-1 Socks#General 2 41,42
+it feels softer and does n't cut into your skin ...	-1,-1 Bottom#Quality 2 2,3
+I actually purchased the crinoline before the dress and jacket I planned to wear were made.Unfortunately , the dress did not fit as I had hoped but after some rethinking , the dress became a skirt and with the right accessories -- THE CRINOLINE BEING THE MOST IMPORTANT PIECE -- I had the 1950 's outfit I wanted.The crinoline really brought back such comforting memories of my childhood , when ladies actually dressed up to go out and the poofier your skirt was the better it looked.I love this crinoline and I 'm trying to think of ways to incorporate it into my daily wardrobe and not just wear it for special occasions .	89,90 Top#General 2 87,88	18,19 Top#Size 0 20,22	18,19 Top#Size 0 15,16	18,19 Top#General 2 84,85
+The shoes are comfortable , however , the small elastic insert at the back of the rightshoe could be tighter .	9,10 Shoes#Looking 0 -1,-1	1,2 Shoes#Quality 2 3,4
+A little too small but they are ok	5,6 Clothing#General 1 7,8	5,6 Clothing#Size 0 1,4
+But they are definitely eye catching with the toe and heel clips which has gotten me many compliments , so this is why I gave it three stars not one .	1,2 Shoes#Looking 2 3,6
+Avoid.Port Authority Women 's Silk Touch Polo run w-a-y big .	4,7 Top#General 0 0,1	4,7 Top#Size 0 9,10
+I wear a size 4 women 's shoe and finding shoes in that size is very difficult so I appreciate that Capezio continues to make small sizes and their shoes are comfortable and well made to handle the stress dancers put on their shoes .	29,30 Shoes#Quality 2 33,34	29,30 Shoes#Quality 2 31,32
+I cosplay a character which wears a thong , I wear these to make my legs look a lot nicer .	-1,-1 Clothing#Looking 2 17,20
+Seems narrow at the toe , forces my big toe into an uncomfortable angle .	4,5 Shoes#Quality 0 12,13
+The only issue I have with them is the hole in the foot of the tights is too small ( I pull the tights up to my knees for modern and when I 'm on flat in ballet ) , but this is easily remedied by by pulling until they stretch all the way out and putting clear nail polish on any tear that 's made .	23,24 Clothing#General 0 -1,-1
+nice shoes very comfy	1,2 Shoes#General 2 0,1	1,2 Shoes#Quality 2 2,4
+I will add arch support only because I need help there in any shoe , but I look forward to a long and happy relationship ... : )	-1,-1 Shoes#General 2 -1,-1
+These shoes are poorly designed .	1,2 Clothing#Looking 0 3,5
+These were for a costume and I thought they were really nice - great quality and they looked great , nice and smoothing with a pretty shine .	14,15 Clothing#Quality 2 11,14	16,17 Clothing#Looking 2 20,21	16,17 Clothing#Quality 2 22,23	16,17 Clothing#Looking 2 18,19	16,17 Clothing#Looking 2 25,26
+tried to break them in so wore outside which meant I could not return ( my fault should have started in house only )	-1,-1 Shoes#General 0 -1,-1
+I 've now had them and really worn them for 6 months and they are going strong !	13,14 Bottom#Quality 2 16,17
+When I tried my new pair on I was , once again , so well pleased at how well they look on me .	19,20 Bottom#General 2 13,16	19,20 Bottom#General 2 18,19
+This is my third purchase of the Deerskin Gore Front Moccasin .	7,11 Shoes#General 2 -1,-1
+Thick material , warm and soft .	1,2 Bottom#Quality 2 3,4	1,2 Bottom#Quality 2 0,1	1,2 Bottom#Quality 2 5,6
+Looks as pictured , fit was perfect .	-1,-1 Clothing#Looking 2 6,7	-1,-1 Clothing#Size 2 6,7
+Fit was great and just as expected .	-1,-1 Bottom#General 2 2,3
+Not complimentary to the shoe .	4,5 Shoes#General 0 0,2
+So when I have my toes/the ball of the foot on the ground , the back part of the heel does not touch the ground .	-1,-1 Shoes#Looking 0 -1,-1
+Comfortable sandals .	1,2 Shoes#Quality 2 0,1
+Good fit .	-1,-1 Bottom#Size 2 0,1
+I 'm fairly light skinned and the toast is not too dark .	7,8 Bottom#Looking 2 9,12
+These did not fit me at all .	-1,-1 Shoes#Size 0 -1,-1
+I was skeptical because of the width , but they are just right .	9,10 Shoes#Size 1 11,13
+But when i wore them to a one hour tango class , followed by a milonga ( dance party ) i had to take the shoes off because the heel cup rubbed the side of my ankle horribly .	29,31 Shoes#Quality 0 -1,-1
+Love the look of them & they are so easy to wear .	2,3 Clothing#Looking 2 0,1	6,7 Clothing#Looking 2 -1,-1
+I am in Jamaica and I was excited to receive my tights today .	11,12 Bottom#General 2 7,8
+They seem durable , but you 've got to handwash them -- last a good year or two for sure .	0,1 Clothing#General 2 14,15	0,1 Clothing#Quality 2 2,3
+You really let me down when this shoe did not even look wide .	7,8 Shoes#Size 0 -1,-1
+They are soft , and warm and inexpensive ..	0,1 Clothing#General 2 2,3	0,1 Clothing#Prices 2 7,8	0,1 Clothing#Quality 2 5,6
+As I fall firmly into the first category and only wear them for dancing , they work very well for me .	15,16 Shoes#Quality 2 17,19
+great service and a great product	1,2 Service#General 2 0,1	5,6 Clothing#General 2 4,5
+I wear a 7-1/2 shoe and ordered a full size larger which fit well .	-1,-1 Shoes#Size 2 13,14
+Not much to say about it ... beautiful , elegant , comfortable , just the way it was described .As I said ... ... .. Simply perfect ! ! ! ! ! ! ! ! ! ! ! ! ! ! !	-1,-1 Clothing#Looking 2 9,10	-1,-1 Clothing#General 2 25,27	-1,-1 Clothing#Quality 2 11,12	-1,-1 Clothing#Looking 2 7,8
+I returned them but I did like the shoe .	8,9 Shoes#pair 2 6,7
+The size chart on the package is accurate , but it is different than the standard Amazon size chart for women , so be careful .	1,3 Bottom#Size 2 7,8
+I was pleasantly surprised to find that these shoes were narrow enough for my 7 1/2 AA foot .	8,9 Shoes#General 2 2,4	8,9 Shoes#Size 2 10,12
+The area across the top of the foot is very tight .	1,2 Shoes#Size 0 9,11
+I like the shoes very much .	3,4 Shoes#General 2 1,2
+Holds up well through numerous laundry procedures , very silky feel .	-1,-1 Top#General 2 2,3	10,11 Top#Quality 2 8,10
+They felt a little tight , so I went with the next size .	0,1 Shoes#Size 0 2,5
+The waist band is wider and stretches higher to keep from rolling down .	1,3 Bottom#Size 2 7,8	1,3 Bottom#Quality 2 4,5
+They are pretty and practical and more feminine than many sandals .	0,1 Shoes#Quality 2 4,5	0,1 Shoes#General 2 2,3	0,1 Shoes#Looking 2 6,8
+Amazon is good about returns , thank goodness .	0,1 Service#General 2 2,3
+These are super soft .	-1,-1 Clothing#pair 2 2,4
+I am 5 ' 6 - 125 lbs and the Lg/Xlg fits very well .	-1,-1 Clothing#Size 2 12,14
+Good quality .	1,2 Clothing#Quality 2 0,1
+This is my second or third round of purchasing these sandals over several years .	10,11 Shoes#General 2 -1,-1
+These are nice thighs .	3,4 Bottom#Looking 2 2,3
+I 've worn and washed it twice and it looks great !	-1,-1 Clothing#Looking 2 10,11
+The toe area is a little narrow so I am glad I chose the larger size .	1,3 Shoes#Size 0 4,7
+And has become one of my favorite go-tos .	-1,-1 Shoes#General 2 6,7
+A small point , but one that knocked a star off this review for me .	-1,-1 Shoes#General 0 -1,-1
+It got easier the more I wore them , but that first time was a real pain .	7,8 Shoes#Quality 0 16,17
+The waistband and is a little tight but it keeps the tights up and does n't roll .	1,2 Bottom#Size 0 4,7
+Having the soles of the feet exposed is good for my exercise classes .	2,3 Shoes#General 2 8,9
+Too bad it made with not leather .	-1,-1 Shoes#Quality 0 0,2
+I do look forward to wearing them when the weather turns warmer .	6,7 Shoes#Quality 2 -1,-1
+It fit well , and after washing it several times , I am pleased with the quality .	-1,-1 Top#Size 2 2,3	16,17 Top#Quality 2 13,14
+Super quality	1,2 Clothing#General 2 0,1
+i still love it	-1,-1 Bottom#General 2 2,3
+These were some nice comfortable boots that looked stylish with jeans or dress pants .	5,6 Shoes#Looking 2 8,9	5,6 Shoes#General 2 3,4	5,6 Shoes#Quality 2 4,5
+bought it for my mother and she always wears it .	-1,-1 Clothing#General 2 -1,-1
+They have good padding .	3,4 Shoes#Looking 2 2,3
+They can be dressed up or down ; wear them with shorts or a Summer dress .	0,1 Shoes#Looking 2 -1,-1
+So soft nice to wear .	-1,-1 Top#General 2 2,3	-1,-1 Top#Quality 2 0,2
+It looks tan , does n't look like the picture at all .	-1,-1 Bottom#Looking 0 -1,-1
+She says they are durable and do not run easily	2,3 Clothing#Quality 2 4,5	2,3 Clothing#Quality 2 -1,-1
+wore them with a leotard and pink wig at a drag party , loved the attention that I got , they felt so good wearing , but my wife wo n't let me wear again til next year , cant wait , very durable	20,21 Clothing#Looking 2 13,14	20,21 Clothing#Size 2 22,24	20,21 Clothing#Quality 2 42,44
+great stuff !	1,2 Clothing#General 2 0,1
+Great ballet pink color .	3,4 Clothing#Looking 2 0,1
+But overall I 'm glad I purchased them .	7,8 Bottom#General 2 4,5
+I wore these tights to my ballet class and my legs were the darkest of all .	3,4 Bottom#Looking 2 13,14
+love the way they look .	4,5 Shoes#Looking 2 0,1
+The color is a very pretty pink .	1,2 Bottom#Looking 2 4,6

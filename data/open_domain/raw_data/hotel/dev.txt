@@ -1,0 +1,349 @@
+A wonderful location with great amenities and very clean .	2,3 Location#General 2 1,2	2,3 Location#General 2 7,9	5,6 Room_Amenities#General 2 4,5
+You probably would n't find a better location than this .	7,8 Location#General 2 6,7
+Thank you !	-1,-1 Service#General 2 0,1
+Cozy bed , and good shower !	1,2 Rooms#Comfort 2 0,1	5,6 Room_Amenities#General 2 4,5
+Excellent host .	1,2 Service#General 2 0,1
+Awesome hosts , very comfortable and clean room .	1,2 Service#General 2 0,1	7,8 Rooms#Cleanliness 2 6,7	7,8 Rooms#Comfort 2 3,5
+The unit was as described and the location ca n't be beat !	7,8 Location#General 2 -1,-1
+She was very helpful and the flat is well prepped .	6,7 Hotel#General 2 8,9	-1,-1 Service#General 2 2,4
+Jason gave us lots of recommendation on what to do in Boston .	5,6 Service#General 2 -1,-1
+Nice clean bathroom with a shower with very good water pressure .	9,11 Room_Amenities#Quality 2 7,9	2,3 Rooms#Cleanliness 2 0,2
+fantastic , convenient , spotless !	-1,-1 Hotel#Cleanliness 2 4,5	-1,-1 Hotel#General 2 0,1	-1,-1 Location#General 2 2,3
+The location is tops , and the place is very large .	7,8 Hotel#Design_features 2 9,11	1,2 Location#General 2 3,4
+The only down side was the loft bed space which was a little claustrophobic and for older people like us ( ! )	6,9 Rooms#Design_features 2 -1,-1
+Nice , quiet spot close to the pond and good shops , while just 20 mins on the T if you 're looking to go downtown .	3,4 Location#General 2 -1,-1	3,4 Location#General 2 2,3	3,4 Location#General 2 0,1
+Great location with T stops close by , and lovely Brookline to explore .	1,2 Location#General 2 9,10	1,2 Location#General 2 -1,-1	1,2 Location#General 2 0,1
+We felt safely all the time .	-1,-1 Hotel#General 2 2,3
+George 's place was great !	0,3 Hotel#General 2 4,5
+The room was just as described and the neighborhood was quiet ... great find !	8,9 Location#General 2 10,11	-1,-1 Hotel#General 2 12,13
+The room had all promised amenities , whatever toiletries I needed and was very clean .	8,9 Room_Amenities#Design_features 2 -1,-1	8,9 Room_Amenities#Cleanliness 2 13,15	5,6 Room_Amenities#Design_features 2 -1,-1
+It also does n't hurt that JFK used to live on the same floor , some cool history .	-1,-1 Hotel#Design_features 2 16,17
+It was definitely a good place to get a taste of local living rather than staying in an apartment .	5,6 Hotel#General 2 4,5
+Best value for my money .	1,2 Hotel#Prices 2 0,1
+House is perfect , clean and with all facilities .	8,9 Facilities#Design_features 2 -1,-1	0,1 Hotel#Cleanliness 2 4,5	0,1 Hotel#General 2 2,3
+Wonderfully accommodating host .	2,3 Service#General 2 0,2
+In short , our stay at this apartment was absolutely incredible .	7,8 Hotel#General 2 9,11
+Todd kindly helped me to navigate everything and made this experience a truly positive one .	0,1 Service#General 2 1,2	-1,-1 Hotel#General 2 12,14
+Perfetto	-1,-1 Hotel#General 2 0,1
+Although we were not out too late at night we felt very safe walking back from the train .	-1,-1 Location#General 2 11,13
+You ca n't beat the location and her building has a roof deck that offers spectacular views of the city .	5,6 Location#General 2 -1,-1	16,17 Location#General 2 15,16
+Very convenient location and the number keypads made check-in very easy .	2,3 Location#General 2 0,2	5,7 Service#General 2 9,11
+Very convenient for Fenway Park .	-1,-1 Location#General 2 0,2
+Easy to access the subway to get downtown Boston .	-1,-1 Location#General 2 0,1
+I throughly enjoyed the view .	4,5 Location#General 2 1,3
+We loved going up onto the roof deck of the building and taking in the city and watching the sunset glow off of the State House - it was truly beautiful .	6,8 Room_Amenities#General 2 1,2	19,26 Location#General 2 29,31
+He resounded to our contacts quickly .	-1,-1 Service#General 2 5,6
+Penny is a wonderful , helpful and friendly host .	0,1 Service#General 2 3,4	0,1 Service#General 2 5,6	0,1 Service#General 2 7,8
+The condo was exactly as described and perfectly located in Boston .	1,2 Location#General 2 7,8
+So close to everything !	-1,-1 Location#General 2 -1,-1
+Spacious and in a great location .	5,6 Location#General 2 4,5	-1,-1 Hotel#Design_features 2 0,1
+Gloria was a wonderful host .	0,1 Service#General 2 3,4
+We really enjoyed our stay here !	-1,-1 Hotel#General 2 1,3
+The stairs are a lot and a bit tricky so it might be difficult for people who are in bad physical shape or have some disability .	1,2 Room_Amenities#Design_features 0 7,9	1,2 Room_Amenities#Design_features 0 13,14
+Great and smart place , cleaned room , easy check-in .	6,7 Rooms#Cleanliness 2 5,6	3,4 Hotel#General 2 2,3	3,4 Hotel#General 2 0,1	9,10 Service#General 2 8,9
+Plus if you 're there for tourism , Tiffany 's place is steps from the Freedom Trail , the Boston Commons and just far enough to walk off a cannoli or two from the North End .	8,11 Location#General 2 -1,-1
+Walk to the T and Boston Commons in less than 5 mins .	-1,-1 Location#General 2 -1,-1
+The check-in process was very easy .	1,3 Service#General 2 4,6
+Area is safe and well lit , no frills in the unit but it is very clean and well appointed and a great value .	11,12 Hotel#Design_features 2 18,19	23,24 Hotel#Prices 2 22,23	0,1 Location#General 2 4,5	11,12 Hotel#Cleanliness 2 15,17	0,1 Location#General 2 2,3
+Highly recommend her place .	3,4 Hotel#General 2 0,2
+The apartment itself is very cozy and quaint .	1,2 Hotel#Comfort 2 4,6	1,2 Hotel#Design_features 2 7,8
+Their place is a convenient 15 min drive from central Boston and super close to the airport .	1,2 Location#General 2 -1,-1	1,2 Location#General 2 4,5
+The room looks out on a lovely quiet neighborhood .	8,9 Location#General 2 6,7	8,9 Location#General 2 7,8
+Gloria made the check in process extremely easy - she was kind enough to meet one of my roommates early at the coffee house across the street from the house so that she could give keys and a tour of the space , which was extremely appreciated .	0,1 Service#General 2 11,12	0,1 Service#General 2 45,47	3,5 Service#General 2 6,8
+We could n't have asked for a better hostess , or first Airbnb experience .	12,13 Service#General 2 7,8	8,9 Service#General 2 7,8
+The building is nice and the lofted space was neat .	6,8 Facilities#Comfort 2 9,10	1,2 Hotel#General 2 3,4
+The house itself is located on a quiet street that , although hidden from the hustle and bustle of Jamaica Plain , was somehow still in the thick of everything .	8,9 Location#General 2 7,8
+The bed was so comfortable and the area was quiet for being on such a popular street .	1,2 Rooms#Comfort 2 3,5	7,8 Location#General 2 9,10	16,17 Location#General 2 15,16
+Tiffany 's place was perfectly located for what I needed .	0,3 Location#General 2 4,5
+My wife and I were very comfortable .	-1,-1 Hotel#General 2 5,7
+Overall , we enjoyed staying at her place in Beacon Hill .	7,8 Hotel#General 2 3,4
+Fantastic location .	1,2 Location#General 2 0,1
+We really recommend this place .	4,5 Hotel#General 2 1,3
+The place was very clean and nicely furnished .	1,2 Hotel#Cleanliness 2 3,5	1,2 Hotel#Design_features 2 6,7
+The house was a short 10 min walk to airport station which brings you everywhere around Boston by taking the metros .	1,2 Location#General 2 -1,-1
+Everything s perfectly the same as Penny describes and the same as In the picture , clean and comfortable Penny is really nice and gave me some suggestions for my visit In Boston .	19,20 Service#General 2 21,23	-1,-1 Hotel#Comfort 2 18,19	-1,-1 Hotel#General 2 2,3	-1,-1 Hotel#Cleanliness 2 16,17
+Slept like a log !	-1,-1 Rooms#Comfort 2 -1,-1
+Definitely recommend .	-1,-1 Hotel#General 2 0,2
+Happy we found this place , ty	4,5 Hotel#General 2 0,1
+Valeria and Jason were very kind hosts and very guestfriendly .	2,3 Service#General 2 4,6	2,3 Service#General 2 8,10	0,1 Service#General 2 4,6	0,1 Service#General 2 8,10
+The suggestions on where to eat and visit was spot on .	1,2 Service#General 2 9,11
+Location was excellent and being able to park our vehicle was a wonderful perk .	7,8 Facilities#General 2 12,13	0,1 Location#General 2 2,3
+We enjoyed our trip and would definitely be back !	-1,-1 Hotel#General 2 1,2
+Terry helped us out every time we needed it in terms of questions or problems .	0,1 Service#General 2 1,2
+Good location to lots of fun things in Allston and the train .	1,2 Location#General 2 0,1
+We appreciated the water in the room and the cleanliness of the whole house .	9,10 Hotel#Cleanliness 2 1,2	3,4 Room_Amenities#General 2 1,2
+Nice place .	1,2 Hotel#General 2 0,1
+Thanks Gloria !	1,2 Service#General 2 0,1
+If you are looking for a place to sleep and close to Harvard , this is a great option .	-1,-1 Hotel#General 2 17,18
+Decoration is at his best there and there is a lot of space for 4 people .	0,1 Hotel#Design_features 2 4,5
+Pictures are very accurate .	0,1 Service#General 2 2,4
+The loft was really charming and cozy , and Tiffany was super nice , responsive , and helpful .	9,10 Service#General 2 11,13	1,2 Hotel#General 2 3,5	1,2 Hotel#Comfort 2 6,7	9,10 Service#General 2 14,15	9,10 Service#General 2 17,18
+George 's place was quiet and close to everything .	0,3 Location#General 2 -1,-1	0,3 Hotel#Comfort 2 4,5
+The room as well as the bathroom next to it are nice and clean .	6,7 Rooms#Cleanliness 2 13,14	6,7 Rooms#General 2 11,12	1,2 Rooms#General 2 11,12	1,2 Rooms#Cleanliness 2 13,14
+The room was cozy and elegant , just as depicted in the pictures , and the spa-like bathroom adds a very nice touch .	22,23 Rooms#Comfort 2 20,22	1,2 Rooms#Comfort 2 3,4	1,2 Rooms#Design_features 2 5,6
+The apartment was nice and clean .	1,2 Hotel#Cleanliness 2 5,6	1,2 Hotel#General 2 3,4
+Very spacious home w/ incredible roof garden .	5,7 Room_Amenities#General 2 4,5	2,3 Hotel#General 2 0,2
+felt like a hotel room .	-1,-1 Hotel#General 2 -1,-1
+I liked the room very much .	3,4 Rooms#General 2 1,2
+I make numerous trips to Boston and staying in the apartment felt like it was my personal home base .	10,11 Hotel#Comfort 2 -1,-1
+Lastly , do n't ask if she offers discounts because when we did that the price miraculously went up on the listing .	-1,-1 Service#General 1 -1,-1
+Their house is very close to the subway station , with very safe neighborhood .	1,2 Location#General 2 -1,-1	13,14 Location#General 2 11,13
+In addition , the place was sparkling clean and had all of the amenities necessary for our stay .	13,14 Room_Amenities#General 2 -1,-1	4,5 Hotel#Cleanliness 2 6,8
+We enjoyed our stay .	-1,-1 Hotel#General 2 1,2
+It is centrally located as we walked almost everywhere .	-1,-1 Location#General 2 2,3
+The place itself is wonderful , managing to cram a lot of space into an apartment with an otherwise pretty low square footage .	1,2 Hotel#General 2 4,5
+Also a wonderful area to walk around .	3,4 Location#General 2 2,3
+Unique facility with a very cool loft sleeping area , climb up the ladder and crawl into a cozy bed .	1,2 Facilities#Design_features 2 0,1	19,20 Rooms#Comfort 2 18,19	6,9 Rooms#Comfort 2 4,6
+An all-around excellent experience , highly recommend !	-1,-1 Hotel#General 2 5,7	-1,-1 Hotel#General 2 2,3
+It was clean , comfortable , and cozy .	-1,-1 Hotel#Comfort 2 7,8	-1,-1 Hotel#Comfort 2 4,5	-1,-1 Hotel#Cleanliness 2 2,3
+The air conditioning was so appreciated !	1,3 Room_Amenities#General 2 4,6
+As a guest , you have high privacy because your room is located at the loft and you have a private bathroom .	7,8 Rooms#Comfort 2 6,7
+The house was minimally furnished , almost like someone had moved out and just left the beds and a couple of couches .	1,2 Hotel#Design_features 0 3,5	-1,-1 Hotel#Design_features 0 -1,-1
+The Meditation Room is a very comfortable place -- just as Todd described .	1,3 Rooms#Comfort 2 5,7
+Penny herself is great .	0,1 Service#General 2 3,4
+Not a big problem during the week , but there was a little more foot traffic during the weekend .	-1,-1 Location#General 0 -1,-1
+The house is spotless clean and the breakfast offered more than we expected : home made walnut muffins , coffee tea , oats and bread .	1,2 Hotel#Cleanliness 2 3,5	7,8 Food_Drinks#Quality 2 -1,-1
+For the backpackers , students and casual tourists you can not go wrong with this place .	15,16 Hotel#General 2 -1,-1
+Also , the location was perfect ! !	3,4 Location#General 2 5,6
+Loved being just across the street from the Boston Commons .	-1,-1 Location#General 2 0,1
+Great location -- convenient to T and back bay ; Wonderful and quiet neighborhood .	13,14 Location#General 2 12,13	13,14 Location#General 2 10,11	1,2 Location#General 2 0,1	1,2 Location#General 2 3,4
+The apartment was minimal , but exactly what it should be for a stay in this area .	1,2 Hotel#General 2 -1,-1	1,2 Hotel#Design_features 0 3,4
+The mezzanine bedroom was such a unique twist on a studio design- truly a treat : ) .	1,3 Rooms#Design_features 2 6,7	1,3 Rooms#Comfort 2 14,15
+All but two of the rooms are air conditioned and all have comfortable beds .	-1,-1 Room_Amenities#General 2 -1,-1	13,14 Rooms#Comfort 2 12,13
+Literally 4 minutes away from everything and so worth it if you are planning a trip to Boston .	-1,-1 Location#General 2 8,9	-1,-1 Location#General 2 -1,-1
+The only thing that might be difficult for some is the need to climb 2 flights of stairs to access the bedroom .	17,18 Room_Amenities#General 0 6,7
+Clean , comfortable place to stay on beautiful Newbury Street .	3,4 Hotel#Comfort 2 2,3	3,4 Hotel#Cleanliness 2 0,1	8,10 Location#General 2 7,8
+The AC is by two window units which worked well .	1,2 Room_Amenities#General 2 9,10
+Tiffany was such a courteous and responsive host .	0,1 Service#General 2 6,7	0,1 Service#General 2 4,5
+Nice people .	1,2 Service#General 2 0,1
+The unit is also close to public transportation in order to see other sites .	1,2 Location#General 2 -1,-1
+A quiet , respectable place with a lovely view !	4,5 Hotel#Design_features 2 3,4	8,9 Location#General 2 7,8	4,5 Hotel#Comfort 2 1,2
+They are great .. i would stay here again	0,1 Hotel#General 2 2,3
+Very friendly hosts also .	2,3 Service#General 2 0,2
+The room is beautiful , as is the bathroom .	8,9 Rooms#General 2 3,4	1,2 Rooms#Design_features 2 3,4
+The room was exactly as described and expected .	1,2 Hotel#General 2 -1,-1
+In terms of location , the house is ideally located for visiting the main sites and central Boston - a 10 minute walk to the airport station which takes you to the city in a couple of stops .	3,4 Location#General 2 -1,-1	3,4 Location#General 2 8,9
+The only problem was that cleaning was not perfect .	5,6 Hotel#Cleanliness 0 7,9
+Dat werkte uitstekend omdat ik niet de exacte tijd van mijn aankomst wist .	-1,-1 Service#General 2 2,3
+Everything was very clean and there is a window air conditioner in the room , so guests can control the temperature- which is super nice !	-1,-1 Hotel#Cleanliness 2 2,4	8,11 Room_Amenities#General 2 23,25
+Great location , great value .	1,2 Location#General 2 0,1	4,5 Hotel#General 2 3,4
+Gleaming hardwood floors , 25 foot ceilings -- I felt like I was in a historic mansion .	16,17 Hotel#Design_features 2 15,16
+It 's one of if not the best value in Boston .	-1,-1 Hotel#General 2 7,9
+Awesome location near the T station , with easy access to Back Bay and Downtown .	1,2 Location#General 2 8,9	1,2 Location#General 2 -1,-1	1,2 Location#General 2 0,1
+A great place - very comfortable bed and about 2 blocks to the nearest Metro station .	6,7 Rooms#Comfort 2 4,6	2,3 Hotel#General 2 1,2
+The room is very neat and clean .	1,2 Rooms#Cleanliness 2 6,7	1,2 Rooms#Cleanliness 2 3,5
+The kitchen is completey set up , and is awsome .	1,2 Rooms#General 2 9,10	1,2 Rooms#Design_features 2 3,6
+Having a good space to cook in was really important to me when looking for a place to stay , and Tiffany 's kitchen absolutely did n't disappoint .	21,24 Rooms#General 2 25,28
+Not realizing until I arrived , the private entrance is an added convenience .	7,9 Facilities#General 2 12,13
+Tiffany was easy to communicate with throughout our stay and it was clear that she has put a lot of thought into making sure her guests are comfortable .	0,1 Service#General 2 2,3	0,1 Service#General 2 27,28
+I am here to travel , and this place is great for travelers .	8,9 Hotel#General 2 10,11
+Stairs are not for older persons with bad knees .	0,1 Room_Amenities#General 0 -1,-1
+No disturbances other than bedroom not having blackout curtains .	7,9 Room_Amenities#Design_features 0 -1,-1
+The neighborhood was ideal .	1,2 Location#General 2 3,4
+This place was perfect for me , in town for a conference for work , which was a quick walk across the common .	1,2 Location#General 2 18,19	1,2 Hotel#General 2 3,4
+Very clean and worth the price !	5,6 Hotel#Prices 2 3,4	-1,-1 Hotel#Cleanliness 2 0,2
+We had a very good stay .	-1,-1 Hotel#General 2 3,5
+We also discovered all the smoke detectors tossed in a cabinet and a moldy bowl of popcorn in the kitchen .	19,20 Rooms#Cleanliness 0 -1,-1
+Super clean .	-1,-1 Hotel#Cleanliness 2 0,2
+There 's plenty to do in Charlestown , or it 's just a short walk to get downtown .	-1,-1 Location#General 2 -1,-1
+Tiffany is lovely and left , milk , eggs , coffee .	0,1 Service#General 2 2,3
+Loved having Netflix and Hulu available while I was preparing for my early morning meeting the next day .	2,5 Facilities#General 2 0,1
+We absolutely loved our time at Penny 's place !	-1,-1 Hotel#General 2 1,3
+Loved the place !	2,3 Hotel#General 2 0,1
+Toiletries , first aid kit , cooking supplies and essentials to get you started .	-1,-1 Room_Amenities#Design_features 2 -1,-1
+Nice place , off-street parking is a nice plus , and when I had a question he answered the phone right away and was very helpful .	1,2 Hotel#General 2 0,1	3,5 Location#General 2 7,8	-1,-1 Service#General 2 24,26	-1,-1 Service#General 2 20,22
+Penny 's warmth is wonderful in a very intesting surrounding easily accessible for different journeys arround Boston .	-1,-1 Location#General 2 10,12	0,3 Service#General 2 4,5	9,10 Location#General 2 7,9
+Quaint place , great location , clean , affordable , and very cozy .	1,2 Hotel#Cleanliness 2 6,7	1,2 Hotel#Comfort 2 11,13	1,2 Hotel#Prices 2 8,9	1,2 Hotel#Design_features 2 0,1	4,5 Location#General 2 3,4
+Tiffany made my first experience with airbnb perfect .	0,1 Service#General 2 -1,-1	-1,-1 Hotel#General 2 7,8
+Room and en-suite bathroom are spotless , warm , with mini fridge and spacious enough for two people .	0,1 Rooms#Comfort 2 7,8	0,1 Rooms#Cleanliness 2 5,6	3,4 Rooms#Cleanliness 2 5,6	0,1 Rooms#Design_features 2 13,15	3,4 Rooms#Comfort 2 7,8
+This is our first time using airbnb so bare with me on my feedback .	-1,-1 Service#General 2 -1,-1
+Tiffany 's place is very clean and homey , and I did n't want to leave !	0,3 Hotel#Cleanliness 2 5,6	0,3 Hotel#Comfort 2 7,8
+Location is within walking distance to Harvard Square .	0,1 Location#General 2 -1,-1
+Everything that you could need was placed in the room for us , we did n't even need to bring anything .	-1,-1 Hotel#General 2 -1,-1
+Nothing bad to say about my stay here .	-1,-1 Hotel#General 2 0,2
+Our stay was simply amazing and I would definitely opt to stay here again and would highly recommend .	-1,-1 Hotel#General 2 16,18	-1,-1 Hotel#General 2 3,5
+This is an excellent quiet , green location in Jamaica Pond , Boston , close to restaurants and shops and just a few minutes walk from the beautiful Jamaica Pond .	7,8 Location#General 2 3,4	7,8 Location#General 2 4,5	7,8 Location#General 2 -1,-1
+You can rest peacefully without city noises yet there are a couple of places to visit in a walking distance .	-1,-1 Rooms#Comfort 2 3,4	-1,-1 Location#General 2 -1,-1
+The house was very clean .	1,2 Hotel#Cleanliness 2 3,5
+had a great layout and design .	5,6 Hotel#Design_features 2 2,3	-1,-1 Hotel#Design_features 2 2,3
+Gloria 's house is perfect for visiting Boston and truly living its history and heritage .	0,3 Hotel#General 2 4,5
+The washer and dryer within the apartment was useful .	1,2 Room_Amenities#General 2 8,9	3,4 Room_Amenities#General 2 8,9
+Very accommodating owner and allowed us to use main space without any issues .	2,3 Service#General 2 0,2
+All bedrooms very-well furnished .	1,2 Rooms#Design_features 2 2,3
+All in all , a good space and great value .	9,10 Hotel#General 2 8,9	6,7 Hotel#General 2 5,6
+The conditions are good .	1,2 Hotel#General 2 3,4
+Please note this apartment did not seem to be `` lived-in , '' if you appreciate natural charm of other hosts ' human remnants .	-1,-1 Service#General 0 -1,-1
+We would book it again without hesitation , and would recommend it to others !	-1,-1 Hotel#General 2 10,11
+The place was clean and quiet , exactly like on the airbnb site .	1,2 Hotel#Cleanliness 2 3,4	1,2 Hotel#Comfort 2 5,6
+Check-in was easy , the space was clean and cute , Tiffany left us a super helpful guide , and the location was perfect .	5,6 Location#General 2 7,8	17,18 Service#General 2 15,17	0,1 Service#General 2 2,3	5,6 Location#General 2 9,10	21,22 Location#General 2 23,24
+We had a wonderful time staying at Gloria 's place .	7,8 Hotel#General 2 3,4	8,10 Hotel#General 2 3,4
+Our master suite , on the third level , was clean , private , and quiet .	1,3 Rooms#Comfort 2 15,16	1,3 Rooms#Cleanliness 2 10,11	1,3 Rooms#Comfort 2 12,13
+Heerlijke plaats om te verblijven .	1,2 Hotel#General 2 0,1
+Would recommend to others and stay here again !	-1,-1 Hotel#General 2 1,2
+The lofted bed was a fun experience and the TV with an apple tv was perfect for relaxing evenings .	1,3 Rooms#General 2 5,6	8,10 Room_Amenities#General 2 15,16	8,10 Room_Amenities#General 2 17,18
+I felt safe walking around late at night .	-1,-1 Location#General 2 2,3
+We enjoyed our stay a lot and the advice we were given was very helpful as we planned our days out !	8,9 Service#General 2 13,15	-1,-1 Hotel#General 2 1,2
+We would definitely stay here again and can just recommend this place , as it is also pretty near to the centre of Boston - 3 $ by uber !	11,12 Hotel#General 2 9,10	11,12 Location#General 2 17,18
+Penny 's airbnb met all our needs for our weekend in Jamaica Plain !	0,3 Hotel#General 2 -1,-1
+Right next to the Boston park and public garden , easy walk to the waterfront in multiple directions .	-1,-1 Location#General 2 10,11	-1,-1 Location#General 2 -1,-1
+Penny was a thoughtful host and was responsive and easy to make arrangements with .	0,1 Service#General 2 3,4	0,1 Service#General 2 9,10	0,1 Service#General 2 7,8
+His accommodation is considerate and professional .	1,2 Hotel#Quality 2 5,6	1,2 Hotel#Comfort 2 3,4
+Later that evening when we came back to the house , we fell asleep past the time that we were supposed to go out with a friend for dinner ; Valerie and Jason immediately offered us dinner without hesitation !	30,33 Service#General 2 33,34
+Perfect distance from the Convention center for anyone with an event !	-1,-1 Location#General 2 0,1
+we felt very safe .	-1,-1 Location#General 2 2,4
+The private bath was so convenient and had an excellent shower .	10,11 Room_Amenities#General 2 9,10	1,3 Rooms#Comfort 2 4,6
+My fiance and I had a lovely time .	-1,-1 Hotel#General 2 6,7
+Very accommodating host .	2,3 Service#General 2 0,2
+The room and their home are very cozy and clean .	4,5 Hotel#Cleanliness 2 9,10	1,2 Rooms#Comfort 2 6,8	4,5 Hotel#Comfort 2 6,8	1,2 Rooms#Cleanliness 2 9,10
+A great location , walking distance to the waterfront , right on the freedom trail and next to Boston Common .	2,3 Location#General 2 1,2	2,3 Location#General 2 -1,-1
+Really gorgeous city view at a better price than other central Boston locations .	3,4 Location#General 2 0,2	7,8 Hotel#Prices 2 6,7
+Great stay !	-1,-1 Hotel#General 2 0,1
+Within seconds she responded and told us what we needed to know .	-1,-1 Service#General 2 -1,-1
+Valerie and Jason are really helpful and nice .	2,3 Service#General 2 4,6	2,3 Service#General 2 7,8	0,1 Service#General 2 4,6	0,1 Service#General 2 7,8
+And her home was conveniently located to the downtown and surrounding neigborhoods .	2,3 Location#General 2 4,5
+I loved starting in Oine 's home .	4,7 Hotel#General 2 1,2
+We really enjoyed our stay in Valerie and Jason 's place .	-1,-1 Hotel#General 2 1,3
+The living room felt quite spacious for us ( a couple with a toddler ) , and we appreciated that it had a bathtub .	23,24 Room_Amenities#General 2 18,19	1,3 Rooms#Design_features 2 4,6
+great !	-1,-1 Hotel#General 2 0,1
+Super friendly , gave great local restaurant recommendations and were amazing with the communication .	13,14 Service#General 2 10,11	-1,-1 Service#General 2 0,2	5,8 Service#General 2 4,5
+The building is beautiful and conveniently located , the view from the roof is worth checking out , just like the description says .	1,2 Location#General 2 5,6	1,2 Hotel#Design_features 2 3,4	9,10 Location#General 2 14,15
+This location is great !	1,2 Location#General 2 3,4
+Joke aside , i really appreciate Penny 's hospitality and the level of her thoughtfulness is unbelievable .	14,15 Service#General 2 16,17	8,9 Service#General 2 4,6
+The apartment was in the perfect location , and the loft set up is so fun .	10,11 Hotel#Design_features 2 14,16	6,7 Location#General 2 5,6
+My room was very spacious with a big closet and my bed was so comfortable with tons of pillows !	11,12 Rooms#Comfort 2 13,15	8,9 Room_Amenities#Design_features 2 7,8	1,2 Rooms#Design_features 2 3,5
+Very clean place !	2,3 Hotel#Cleanliness 2 1,2
+Perfect location for seeing Boston .	1,2 Location#General 2 0,1
+Great spot for visiting HBS !	1,2 Hotel#General 2 0,1
+The arrival and self check-in could not have been easier -- my arrival was a breeze , and the room was clean and ready .	3,5 Service#General 2 9,10	1,2 Location#General 2 15,16	1,2 Location#General 2 9,10	19,20 Rooms#General 2 23,24	19,20 Rooms#Cleanliness 2 21,22
+I would highly recommend !	-1,-1 Hotel#General 2 2,4
+This is the perfect model for how Airbnb should be .	-1,-1 Hotel#General 2 3,4
+The room is a good size , and has an ensuite bathroom .	5,6 Rooms#Design_features 2 4,5
+The apartment was everything we expected and more .	1,2 Hotel#General 2 -1,-1
+Tiffany makes sure her place is welcoming & includes comforts of home .	4,5 Hotel#General 2 6,7	4,5 Hotel#Comfort 2 9,10
+If you 're looking for a bustling spot this ai n't it , but it 's safe , quiet , relaxing , and easy for uber/lyft to get you into the heart of Cambridge in minutes .	-1,-1 Location#General 2 20,21	-1,-1 Location#General 2 18,19	-1,-1 Location#General 2 23,24	-1,-1 Location#General 2 16,17
+It is in an excellent location for public transportation , but is off the main roads so it is quiet and safe .	5,6 Location#General 2 4,5	-1,-1 Location#General 2 21,22	-1,-1 Location#General 2 19,20
+Right next to a Starbucks and tons of Asian restaurants and fun stores .	-1,-1 Location#General 2 -1,-1
+I had a great visit at Tiffany 's place .	6,9 Hotel#General 2 3,4
+Had everything I needed for a weekend stay .	-1,-1 Hotel#General 2 -1,-1
+As a host , Tiffany was wonderful and attentive .	4,5 Service#General 2 8,9	4,5 Service#General 2 6,7
+Nice clean single room , close to both Cambridge and Brookline .	2,4 Rooms#Cleanliness 2 1,2	-1,-1 Location#General 2 -1,-1	2,4 Rooms#General 2 0,1
+I highly recommend staying here and would absolutely go back !	-1,-1 Hotel#General 2 1,3
+The place was warm , and the bed was very comfortable to sleep in .	7,8 Rooms#Comfort 2 9,11	1,2 Hotel#Comfort 2 3,4
+If you do n't mind climbing stairs , I would recommend this house .	12,13 Hotel#General 2 10,11
+Memorable experience !	-1,-1 Hotel#General 2 0,1
+Let me begin with everything that was great about this place - because there are no doubt notable positives .	10,11 Hotel#General 2 18,19
+The location is fantastic , really close to a metro station .	1,2 Location#General 2 -1,-1	1,2 Location#General 2 3,4
+Nice , clean , efficient room .	5,6 Rooms#Cleanliness 2 2,3	5,6 Rooms#General 2 0,1	-1,-1 Service#General 2 4,5
+) , and being able to stumble out of bed right down to Park Street Station was extremely nice once we realized that the T is n't as daunting as it looks .	-1,-1 Location#General 2 -1,-1
+Penny 's home is in an ideal location .	7,8 Location#General 2 6,7
+We loved this place !	3,4 Hotel#General 2 1,2
+Our stay with Valerie and Jason was incredible .	-1,-1 Hotel#General 2 7,8	3,6 Service#General 2 -1,-1
+Flat was VERY clean and bed was super comfortable .	0,1 Hotel#Cleanliness 2 2,4	5,6 Rooms#Comfort 2 7,9
+Tiffany was a great host !	0,1 Service#General 2 3,4
+This airbnb in walking distance to the subway , you can reach downtown very quickly .	1,2 Location#General 2 13,15	1,2 Location#General 2 -1,-1
+It 's also just a 10 minute walk to the closest T line station , Airport , so it 's convenient for getting into the city or to the airport for flights .	-1,-1 Location#General 2 20,21	-1,-1 Location#General 2 -1,-1
+The best part of the house is the location .	8,9 Location#General 2 1,2
+This is a great place to stay if you are wanting to experience all that Boston has to offer .	4,5 Hotel#General 2 3,4
+If you are over six foot you will not fit on the bed or the toilet not even close ( the loft the bed is in is about four feet high so you 're gon na have some trouble moving around ) .	12,13 Rooms#General 0 8,10	23,24 Rooms#Design_features 0 38,39	15,16 Rooms#General 0 8,10
+Great location close to shops , restaurants , trains and universities .	1,2 Location#General 2 -1,-1	1,2 Location#General 2 0,1
+Plenty of great food within walking distance Great historic place with Boston charm , very large and the roof top deck made the stay .	9,10 Hotel#Design_features 2 12,13	9,10 Hotel#General 2 7,8	9,10 Hotel#Design_features 2 14,16	18,21 Room_Amenities#General 2 -1,-1	9,10 Hotel#Design_features 2 8,9
+George was very helpful at check in and I barely saw him during my stay .	0,1 Service#General 2 2,4
+Tiffany is a very kind host , providing guides and stuff for visiting the city .	0,1 Service#General 2 3,5
+The location is very convenient and we walked to everything that we wanted to experience - Boston Common , North Boston , Freedom Trail , etc..	1,2 Location#General 2 3,5	1,2 Location#General 2 -1,-1
+We Look forward to staying here again .	-1,-1 Hotel#General 2 1,4
+Was such a great place to stay for our trip to Boston , Jason and Valerie were very welcoming and helpful when it came to recommendations , 10/10	13,14 Service#General 2 17,19	15,16 Service#General 2 17,19	15,16 Service#General 2 20,21	13,14 Service#General 2 20,21	4,5 Hotel#General 2 3,4
+Bed is very comfy .	0,1 Rooms#Comfort 2 2,4
+Excellent accommodations , very comfortable and a friendly host family made for a fine weekend .	1,2 Hotel#General 2 0,1	8,10 Service#General 2 7,8	1,2 Hotel#Comfort 2 3,5	-1,-1 Hotel#General 2 13,14
+The terrasse roof ( access not easy ) is to be shared with other guests which is not a problem but good to know .	1,3 Room_Amenities#Design_features 0 5,7
+Furniture was comfortable and we really enjoyed the extra-soft towels provided .	9,10 Room_Amenities#Comfort 2 8,9	0,1 Rooms#Comfort 2 2,3
+The kitchen area includes a fridge which is big enough to store a few items in overnight , but the lack of cooking facilities means you need to be ready to eat out for lunch and dinner .	22,24 Room_Amenities#Design_features 0 20,21	5,6 Room_Amenities#Design_features 2 8,9
+Acres of empty bookshelves , only one bedside table in all of the four bedrooms , arms of chairs and couches in the living room were loose .	16,19 Rooms#Quality 0 26,27	20,21 Rooms#Quality 0 26,27	3,4 Rooms#Design_features 0 2,3
+Thanks for a great stay , Penny !	-1,-1 Hotel#General 2 3,4	6,7 Service#General 2 0,1
+There is no sir conditioning inn the main space but the fans work perfectly .	11,12 Room_Amenities#General 2 13,14
+Overall a great alternative to the high priced hotels of downtown .	-1,-1 Hotel#General 2 2,3
+Comfortable room , friendly and welcoming host .	1,2 Hotel#Comfort 2 0,1	6,7 Service#General 2 5,6	6,7 Service#General 2 3,4
+We did n't know much about Boston prior to our stay , but we 're so happy we decided to stay in Back Bay and at Oines place .	-1,-1 Hotel#General 2 15,17
+Oine 's place is a really nice cozy place in a quiet neighborhood at walking distance of everything you need .	12,13 Location#General 2 11,12	0,3 Hotel#General 2 5,7	12,13 Location#General 2 -1,-1	0,3 Hotel#Comfort 2 7,8
+And , the location was fantastic .	3,4 Location#General 2 5,6
+Very quiet building and it does have an elevator , since it 's on the 4th floor ( top floor , so no one is above you ) I did n't mind the stairs at all .	2,3 Hotel#Comfort 2 0,2
+We fitted just fine with our family of four and Terry made sure we had clean sheets set up in the sofa-bed .	10,11 Service#General 2 -1,-1	-1,-1 Hotel#General 2 3,4	16,17 Room_Amenities#Cleanliness 2 15,16
+Penny is lovely , warm , and flexible .	0,1 Service#General 2 2,3	0,1 Service#General 2 4,5	0,1 Service#General 2 7,8
+She made special arrangements for us to pick up a key a little early which was great since we had very limited time in the city .	3,4 Service#General 2 16,17	3,4 Service#General 2 2,3
+It was easy to locate and access .	-1,-1 Location#General 2 2,3
+The apartment itself is nice .	1,2 Hotel#General 2 4,5
+Her communication was prompt and accurate and met us at the apartment to explain various things and give us some local recommendations .	1,2 Service#General 2 3,4	1,2 Service#General 2 5,6
+True to their word , they met us at the apartment at a late hour and were very accommodating .	5,6 Service#General 2 17,19
+The location was perfect for us , and the loft was clean and inviting .	9,10 Hotel#General 2 13,14	9,10 Hotel#Cleanliness 2 11,12	1,2 Location#General 2 3,4
+Great flat .	1,2 Hotel#General 2 0,1
+Tiffany is an outstanding host as she goes above and beyond to make you feel at home .	0,1 Service#General 2 3,4	0,1 Service#General 2 -1,-1
+Tiffany was a superb host , very accommodating and communicative .	0,1 Service#General 2 9,10	0,1 Service#General 2 6,8	0,1 Service#General 2 3,4
+She made certain I knew where I was going , what to expect etc .	-1,-1 Service#General 2 -1,-1
+Gloria and her son ( who showed us in ) were very responsive and polite .	0,1 Service#General 2 11,13	0,1 Service#General 2 14,15
+Penny 's home is a treasure hidden away on a little side street .	0,3 Hotel#General 2 5,6
+Great place when staying in Back Bay .	1,2 Hotel#General 2 0,1
+The bathroom on the ground floor is a bit awkward	1,2 Rooms#Comfort 0 7,10
+We are a family of 4 and there was plenty of room .	11,12 Rooms#Design_features 2 9,10
+We met him briefly but enjoyed talking to him .	6,7 Service#General 2 5,6
+The location was okay , not so close from commodities ( grocery , convenience store , restaurants etc ) , but the neighborhood was quiet .	22,23 Location#General 2 24,25	1,2 Location#General 2 3,4
+Great old loft in a perfect location for visiting Boston .	2,3 Hotel#General 2 0,1	6,7 Location#General 2 5,6
+I had a bit of a chuckle when she apologized for taking a whole 20 minutes to get back to me on a totally non-emergency subject ; just goes to show that she definitely makes great communication a priority !	36,37 Service#General 2 35,36
+Beautiful room , very clean , very comfy .	1,2 Rooms#Design_features 2 0,1	1,2 Rooms#Comfort 2 6,8	1,2 Rooms#Cleanliness 2 3,5
+Thanks again Penny !	2,3 Service#General 2 0,1
+Our stay at Terry 's was perfect .	-1,-1 Hotel#General 2 6,7
+Considering the price of hotels in Boston , this place was a huge bargin !	9,10 Hotel#Prices 2 12,14
+She was accommodating to our check in and check out times .	-1,-1 Service#General 2 -1,-1
+Terry was very quick to our questions regarding laundry room .	0,1 Service#General 2 2,4
+Penny provided breakfast items , including coffee , muffins and fresh fruit , which we enjoyed on her sweet back patio one of our two mornings .	11,12 Food_Drinks#Quality 2 10,11	19,21 Facilities#Design_features 2 18,19	11,12 Food_Drinks#Quality 2 15,16
+I 'm always wary of places that are shared with the host ( as opposed to a whole apartment/house listing ) , but George was fantastic and completely unintrusive .	23,24 Service#General 2 25,26
+Such an awesome experience at their place !	-1,-1 Hotel#General 2 2,3
+So kind and very nice to talk to .	-1,-1 Service#General 2 3,5	-1,-1 Service#General 2 0,2
+Gorgeous neighbourhood , great location .	1,2 Location#General 2 0,1	4,5 Location#General 2 3,4
+The loft bedroom made it somewhat difficult for my 6ft tall 200+ pound husband ( because it 's not standing room ) , but even with his size he was comfortable and had no qualms about the sleeping arrangements .	1,3 Rooms#Comfort 2 30,31	1,3 Rooms#Design_features 0 6,7
+It was our first airbnb experience and was more than we had hoped for .	-1,-1 Hotel#General 2 -1,-1
+Had a conference in the Seaport and George 's place was the perfect location .	7,8 Hotel#General 2 12,13	8,10 Hotel#General 2 12,13
+It is located right at the beginning of the Freedom Trail and is an easy 15 minute walk from anywhere you want to go .	-1,-1 Location#General 2 -1,-1
+Would highly recommend it !	-1,-1 Hotel#General 2 1,3
+The room itself is very cozy with a cute reading nook , an inspiring quote in the bathroom , comfy bed , and the large window with a great view !	20,21 Rooms#Comfort 2 19,20	29,30 Location#General 2 28,29	25,26 Rooms#Design_features 2 24,25	9,11 Rooms#Design_features 2 8,9	1,2 Rooms#Comfort 2 4,6
+Amazing place not far from the center of Boston .	1,2 Hotel#General 2 0,1
+Penny has plenty of great information about the locality to share for those who want it , and we had a good chats without feeling pressure to do so .	22,23 Service#General 2 21,22	5,6 Service#General 2 2,5
+Clean room with just what one would need for a couple night stay .	1,2 Rooms#Cleanliness 2 0,1
+Gloria was a terrific host .	0,1 Service#General 2 3,4
+The room is very clean , the bed was very comfortable .	1,2 Rooms#Cleanliness 2 3,5	7,8 Rooms#Comfort 2 9,11
+The location is convenient to good eats and places to explore .	1,2 Location#General 2 3,4
+It was quiet , super clean , and very cozy .	-1,-1 Hotel#Comfort 2 2,3	-1,-1 Hotel#Comfort 2 8,10	-1,-1 Hotel#Cleanliness 2 4,6
+Great location near HBS 's campus .	1,2 Location#General 2 -1,-1	1,2 Location#General 2 0,1
+If & when we 're able to revisit Boston , we 'll most definitely check for availability in Oine 's great home !	-1,-1 Hotel#General 2 20,21
+I would highly recommend you stay with Tiffany when visiting Boston !	-1,-1 Hotel#General 2 2,4
+First of all , I read the other comments about how the toilet was not flushed and properly cleaned upon arrival and hoped it would n't happen during my stay , but finally checked in and was disappointed to find the same thing .	12,13 Rooms#Cleanliness 2 37,38
+This apt is close to a T station and located in a lovely neighborhood .	13,14 Location#General 2 12,13	1,2 Location#General 2 -1,-1
+I ca n't really think of anything that could be improved !	-1,-1 Hotel#General 2 -1,-1
+They are great hosts and try to help you in anyway you can think of !	0,1 Service#General 2 2,3	0,1 Service#General 2 7,8
+Valerie and Jason were very accommodating as our plans had to change last minute due to a nor'easter ( no surprise there ) .	0,1 Service#General 2 4,6	2,3 Service#General 2 4,6
+Great place but smaller than I expected .	1,2 Hotel#General 2 0,1	1,2 Hotel#Design_features 0 3,4
+It 's convenient and in walking distance to everything .	-1,-1 Location#General 2 2,3
+Excellent place to stay	1,2 Hotel#General 2 0,1
+Lots of clean towels , extra linens , wifi , a/c , and Apple TV .	3,4 Room_Amenities#Cleanliness 2 2,3
+Brent 's apartment is in the heart of Back Bay .	0,3 Location#General 2 -1,-1
+For our convenience , she also left us a binder with local eateries and their menus ... a great touch !	-1,-1 Service#General 2 18,19
+Plenty of comfortable furniture , extra blankets if needed , the roof top was incredible .	3,4 Rooms#Design_features 2 0,1	3,4 Rooms#Comfort 2 2,3	11,13 Room_Amenities#General 2 14,15
+The attention to detail and service provided was n't intrusive at all but definitely noticed and appreciative .	3,4 Service#General 2 16,17	3,4 Service#General 2 8,10	5,6 Service#General 2 16,17	5,6 Service#General 2 8,10
+Quite and safe neighborhood .	3,4 Location#General 2 2,3	3,4 Location#General 2 0,1
+We turned in our rental car at the airport after checking in and used public transport for touring Boston so were n't bothered about parking .	24,25 Facilities#General 2 21,23
+Very friendly and responsive hosts and clean unit .	4,5 Service#General 2 3,4	4,5 Service#General 2 0,2	7,8 Hotel#Cleanliness 2 6,7
+They also think of the little things we would want like coffee , a quick breakfast , and a comfy bed !	15,16 Food_Drinks#Style_Options 2 14,15	20,21 Rooms#Comfort 2 19,20
+This was the perfect location to end our trip to the east coast .	4,5 Location#General 2 3,4
+Everything one could want in a tiny little package !	-1,-1 Hotel#General 2 -1,-1
+Overall , it was a great experience and we would stay here again ( but maybe when the kids are a bit older ) !	-1,-1 Hotel#General 2 5,6
+Friendly , considerate , overall a great host !	-1,-1 Service#General 2 0,1	-1,-1 Service#General 2 6,7	-1,-1 Service#General 2 2,3
+The place was easy to locate and walking distance to my destination .	1,2 Location#General 2 -1,-1	1,2 Location#General 2 3,4
+Thanks for the toiletries !	3,4 Room_Amenities#General 2 0,1
+Penny is a gracious host .	0,1 Service#General 2 3,4
+Room is clean .	0,1 Rooms#Cleanliness 2 2,3
+I found Todd extremely responsive and he had that great energy going , which as truly positive .	2,3 Service#General 2 3,5	2,3 Service#General 2 15,17
+What a PERFECT location and lovely home in Boston .	3,4 Location#General 2 2,3	6,7 Hotel#General 2 5,6
+The home is clean and well maintained , very comfortable bed .	10,11 Rooms#Comfort 2 8,10	1,2 Hotel#Cleanliness 2 5,6	1,2 Hotel#Cleanliness 2 3,4
+We have recommended this location to over 100 different people and clients at the conference that we attended throughout the week and promise that anyone staying will enjoy the location and all of its wonderful amenities !	4,5 Hotel#General 2 2,3	35,36 Room_Amenities#General 2 34,35
+We were so comfortable for the weekend !	-1,-1 Hotel#Comfort 2 2,4
+Shockingly great location , right in the heart of Newbury St shopping and restaurant area .	2,3 Location#General 2 0,2	2,3 Location#General 2 -1,-1
+The room is quite and cozy .	1,2 Rooms#Comfort 2 5,6	1,2 Rooms#Comfort 2 3,4
+Our stay at Tiffany 's apartment was a good one .	3,6 Hotel#General 2 8,9
