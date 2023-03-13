@@ -2,8 +2,7 @@ import random
 
 
 pos_idx_ls, neg_idx_ls, sample_idx_ls = [], [], []
-# random.seed(33) # shot=30
-random.seed(153) # shot=20
+random.seed(153)
 
 
 def read_line_examples_from_dataset_file(data_path, silence=True):
@@ -43,6 +42,6 @@ def convert_idx_format_to_text_format(datasets, num_shot):
 
 
 if __name__ == '__main__':
-    num_shot = 30
+    num_shot = 20
     datasets = ['14lap']
     convert_idx_format_to_text_format(datasets, num_shot)
