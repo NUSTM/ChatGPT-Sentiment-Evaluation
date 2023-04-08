@@ -14,9 +14,10 @@ def read_line_examples_from_raw_dataset_file(data_path, silence=True):
             if line != '':
                 sample = line.split('\t')
 
-                words = sample[1].split(' ')
+                # words = sample[1].split(' ')
 
-                labels_seq = sample[2]
+                # labels_seq = sample[2]
+                labels_seq = sample[1]
                 labels_seq_ls = labels_seq.split("}, {")
                 for label_seq in labels_seq_ls:
                     label_seq = label_seq.replace("[{", "").replace("}]", "")
@@ -35,7 +36,8 @@ def read_line_examples_from_raw_dataset_file(data_path, silence=True):
                                 pairs.append([aspect_words, sentiment_word])
                 if len(pairs) > 0:
                     for pair in pairs:
-                        sents.append(sample[1])
+                        # sents.append(sample[1])
+                        sents.append(sample[0])
                         labels.append(pair) 
     if silence:
         print(f"Total examples = {len(sents)}")
