@@ -1,6 +1,9 @@
 # Is ChatGPT a Good Sentiment Analyzer?
 
 
+**Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study** [[arXiv:2304.04339]](https://arxiv.org/pdf/2304.04339.pdf)
+
+In this repo, we release the test sets we used for evaluation in our paper.
 
 
 ## Introduction (TL;DR)
