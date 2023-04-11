@@ -9,34 +9,21 @@ Recently, ChatGPT has drawn great attention from both the research community and
 
 To answer this question, we conduct a preliminary evaluation on **5** representative sentiment analysis tasks and **18** benchmark datasets, which involves four different settings including **standard evaluation**, **polarity shift evaluation**, **open-domain evaluation**, and **sentiment inference evaluation**. We compare ChatGPT with fine-tuned BERT-based models and corresponding SOTA models on each task for reference.
 
-## Standard Evaluation
 
-*100 instances per dataset per task*
+Through rigorous evaluation, our findings are as follows:
 
-**Sentence-level Sentiment Classification**: SST-2
+1. **ChatGPT exhibits impressive zero-shot performance in sentiment classification tasks** and can rival fine-tuned BERT, although it falls slightly behind the domain-specific fullysupervised SOTA models.
+2. **ChatGPT appears to be less accurate on sentiment information extraction tasks such as E2E-ABSA.** Upon observation, we find that ChatGPT is often able to generate reasonable answers, even though they may not strictly match the textual expression. From this point of view, the exact matching evaluation in information extraction is not very fair for ChatGPT. **In our human evaluation, ChatGPT can still perform well in these tasks.**
+3. **Few-shot prompting (i.e., equipping with a few demonstration examples in the input) can significantly improve performance across various tasks, datasets, and domains**, even surpassing fine-tuned BERT in some cases but still being inferior to SOTA models.
+4. When coping with the **polarity shift phenomenon (e.g., negation and speculation)**, a challenging problem in sentiment analysis, **ChatGPT can make more accurate predictions than fine-tuned BERT**.
+5. Compared to the conventional practice - training domain-specific models, which typically perform poorly when generalized to unseen domains, **ChatGPT demonstrates its powerful open-domain sentiment analysis ability in general**, yet it is still worth noting that its performance is quite limited in a few specific domains.
+6. **ChatGPT exhibits impressive sentiment inference ability**, achieving comparable performance on the emotion cause extraction task or emotion-cause pair extraction task, in comparison with the fully-supervised SOTA models we set up.
 
-**Aspect-Based Sentiment Classification**: 14-Lap, 14-Res
+In summary, compared to training a specialized sentiment analysis system for each domain or dataset, **ChatGPT can already serve as a universal and well-behaved sentiment analyzer**.
 
-**E2E ABSA**: 14-Lap, 14-Res
+## Evaluation
+### Standard Evaluation
 
-## Polarity Shifting Evaluation
-
-*100 instances per dataset per task*
-
-**Sentence-level Sentiment Classification**: TODO
-
-**ABSC**: [14-Res-Spec, 14Lap-Spec, 14-Res-Neg, 14Lap-Neg](https://github.com/jerbarnes/multitask_negation_for_targeted_sentiment)
-
-## Open Domain Evalation
-
-*ABSC: 50 instances per dataset*
-
-*E2E-ABSA: 30 instances per dataset*
-
-**ABSC** & **E2E-ABSA**: 14-Res, 14-Lap, Twitter14, Book-ACOS, Clothing-ACOS, Hotel-ACOS, [Financial-News-Headline](https://www.kaggle.com/datasets/ankurzing/aspect-based-sentiment-analysis-for-financial-news), Service, Device, [METS-CoV](https://github.com/YLab-Open/METS-CoV)
-
-## Emotion Cognition Evalution
-
-*100 instances per dataset*
-
-**ECE** & **ECPE**: [Ding et al. 2021](https://github.com/NUSTM/ECPE)
+<!-- <div align=center>![image]() -->
+  
+<div align=center><img src="[https://img-blog.csdnimg.cn/20200725104000982.png](https://user-images.githubusercontent.com/46218454/231040827-e6641bb9-af0a-459c-83f7-38544e298a23.png)" width="100%"></div>
