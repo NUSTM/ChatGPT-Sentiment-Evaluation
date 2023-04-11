@@ -3,7 +3,7 @@
 
 
 
-## Introduction
+## Introduction (TL;DR)
 
 Recently, ChatGPT has drawn great attention from both the research community and the public. However, despite its huge success, we still know little about the capability boundaries, i.e., where it does well and fails. we are particularly curious how ChatGPT performs on the sentiment analysis tasks, i.e., **Can it really understand the *opinions*, *sentiments*, and *emotions* contained in the text?**
 
@@ -24,6 +24,45 @@ In summary, compared to training a specialized sentiment analysis system for eac
 ## Evaluation
 ### Standard Evaluation
 
-<!-- <div align=center>![image]() -->
-  
-<div align=center><img src="[https://img-blog.csdnimg.cn/20200725104000982.png](https://user-images.githubusercontent.com/46218454/231040827-e6641bb9-af0a-459c-83f7-38544e298a23.png)" width="100%"></div>
+#### Zero-shot Results
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231040827-e6641bb9-af0a-459c-83f7-38544e298a23.png" width="80%"></div>
+
+Human Evaluation (still in zero-shot)
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231041803-e3b24e97-b25d-41e8-8149-7c8cfab370a6.png" width="40%"></div>
+
+
+
+
+#### Few-shot Prompting
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231041595-ad6b95e7-fdb0-47a8-bf9d-d439dd2988d5.png" width="80%"></div>
+
+
+### Polarity Shift Evaluation
+
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231042068-4ceda66a-af79-45d2-ba2d-b3a9ffb7c832.png" width="40%"></div>
+
+
+### Open-Domain Evaluation
+
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231042280-300e61cf-e88d-4ea8-b113-adab121891c5.png" width="80%"></div>
+
+
+
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231042325-b029279d-e1d8-4421-9abc-f6f21856cbe9.png" width="80%"></div>
+
+
+
+###  Sentiment Inference Evaluation
+
+We choose the ECE and ECPE tasks as the testbed.
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231042755-b8340dcb-9dc6-45f0-81fd-77dbe82f8e15.png" width="40%"></div>
+
+
+
