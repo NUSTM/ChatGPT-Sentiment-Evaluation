@@ -21,6 +21,20 @@ Through rigorous evaluation, our findings are as follows:
 
 In summary, compared to training a specialized sentiment analysis system for each domain or dataset, **ChatGPT can already serve as a universal and well-behaved sentiment analyzer**.
 
+
+## Citation
+
+If you find this work helpful, please consider citing our work as follows:
+
+```
+@article{wang2023chatgpt-sentiment,
+  title={Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study},
+  author={Zengzhi Wang and Qiming Xie and Zixiang Ding and Yi Feng and Rui Xia},
+  journal={arXiv preprint},
+  year={2023}
+}
+```
+
 ## Evaluation
 ### Standard Evaluation
 
@@ -64,5 +78,37 @@ We choose the ECE and ECPE tasks as the testbed.
 
 <div align=center><img src="https://user-images.githubusercontent.com/46218454/231042755-b8340dcb-9dc6-45f0-81fd-77dbe82f8e15.png" width="40%"></div>
 
+
+## Case Study
+
+### Standard Evaluation
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231044048-88222746-f2bd-453a-a388-b5ae1140721f.png" width="70%"></div>
+
+### Polarity Shift Evaluation
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231044246-78c7c06c-03fd-4209-9274-2143ca053eee.png" width="70%"></div>
+
+
+### Open-Domain Evaluation
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231044402-a30959ed-5518-40ad-aca1-81cf31721cd6.png" width="70%"></div>
+
+
+### Sentiment Inference Evaluation
+
+#### Emotion Cause Extraction (ECE)
+
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231044708-e23c9391-0fc6-4ade-a454-a434fd2d1fe7.png" width="70%"></div>
+
+#### Emotion-Cause Pair Extraction (ECPE)
+
+
+
+<div align=center><img src="https://user-images.githubusercontent.com/46218454/231045221-77f68a48-670b-45e1-b32d-272ec9b18f87.png" width="70%"></div>
+
+
+> Note that the right part is the English version translation of the left part for both ECE and ECPE.
 
 
