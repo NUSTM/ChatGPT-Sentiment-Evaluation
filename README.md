@@ -8,7 +8,7 @@ In this repo, we release the test sets we used for evaluation in our paper.
 
 ## Introduction (TL;DR)
 
-Recently, ChatGPT has drawn great attention from both the research community and the public. However, despite its huge success, we still know little about the capability boundaries, i.e., where it does well and fails. we are particularly curious how ChatGPT performs on the sentiment analysis tasks, i.e., **Can it really understand the *opinions*, *sentiments*, and *emotions* contained in the text?**
+Recently, ChatGPT has drawn great attention from both the research community and the public. However, despite its huge success, we still know little about the capability boundaries, i.e., where it does well and fails. We are particularly curious how ChatGPT performs on the sentiment analysis tasks, i.e., **Can it really understand the *opinions*, *sentiments*, and *emotions* contained in the text?**
 
 To answer this question, we conduct a preliminary evaluation on **5** representative sentiment analysis tasks and **18** benchmark datasets, which involves four different settings including **standard evaluation**, **polarity shift evaluation**, **open-domain evaluation**, and **sentiment inference evaluation**. We compare ChatGPT with fine-tuned BERT-based models and corresponding SOTA models on each task for reference.
 
