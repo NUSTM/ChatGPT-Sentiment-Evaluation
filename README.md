@@ -27,7 +27,7 @@ In summary, compared to training a specialized sentiment analysis system for eac
 
 ## Citation
 
-If you find this work helpful, please consider citing our work as follows:
+If you find this work helpful, please cite our paper as follows:
 
 ```
 @article{wang2023chatgpt-sentiment,
