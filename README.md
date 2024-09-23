@@ -30,11 +30,13 @@ In summary, compared to training a specialized sentiment analysis system for eac
 If you find this work helpful, please cite our paper as follows:
 
 ```
-@article{wang2023chatgpt-sentiment,
-  title={Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study},
-  author={Zengzhi Wang and Qiming Xie and Zixiang Ding and Yi Feng and Rui Xia},
-  journal={arXiv preprint},
-  year={2023}
+@inproceedings{
+wang2024is,
+title={Is Chat{GPT} a Good Sentiment Analyzer?},
+author={Zengzhi Wang and Qiming Xie and Yi Feng and Zixiang Ding and Zinong Yang and Rui Xia},
+booktitle={First Conference on Language Modeling},
+year={2024},
+url={https://openreview.net/forum?id=mUlLf50Y6H}
 }
 ```
 
